@@ -25,10 +25,49 @@ tags:
 
 ## Unique Ability
 ##### *River Raids*
-- Gain Culture when pillaging Buildings or Improvements equal to the other Yield or Healing gained
-- Land Military Units gain the Amphibious ability; Civilian and Support Units gain +3 Movement Speed while Embarked
+- Land Units gain Culture when Pillaging Buildings or Improvements equal to the Yield or Healing gained
+- Land Military Units gain the Amphibious ability
+- +2/+4/+6 Culture and Food on Lakes
+- [Mod] +1 Tourism from Districts and Improvements on Lakes
 
-## Civic Tree
+## Unique Infrastructure
+##### Improvement: *Kabaka's Lake*
+- +3 Happiness
+- Counts as a Lake for bonuses and adjacencies
+- Must be placed on Flat Terrain
+- One per Settlement
+
+## Unique Units
+##### Infantry Unit: *Abambowa*
+- Heals +10 HP from Pillaging any tile
+##### Army Commander: *Mwami*
+- Land Units gain +100% Yields and Healing from Pillaging within the Command Radius
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *'Nnalubaale*
 - Unlocks the **Kabaka's Lake** Unique Improvement
 - +2 Culture and Food on Lakes and Navigable Rivers
@@ -54,24 +93,6 @@ graph LR;
 	A['Nnalubaale] --> B[Blutabaalo];
 	B --> C[Nyanza];
 ```
-## Unique Military Unit
-##### *Abambowa*
-- Unique Infantry Unit
-- Heals +10 HP from pillaging any tile
-
-## Unique Civilian Unit
-##### *Mwami*
-- Unique Army Commander
-- +50% yield from pillaging within the Command Radius
-
-## Unique Infrastructure
-##### *Kabaka's Lake*
-- Unique Improvement
-- +3 Happiness
-- Receives Lake yield bonuses
-- Must be placed on Flat Terrain
-- One per Settlement
-
 ## Associated Wonder
 ##### *Muzibu Azaala Mpanga*
 - +4 Food

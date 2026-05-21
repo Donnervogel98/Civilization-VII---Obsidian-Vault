@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Civilization – Exploration.md",
+                "file": "Templates/Civilization – Modern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Civilization – Exploration"
+              "title": "Civilization – Modern"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civilizations - Exploration/Spain.md",
+                "file": "Civilizations - Modern/Buganda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spain"
+              "title": "Buganda"
             }
           }
         ],
@@ -48,7 +48,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Civilizations - Exploration/Spain.md",
+                "file": "Civilizations - Modern/Buganda.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#Civilization OR tag:#Leader",
@@ -140,7 +140,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Spain"
+              "title": "Graph of Buganda"
             }
           },
           {
@@ -335,32 +335,33 @@
   },
   "active": "d8a6453b481c33f6",
   "lastOpenFiles": [
-    "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
+    "Civilizations - Modern/Siam.md",
     "zUtils/zWork.md",
+    "Civilizations - Modern/Russia.md",
+    "Civilizations - Modern/Qing.md",
+    "Civilizations - Modern/Qajar.md",
+    "Civilizations - Modern/Prussia.md",
+    "Civilizations - Modern/Ottomans.md",
+    "Civilizations - Modern/Nepal.md",
+    "Civilizations - Modern/Mughal.md",
+    "Templates/Civilization – Modern.md",
+    "Civilizations - Modern/Mexico.md",
+    "Civilizations - Modern/Meiji Japan.md",
+    "Civilizations - Modern/Great Britain.md",
+    "Civilizations - Modern/French Empire.md",
+    "Civilizations - Modern/Buganda.md",
+    "Civilizations - Modern/America.md",
+    "Civilizations - Exploration/Shawnee.md",
+    "Civilizations - Antiquity/Rome.md",
+    "Civilizations - Exploration/Ming.md",
     "Civilizations - Exploration/Spain.md",
+    "Civilizations - Exploration/Songhai.md",
     "Civilizations - Exploration/Republic of Pirates.md",
     "Civilizations - Exploration/Norman.md",
-    "Templates/Civilization – Exploration.md",
-    "Civilizations - Exploration/Songhai.md",
-    "Civilizations - Exploration/Shawnee.md",
-    "Civilizations - Antiquity/Greece.md",
     "Civilizations - Exploration/Mongolia.md",
-    "Civilizations - Exploration/Ming.md",
     "Civilizations - Exploration/Majapahit.md",
-    "Attributes/Economic.md",
-    "Attributes/Expansionist.md",
     "Civilizations - Exploration/Inca.md",
-    "Civilizations - Exploration/Iceland.md",
-    "Civilizations - Exploration/Hawai'i.md",
-    "Civilizations - Exploration/Đại Việt.md",
-    "Civilizations - Exploration/Chola.md",
-    "Civilizations - Antiquity/Mississippian.md",
-    "Civics 1.4.md",
-    "Old Civics.md",
-    "Civilizations - Antiquity/Maya.md",
-    "Civilizations - Antiquity/Silla Korea.md",
-    "Civilizations - Exploration/Bulgaria.md",
-    "Civilizations - Exploration/Abbasid.md",
+    "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
     "Untitled.base",
     "Templates",
     "Miscellaneous",
@@ -372,7 +373,6 @@
     "Lists/Attribute Lists",
     "Mughal_(Civ7).webp",
     "Lists",
-    "SyncToy_cf32a261-b73b-4056-b192-4bf0f842b37d.dat",
     "Leaders_Catherine_400x240.avif",
     "Leaders_Amina_400x240.avif",
     "desmoscache/desmos-graph-6b720570ab905e62175121889c068611eda10d37f19ed29c240c96a863ee2c77.svg"

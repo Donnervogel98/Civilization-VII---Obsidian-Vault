@@ -35,7 +35,60 @@ tags:
 ##### *Liberté, Egalité, Fraternité*
 - You can select the Celebration effects of any standard Government in Modern Age
 
-## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Avenue*
+- +2 Happiness on Quarters in this City
+- Building: **Jardin à la Française**
+	- +9 Culture
+	- +1 Happiness Adjacency for Culture Buildings and Wonders
+- Building: **Salon**
+	- +9 Happiness
+	- +1 Culture Adjacency for Happiness Buildings and Wonders
+
+## Unique Units
+##### Infantry Unit: *Garde Impériale*
+- Can make a Ranged attack
+- +2 Combat Strength when within a friendly Army Commander Radius
+- More expensive to train.
+##### Great Person: *Jacobin*
+- Can only be trained in Cities with an Avenue
+- **Camille Desmoulins**: Activate on any City's District to add +1 Happiness on Quarters in that City
+- **Etta Palm D'Aelders**: Activated on a Palace or a City Hall to add a large amount of Happiness to it
+- **Georges Danton**: Activate on a Palace to immediately trigger a Celebration
+- **Jacques Nicolas Billaud-Varenne**: Activate on the Palace to grant all Land Units +3 Combat Strength in Districts
+- **Jacques Pierre Brissot**: Activate on the Palace to grant all Units +2 Combat Strength
+- **Jean-Paul Marat**: Activate on the Palace to add +1 Culture on Quarters
+- **Louis Antoine de Saint-Just**: Activate on an Army Commander to change its name to **Archangel of the Terror**; Units within this Command Radius gain +4 Combat Strength
+- **Maximilien Robespierre**: Activate on the Palace to unlock a unique Tradition, **Reign of Terror**
+	- +3 Culture on Quarters, but -25% Growth Rate in Cities
+- **Olympe de Gouges**: Activate on the Palace to add +1 Science on Quarters
+- **Paul Barras**: Activate on the Palace to increase all Support effects from Diplomatic Actions by 10%
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Belle Époque*
 - Unlocks the **Salon** Unique Building
 - Unlocks the **Style Empire** Tradition
@@ -66,40 +119,6 @@ graph LR;
 	B[Voie Triomphale] --> C;
 	C --> D[Code Civil des Français];
 ```
-
-## Unique Military Unit
-##### *Garde Impériale*
-- Unique Infantry Unit
-- Can make a Ranged attack
-- +2 Combat Strength when within a friendly Army Commander Radius
-- More expensive to train.
-
-## Unique Civilian Unit
-##### *Jacobin*
-- Unique Great Person Unit
-	- **Paul Barras**: Activate on the Palace to increase all Support effects from Diplomatic Actions by 10%
-	- **Jacques Nicolas Billaud-Varenne**: Activate on the Palace to grant all Land Units +3 Combat Strength in Districts
-	- **Jacques Pierre Brissot**: Activate on the Palace to grant all Units +2 Combat Strength
-	- **Etta Palm D'Aelders**: Activated on a Palace or a City Hall to add a large amount of Happiness to it
-	- **Georges Danton**: Activate on a Palace to immediately trigger a Celebration
-	- **Camille Desmoulins**: Activate on any City's District to add +1 Happiness on Quarters in that City
-	- **Olympe de Gouges**: Activate on the Palace to add +1 Science on Quarters
-	- **Jean-Paul Marat**: Activate on the Palace to add +1 Culture on Quarters
-	- **Maximilien Robespierre**: Activate on the Palace to unlock a unique Tradition, **Reign of Terror**
-		- +3 Culture on Quarters, but -25% Growth Rate in Cities
-	- **Louis Antoine de Saint-Just**: Activate on an Army Commander to change its name to **Archangel of the Terror**; Units within this Command Radius gain +4 Combat Strength
-- Can only be trained in Cities with an Avenue
-
-## Unique Infrastructure
-##### *Avenue*
-- Unique Quarter
-- +2 Happiness on Quarters in this City
-- Unique Building: **Jardin à la Française**
-	- +9 Culture
-	- +1 Happiness Adjacency for Culture Buildings and Wonders
-- Unique Building: **Salon**
-	- +9 Happiness
-	- +1 Culture Adjacency for Happiness Buildings and Wonders
 
 ## Associated Wonder
 ##### *Eiffel Tower*

@@ -29,7 +29,42 @@ tags:
 ##### *Blood and Iron*
 - Units receive +1 Combat Strength for every Unfriendly or worse Civilization Relationship
 
-## Civic Tree
+## Unique Infrastructure
+##### Railroad: *Staatseisenbahn*
+- +2 Gold and Production on Rural tiles with a Staatseisenbahn
+
+## Unique Units
+##### Cavalry Unit: *Hussar*
+- Has +1 Movement
+- +1 Combat Strength for every Movement it has remaining
+##### Ground Attack Air Unit: *Stuka*
+- +3 Combat Strength against Land Units
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Ruhr*
 - All Buildings gain a +1 Production Adjacency for Navigable Rivers
 - Mastery
@@ -58,20 +93,6 @@ graph LR;
 	B --> C[Ems Dispatch];
 	C --> D[Bewegungskrieg];
 ```
-
-## Unique Military Units
-##### *Hussar*
-- Unique Cavalry Unit
-- Has +1 Movement
-- +1 Combat Strength for every Movement it has remaining
-##### *Stuka*
-- Unique Ground Attack Air Unit
-- +3 Combat Strength against Land Units
-
-## Unique Infrastructure
-##### *Staatseisenbahn*
-- Unique Railroad
-- +2 Gold and Production on Rural tiles with a Staatseisenbahn
 
 ## Associated Wonder
 ##### *Brandenburg Gate*

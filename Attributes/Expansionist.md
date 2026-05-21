@@ -60,13 +60,12 @@ Expansionist Leaders gain access to the below upon reaching the appropriate leve
 - Exploration
 	- [[Abbasid]]
 	- [[Bulgaria]]
+	- [[Đại Việt]]
 	- [[Hawai'i]]
 	- [[Inca]]
 	- [[Majapahit]]
 	- [[Mongolia]]
-	- [[Đại Việt]]
 - Modern
-	- [[America]]
 	- [[Great Britain]]
 	- [[Buganda]]
 	- [[Mughal]]

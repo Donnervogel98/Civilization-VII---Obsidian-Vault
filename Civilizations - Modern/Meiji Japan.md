@@ -26,7 +26,49 @@ tags:
 ##### *Goisshin*
 - When you Overbuild a Building, gain Science equal to 50% of the Building's Production cost
 
-## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Zaibatsu*
+- +1 Gold and Production on Buildings in adjacent Districts
+- Increases the number of resources that may be assigned to this Settlement by 1
+- Building: **Ginkō**
+	- +9 Gold
+	- +1 Gold Adjacency for Gold Buildings and Wonders
+- Building: **Jukogyo**
+	- +9 Production
+	- +1 Production Adjacency for Coastal Terrain and Wonders
+
+## Unique Units
+##### Heavy Naval Unit: *Mikasa*
+- The first time this Unit is destroyed, it respawns in the closest Settlement you own at 50% HP
+##### Fighter Air Unit: *Zero*
+- Increased range
+- +4 Combat Strength against other Fighter Air Units
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Bunmei Kaika*
 - Unlocks the **Jukogyo** Unique Building
 - +50% Production towards constructing Military and Production Buildings
@@ -52,27 +94,6 @@ graph LR;
  B[Oath in Five Articles] --> C;
  C --> D[Kantai Kessen];
 ```
-
-## Unique Military Units
-##### *Mikasa*
-- Unique Heavy Naval Unit
-- The first time this Unit is destroyed, it respawns in the closest Settlement you own at 50% HP
-##### *Zero*
-- Unique Fighter Air Unit
-- Increased range
-- +4 Combat Strength against other Fighter Air Units
-
-## Unique Infrastructure
-##### *Zaibatsu*
-- Unique Quarter
-- +1 Gold and Production on Buildings in adjacent Districts
-- Increases the number of resources that may be assigned to this Settlement by 1
-- Unique Building: **Ginkō**
-	- +9 Gold
-	- +1 Gold Adjacency for Gold Buildings and Wonders
-- Unique Building: **Jukogyo**
-	- +9 Production
-	- +1 Production Adjacency for Coastal Terrain and Wonders
 
 ## Associated Wonder
 ##### *Dogo Onsen*

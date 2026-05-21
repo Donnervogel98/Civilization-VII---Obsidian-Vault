@@ -26,7 +26,49 @@ tags:
 ##### *Kayānī Crown*
 - +50% Influence toward Supporting Diplomatic Actions
 
-## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Bāq*
+- +10% Culture and Influence in this Settlement when in a Celebration
+- Building: **Ghahve Khaneh**
+	- +9 Food
+	- +1 Happiness Adjacency for Gold Buildings and Wonders
+- Building: **Takyeh**
+	- +9 Happiness
+	- +1 Influence Adjacency for Culture Buildings and Wonders
+
+## Unique Units
+##### Cavalry Unit: *Gholām*
+- Has +1 Movement
+- +5 Combat Strength and +10 HP healing in the Command Radius of a Sardār Commander
+##### Army Commander: *Sardār*
+- +1 Movement
+- While razing a Settlement, an additional Districts is Razed per turn in Settlements where this Commander is on a District
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *The Sun Throne*
 - Unlocks the **Takyeh** Unique Building
 - Unlocks the **Soleymaniyeh Palace** Tradition
@@ -49,28 +91,6 @@ graph LR;
 	A[The Sun Throne] --> C[Neẓām-e J̌adīd];
 	B[Twelve Gates] --> C;
 ```
-
-## Unique Military Unit
-##### *Gholām*
-- Unique Cavalry Unit
-- +5 Combat Strength and +10 HP healing in the Command Radius of a Sardār Commander
-
-## Unique Civilian Unit
-##### *Sardār*
-- Unique Army Commander
-- +1 Movement
-- While razing a Settlement, an additional Districts is Razed per turn in Settlements where this Commander is on a District
-
-## Unique Infrastructure
-##### *Bāq*
-- Unique Quarter
-- +10% Culture and Influence in this Settlement when in a Celebration
-- Unique Building: **Ghahve Khaneh**
-	- +9 Food
-	- +1 Happiness Adjacency for Gold Buildings and Wonders
-- Unique Building: **Takyeh**
-	- +9 Happiness
-	- +1 Influence Adjacency for Culture Buildings and Wonders
 
 ## Associated Wonder
 ##### *Eram Garden*

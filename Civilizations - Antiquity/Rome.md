@@ -64,8 +64,7 @@ graph LR;
 ## Civics – Exploration
 ##### *Renaissance*
 - Tradition: **Latinitas II**
-	- +2 Food and Culture in Towns, doubled in Fort Towns
-	- These numbers are doubled again in Distant Lands
+	- +2 Food and Culture in Towns, doubled in Fort Towns; these numbers are doubled again in Distant Lands
 - +1 Settlement Limit
 - +1 Tradition slot
 ##### *Hierarchy*

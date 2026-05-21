@@ -30,7 +30,44 @@ tags:
 - +100% Gold Yields
 - -25% to all other yields
 
-## Civic Tree
+## Unique Infrastructure
+##### Improvement: *Stepwell*
+- +2 Food
+- +2 Food from adjacent Farms
+- Must be placed on Flat Terrain
+- Cannot be placed adjacent to another Stepwell Improvement
+
+## Unique Units
+##### Infantry Unit: *Sepoy*
+- Can make a Bombard Ranged attack
+##### Settler: *Zamindar*
+- +1 Population on new Settlements
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Zabt*
 - +1 Gold on Farms in Towns
 - Unlocks the **Jins-i Kamil** Tradition
@@ -57,24 +94,6 @@ graph LR;
 	B --> D[Gardens of Paradise];
 	C --> D;
 ```
-
-## Unique Military Unit
-##### *Sepoy*
-- Unique Infantry Unit
-- Can make a Bombard Ranged attack
-
-## Unique Civilian Unit
-##### *Zamindar*
-- Unique Settler
-- +1 Population on new Settlements
-
-## Unique Infrastructure
-##### *Stepwell*
-- Unique Improvement
-- +2 Food
-- +2 Food from adjacent Farms
-- Must be placed on Flat Terrain
-- Cannot be placed adjacent to another Stepwell Improvement
 
 ## Associated Wonder
 ##### *Red Fort*

@@ -27,7 +27,44 @@ tags:
 ##### *Prosveshchenie*
 - +1 Culture on Quarters and Science on Quarters in Tundra Terrain
 
-## Civic Tree
+## Unique Infrastructure
+##### Improvement: *Obshchina*
+- +1 Food on all Farms in this Settlement
+- +2 Culture in Tundra
+- Cannot be built adjacent to another Obshchina
+
+## Unique Units
+##### Cavalry Unit: *Cossack*
+- +4 Combat Strength in friendly territory
+##### Siege Unit: *Katyusha Rocket Launcher*
+- Has +1 Movement
+- Low base Combat Strength but has the Splash ability, dealing damage to enemy Units adjacent to the target Unit
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Serfdom*
 - Unlocks the **Obschcina** Unique Improvement
 - +10% Production towards Wonders
@@ -56,22 +93,6 @@ graph LR;
 	A[Serfdom] --> B[Table of Ranks];
 	B --> C[Samoderzhaviye];
 ```
-
-## Unique Military Units
-##### *Cossack*
-- Unique Cavalry Unit
-- +4 Combat Strength in friendly territory
-##### *Katyusha Rocket Launcher*
-- Unique Siege Unit
-- Has +1 Movement
-- Low base Combat Strength but has the Splash ability, dealing damage to enemy Units adjacent to the target Unit
-
-## Unique Infrastructure
-##### *Obshchina*
-- Unique Improvement
-- +1 Food on all Farms in this Settlement
-- +2 Culture in Tundra
-- Cannot be built adjacent to another Obshchina
 
 ## Associated Wonder
 ##### *Hermitage*

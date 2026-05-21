@@ -7,7 +7,7 @@ tags:
 ---
   ![America](https://assets.2k.com/1a6ngf98576c/7j9rzEnIysEO8sGI6Bcd3g/80cfa4410b7d877f32a6b4c8747b7007/Civilizations_Desktop_America.jpg)
 
-[[Economic]], [[Expansionist]]
+[[Economic]], [[Diplomatic]]
 
 >*Built on steam, on iron, and on a vision that looks relentlessly ahead, America surges forward. The brave new world unrolls from factory assembly lines, on rail tracks that extend across the plains, and in the eyes of each immigrant who sets foot upon its shores. Come, and dream anew, under the stars and stripes.*
 
@@ -27,61 +27,79 @@ tags:
 
 ## Unique Ability
 ##### *Frontier Expansion*
-- Gain 100 Gold every time you improve a Resource
+- Gain 50/100/150 Gold every time you improve a Resource
+- +1 Production on Resources
 
 ## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Industrial Park*
+- +1 GDP from Factory Resources assigned to this Settlement
+- Building: **Railyard**
+	- +9 Production
+	- +1 Production Adjacency for Quarters and Wonders
+- Building: **Steel Mill**
+	- +9 Production
+	- +1 Gold Adjacency for Resources and Wonders
+
+## Unique Units
+##### Infantry Unit: *Marine*
+- Has the Amphibious ability
+- Cheaper to train
+##### Civilian Unit: *Prospector*
+- Activate on an unowned Land Resource within 5 tiles of your regular Settlement radius; a path of tiles is claimed back to the Settlement and the Resource is improved immediately
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: Tradition: **Gold Rush I**
+	- +1 Gold in Settlements for every Resource assigned to them
+- +1 Settlement Limit
+- +1 Tradition slot
+##### *Foundation*
+- Attribute Traditions: [[Diplomatic|Emissaries]] and [[Economic|Merchant Class]]
+##### *Syncretism*
+- Affirmation Tradition: **Land of Opportunity I**
+	- +1 Food on Resources in Towns
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: Tradition: **Robber Baron I**
+	- +1 Influence in the Capital for every Resource assigned to it
+- +1 Settlement Limit
+- +1 Tradition slot
+##### *Hierarchy*
+- Attribute Traditions: [[Diplomatic|Spy Network]] and [[Economic|Supply and Demand]]
+##### *Syncretism*
+- Affirmation Tradition: **Land of Opportunity II**
+	- +1 Food on Resources in Towns
+	- +1 Production on Mines, Clay Pits, Quarries, Woodcutters, and Oil Rigs in Mining Towns
+
+## Civics – Modern
 ##### *Yankee Ingenuity*
-- Unlocks the **Steel Mill** Unique Building
-- Unlocks the **Gold Rush** Tradition
-	- +3 Gold on Resources
-- Mastery
-	- Whenever you train a Prospector or Marine, receive an additional one
+- +1 Tradition slot
+- Building: **Steel Mill**
+- Tradition: **Gold Rush II**
+	- +4 Gold in Settlements for every Resource assigned to them
 ##### *Captains of Industry*
-- Unlocks the **Railyard** Unique Building
-- Unlocks the **Robber Baron** Tradition
+- +1 Tradition slot
+- Building: **Railyard**
+- Tradition: **Robber Baron II**
 	- +1 Influence in Cities for every Resource assigned to them
-- Mastery
-	- +1 Production on Resources
-	- +1 Settlement Limit
 ##### *Wartime Manufacturing*
-- Units receive +3 Combat Strength for having more than one adjacent enemy Unit
-- Unlocks the **Statue of Liberty** Wonder
-- Mastery
-	- +25% Production towards Military Units when fighting a war in which your War Support is higher than your opponent
-	- Unlocks the **Lend-Lease** Tradition
-		- +5 Gold and +1 Influence for every Trade Route
+- Tradition: **Lend-Lease**
+	- +1 War Support on all Wars, or +2 if joining a War with an Ally
+	- +25% Production towards training Military Units when fighting a War in which your War Support is higher than your opponent
+- Wonder: **Statue of Liberty**
+- +1 Settlement Limit
 ```mermaid
 graph LR
 	A[Yankee Ingenuity] --> C[Wartime Manufacturing];
 	B[Captains of Industry] --> C;
 ```
 
-## Unique Military Unit
-##### *Marine*
-- Unique Infantry Unit
-- Has the Amphibious ability
-- Cheaper to train
-
-## Unique Civilian Unit
-##### *Prospector*
-- Unique Civilian Unit
-- Claims a Land Resource outside of your regular Settlement radius
-
-## Unique Infrastructure
-##### *Industrial Park*
-- Unique Quarter
-- Increases the number of Resources that may be assigned to this Settlement by 2
-- Unique Building: **Railyard**
-	- +9 Production
-	- +1 Production Adjacency for Quarters and Wonders
-- Unique Building: **Steel Mill**
-	- +9 Production
-	- +1 Gold Adjacency for Resources and Wonders
-
 ## Associated Wonder
 ##### *Statue of Liberty*
 - +6 Happiness
-- Spawns 4 Migrant Units
+- Spawns 4 Migrants
 - Must be placed on Coast adjacent to land
 
 ## Starting Biases

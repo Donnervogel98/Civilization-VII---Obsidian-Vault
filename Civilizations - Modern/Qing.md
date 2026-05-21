@@ -23,7 +23,47 @@ tags:
 ##### *Kang Qian Shengshi*
 - +4 Gold, +4 Culture, +2 Influence, but -4 Science per Trade Route
 
-## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Huiguan*
+- +25% Influence in this Settlement
+- Building: **Shiguan**
+	- +9 Science
+	- +1 Happiness Adjacency for Happiness Buildings and Wonders
+- Building: **Qianzhuang**
+	- +9 Gold
+	- +1 Gold Adjacency for Gold Buildings and Wonders
+
+## Unique Units
+##### Infantry Unit: *Gusa*
+- +4 Combat Strength if adjacent to another Gusa Unit
+##### Merchant: *Hangshang*
+- Gain 50 Gold for every Resource acquired when creating a naval Trade Route
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Ten Great Campaigns*
 - +1 Combat Strength for all Units for every Civilization and City-State you have a Trade Route with
 - Unlocks the **Chuang Guandong** Tradition
@@ -51,27 +91,6 @@ graph LR;
 	B --> D[Stabilizing Frontier];
 	C --> D;
 ```
-
-## Unique Military Unit
-##### *Gusa*
-- Unique Infantry Unit
-- +4 Combat Strength if adjacent to another Gusa Unit
-
-## Unique Civilian Unit
-##### *Hangshang*
-- Unique Merchant
-- Gain 50 Gold for every Resource acquired when creating a naval Trade Route
-
-## Unique Infrastructure
-##### *Huiguan*
-- Unique Quarter
-- +25% Influence in this Settlement
-- Unique Building: **Shiguan**
-	- +9 Science
-	- +1 Happiness Adjacency for Happiness Buildings and Wonders
-- Unique Building: **Qianzhuang**
-	- +9 Gold
-	- +1 Gold Adjacency for Gold Buildings and Wonders
 
 ## Associated Wonder
 ##### *Chengde Mountain Resort*

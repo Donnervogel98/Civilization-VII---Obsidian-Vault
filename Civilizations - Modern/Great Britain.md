@@ -29,7 +29,48 @@ tags:
 - +25% Gold towards purchasing Buildings and 25% Production towards producing Buildings
 - It costs 50% more to Convert Towns into Cities
 
-## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Financial Centre*
+- +2 Gold and Science for every connected Settlement
+- Building: **Royal Exchange**
+	- +9 Gold
+	- +1 Gold adjacency for Quarters and Wonders
+- Building: **Manufactory**
+	- +9 Production
+	- +1 Production Adjacency for Resources and Wonders
+	- +1 Gold Adjacency for Navigable Rivers
+
+## Unique Units
+##### Heavy Naval Unit: *Revenge*
+- Enemy Units in tiles adjacent to the target take 25% of the total damage done to the target
+##### Explorer: *Antiquarian*
+- +20 Culture for every tile from your Capital when you use Excavate Artifact
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Pax Britannica*
 - Unlocks the **Royal Exchange** Unique Building
 - +3 Production in Settlements for every Factory Resource assigned to them
@@ -55,28 +96,6 @@ graph LR;
 	B --> C[Splendid Isolation];
 	B --> D[Chartered Companies];
 ```
-
-## Unique Military Unit
-##### *Revenge*
-- Unique Heavy Naval Unit
-- Enemy Units in tiles adjacent to the target take 25% of the total damage done to the target
-
-## Unique Civilian Unit
-##### *Antiquarian*
-- Unique Explorer
-- +20 Culture for every tile from your Capital when you use Excavate Artifact
-
-## Unique Infrastructure
-##### *Financial Centre*
-- Unique Quarter
-- +2 Gold and Science for every connected Settlement
-- Unique Building: **Royal Exchange**
-	- +9 Gold
-	- +1 Gold adjacency for Quarters and Wonders
-- Unique Building: **Manufactory**
-	- +9 Production
-	- +1 Production Adjacency for Resources and Wonders
-	- +1 Gold Adjacency for Navigable Rivers
 
 ## Associated Wonder
 ##### *Battersea Power Station*

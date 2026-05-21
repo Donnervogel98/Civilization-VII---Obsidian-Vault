@@ -31,7 +31,57 @@ tags:
 - This Government has one Celebration effect,+30% Culture for 10 Turns
 - Cannot enter any other Government type
 
-## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Zócalo*
+- +2 Culture for every Tradition slotted into the Government
+- Building: **Catedral**
+	- +9 Culture
+	- +1 Happiness Adjacency for Culture Buildings and Wonders
+- Building: **Portal de Mercaderes**
+	- +9 Culture
+	- +1 Gold Adjacency for Gold Buildings and Wonders
+
+## Unique Units
+##### Infantry Unit: *Soldaderas*
+- Adjacent Units heal +10 HP (does not stack)
+##### Great Person: *Revolucionario*
+- Can only be trained in Cities with a Zócalo
+- **Amelio Robles Ávila**: Activate on a Zócalo to grant 2 free Soldaderas with +3 Combat Strength
+- **Ángela Jiménez**: Activated on a Commander Unit to grant Culture for every Promotion it has (effect scales based on game speed)
+- **Antonio López de Santa Anna**: Activated on a Commander Unit to grant it enough experience for a set number of Promotions
+- **Benito Juárez**: Activated on a Zócalo to grant an additional Tradition slot
+- **Emiliano Zapata**: Activated on a City Center to grant increased Culture to all Farms in the Settlement
+- **José María Morelos**: Activated on a Commander Unit to heal all Units in its Command Radius to full health
+- **Miguel Hidalgo**: Activate in a Town's District to summon a free Infantry Unit on every land District in that Town
+- **Pancho Villa**: Activate on an Army Commander; when a Unit within this Commander's Command Radius defeats an enemy Unit, gain Gold equal to a 25% of its Combat Strength
+- **Petra Herrera**: Activated on a Commander Unit to grant increased Combat Strength to all Soldaderas Units within its Command Radius
+- **Vicente Guerrero**: Activated on the Palace to immediately trigger a Celebration
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Planes Políticos*
 - Unlocks the **Catedral** Unique Building
 - Unlocks the **Portal de Mercaderes** Unique Building
@@ -58,37 +108,6 @@ graph LR;
 	A --> C[Plan of Iguala];
 	A --> D[Plan of Ayutla];
 ```
-
-## Unique Military Unit
-##### *Soldaderas*
-- Unique Infantry Unit
-- Adjacent Units heal +10 HP (does not stack)
-
-## Unique Civilian Unit
-##### *Revolucionario*
-- Unique Great Person
-	- **Amelio Robles Ávila**: Activate on a Zócalo to grant 2 free Soldaderas with +3 Combat Strength
-	- **Vicente Guerrero**: Activated on the Palace to immediately trigger a Celebration
-	- **Petra Herrera**: Activated on a Commander Unit to grant increased Combat Strength to all Soldaderas Units within its Command Radius
-	- **Miguel Hidalgo**: Activate in a Town's District to summon a free Infantry Unit on every land District in that Town
-	- **Ángela Jiménez**: Activated on a Commander Unit to grant Culture for every Promotion it has (effect scales based on game speed)
-	- **Benito Juárez**: Activated on a Zócalo to grant an additional Tradition slot
-	- **José María Morelos**: Activated on a Commander Unit to heal all Units in its Command Radius to full health
-	- **Antonio López de Santa Anna**: Activated on a Commander Unit to grant it enough experience for a set number of Promotions
-	- **Pancho Villa**: Activate on an Army Commander; when a Unit within this Commander's Command Radius defeats an enemy Unit, gain Gold equal to a 25% of its Combat Strength
-	- **Emiliano Zapata**: Activated on a City Center to grant increased Culture to all Farms in the Settlement
-- Can only be trained in Cities with a Zócalo
-
-## Unique Infrastructure
-##### *Zócalo*
-- Unique Quarter
-- +2 Culture for every Tradition slotted into the Government
-- Unique Building: **Catedral**
-	- +9 Culture
-	- +1 Happiness Adjacency for Culture Buildings and Wonders
-- Unique Building: **Portal de Mercaderes**
-	- +9 Culture
-	- +1 Gold Adjacency for Gold Buildings and Wonders
 
 ## Associated Wonder
 ##### *Palacio de Bellas Artes*

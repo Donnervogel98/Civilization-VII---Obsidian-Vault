@@ -34,7 +34,7 @@ tags:
 ## Unique Ability
 ##### *Siglo de Oro*
 - [Ant] +1 Food, Gold, and Production in Coastal Settlements and in Settlements with an Altar, or +2 if it is both
-- [Exp/Mod] +2/+3 Food, Gold, and Production in Settlements adjacent to Coast and in Settlements following your own Religion, or +4/+6 if it is both; Doubled in Settlements in Distant Lands
+- [Exp/Mod] +2/+3 Food, Gold, and Production in Settlements adjacent to Coast and in Settlements following your own Religion, or +4/+6 if it is both; doubled in Settlements in Distant Lands
 - [Exp/Mod] +15% Gold efficiency towards converting a Town to a City, or +30% in Settlements in Distant Lands
 
 ## Unique Infrastructure

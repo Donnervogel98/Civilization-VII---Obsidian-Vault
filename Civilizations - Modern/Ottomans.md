@@ -32,7 +32,51 @@ aliases:
 - When any Leader Excavates an Artifact in the Ottomans' territory, they generate an additional Artifact
 - +3 Combat Strength for Infantry and Siege Units when attacking
 
-## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Külliye*
+- +3 Culture and +2 Gold on Specialists in this City
+- Unique Building: **Cami**
+	- +9 Culture
+	- +1 Happiness Adjacency with Science Buildings
+	- +1 Culture Adjacency with Wonders
+	- Has 2 Artifact slots
+- Unique Building: **Hammam**
+	- +9 Happiness
+	- +1 Gold Adjacency with Cultural Buildings
+	- +1 Happiness Adjacency with Wonders
+
+## Unique Units
+##### Infantry Unit: *Janissary*
+- +5 Combat Strength against other Land Units
+- All Civilizations' Settlements suffer a -2 Happiness penalty for every Janissary stationed in or occupying a District
+##### Light Naval Unit: *Barbary Corsair*
+- It costs no Movement to Coastal Raid
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Lâle Devri*
 - Unlocks the **Sedef Kakma** Tradition
 	- +3 Culture on Quarters with at least 1 Happiness Building
@@ -68,29 +112,6 @@ graph LR;
 	A[Lâle Devri] --> B[Tanẓîmât];
 	C[Şahi Topu] --> D[Harbiye Nezâreti];
 ```
-
-## Unique Military Units
-##### *Janissary*
-- Unique Infantry
-- +5 Combat Strength against other Land Units
-- All Civilizations' Settlements suffer a -2 Happiness penalty for every Janissary stationed in or occupying a District
-##### *Barbary Corsair*
-- Unique Light Naval Unit
-- It costs no Movement to Coastal Raid
-
-## Unique Infrastructure
-##### *Külliye*
-- Unique Quarter
-- +3 Culture and +2 Gold on Specialists in this City
-- Unique Building: **Cami**
-	- +9 Culture
-	- +1 Happiness Adjacency with Science Buildings
-	- +1 Culture Adjacency with Wonders
-	- Has 2 Artifact slots
-- Unique Building: **Hammam**
-	- +9 Happiness
-	- +1 Gold Adjacency with Cultural Buildings
-	- +1 Happiness Adjacency with Wonders
 
 ## Associated Wonder
 ##### *Sultanahmet Camii*

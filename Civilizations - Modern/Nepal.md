@@ -28,7 +28,43 @@ tags:
 ##### *Roof of the World*
 - All Warehouse buildings apply to Mountain Terrain tiles, but they cost +1 Gold and Happiness Maintenance
 
-## Civic Tree
+## Unique Infrastructure
+##### Improvement: *Highland Power Station*
+- +3 Production and +3 Culture
+- Must be built on Mountain terrain and is constructed by the Sherpa
+
+## Unique Units
+##### Infantry Unit: *Gurkha*
+- Stronger, faster, and more expensive
+##### Scout: *Sherpa*
+- Ignores Mountains and Rough Terrain for Sight
+- Ignores Mountains for Movement
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Sagarmatha*
 - Food and Science Buildings receive an adjacency from Mountains
 - Mastery
@@ -58,23 +94,6 @@ graph LR;
 	B[Jyumdo Bagha] --> D[Gorkhapatra];
 	C --> D;
 ```
-
-## Unique Military Unit
-##### *Gurkha*
-- Unique Infantry Unit
-- Stronger, faster, and more expensive
-
-## Unique Civilian Unit
-##### *Sherpa*
-- Unique Scout
-- Ignores Mountains and Rough Terrain for Sight
-- Ignores Mountains for Movement
-
-## Unique Infrastructure
-##### *Highland Power Station*
-- Unique Improvement
-- +3 Production and +3 Culture
-- Must be built on Mountain terrain and is constructed by the Sherpa
 
 ## Associated Wonder
 ##### *Boudhanath*

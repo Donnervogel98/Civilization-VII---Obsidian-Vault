@@ -28,7 +28,53 @@ tags:
 ##### *Itsaraphab*
 - Grants a unique Diplomatic Action to immediately become Suzerain of a City-State at a higher Influence Cost than Befriend Independent
 
-## Civic Tree
+## Unique Infrastructure
+##### Improvement: *Bang*
+- +3 Culture and Happiness
+- Must be placed on a Navigable River
+
+## Unique Units
+##### Ranged Unit: *Chang Beun*
+- Has increased Ranged Strength and +1 Movement
+- Can move after attacking
+##### Great Person: *Uparat*
+- Can only be trained in Cities when an Independent Power has been befriended
+- **Chakrabongse**: Activate on Palace to immediately receive 100 Influence
+- **Dara Rasmi**: Activate on a City-State you are Suzerain of to turn it into a Town under your control
+- **Itsarasunthon**: Activate on a District to immediately trigger a Celebration
+- **Phibun**: Activate on a District to give the City +4 Production for every City-State you are Suzerain of
+- **Pinklao**: Activate on a District to give the City +4 Culture for every City-State you are Suzerain of
+- **Pridi**: Activate on a District to give the City +4 Influence for every City-State you are Suzerain of
+- **Sakdiphonlasep**: Activate on Tropical Terrain to grant 2 Chang Beun with +3 Combat Strength
+- **Senanurak**: Activate on a Commander to grant Units in the Command Radius +1 Combat Strength for every City-State you are Suzerain of
+- **Vajiravudh**: Activate on a District to give the City +4 Science for every City-State you are Suzerain of
+- **Wichaichan**: Activate on an Independent Power; the Independent Power becomes a City-State with you as Suzerain
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: ****
+	- 
+- 
+##### *Hierarchy*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Modern
 ##### *Nine Gems*
 - Unlocks the **Bang** Unique Improvement
 - +2 Culture for every Civilization Relationship above Friendly status
@@ -56,33 +102,6 @@ graph LR;
 	A[Nine Gems] --> B[Mandala];
 	B --> C[Sriwilai];
 ```
-
-## Unique Military Unit
-##### *Chang Beun*
-- Unique Ranged Unit
-- Has increased Ranged Strength and +1 Movement
-- Can move after attacking
-
-## Unique Civilian Unit
-##### *Uparat*
-- Unique Great Person
-	- **Chakrabongse**: Activate on Palace to immediately receive 100 Influence
-	- **Dara Rasmi**: Activate on a City-State you are Suzerain of to turn it into a Town under your control
-	- **Itsarasunthon**: Activate on a District to immediately trigger a Celebration
-	- **Phibun**: Activate on a District to give the City +4 Production for every City-State you are Suzerain of
-	- **Pinklao**: Activate on a District to give the City +4 Culture for every City-State you are Suzerain of
-	- **Pridi**: Activate on a District to give the City +4 Influence for every City-State you are Suzerain of
-	- **Sakdiphonlasep**: Activate on Tropical Terrain to grant 2 Chang Beun with +3 Combat Strength
-	- **Senanurak**: Activate on a Commander to grant Units in the Command Radius +1 Combat Strength for every City-State you are Suzerain of
-	- **Vajiravudh**: Activate on a District to give the City +4 Science for every City-State you are Suzerain of
-	- **Wichaichan**: Activate on an Independent Power; the Independent Power becomes a City-State with you as Suzerain
-- Can only be trained in Cities when an Independent Power has been befriended
-
-## Unique Infrastructure
-##### *Bang*
-- Unique Improvement
-- +3 Culture and Happiness
-- Must be placed on a Navigable River
 
 ## Associated Wonder
 ##### *Doi Suthep*
