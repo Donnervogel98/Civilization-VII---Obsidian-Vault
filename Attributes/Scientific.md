@@ -44,14 +44,15 @@ Scientific Leaders gain access to the below upon reaching the appropriate level 
 
 #### Scientific Civilizations
 - Antiquity
+	- [[Assyria]]
 	- [[Han]]
 	- [[Khmer]]
 	- [[Maurya]]
 	- [[Maya]]
-	- [[Assyria]]
 - Exploration
 	- [[Abbasid]]
 	- [[Ming]]
 - Modern
+	- [[Great Britain]]
 	- [[Meiji Japan]]
 	- [[Russia]]

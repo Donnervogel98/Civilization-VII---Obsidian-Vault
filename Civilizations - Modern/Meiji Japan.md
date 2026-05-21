@@ -18,18 +18,20 @@ tags:
 	- [[Hawai'i]]
 	- [[Majapahit]]
 - Leaders
-	- [[Himiko, Queen of Wa|Himiko]]
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
 	- [[José Rizal]]
 	- [[Trung Trac]]
 
 ## Unique Ability
 ##### *Goisshin*
-- When you Overbuild a Building, gain Science equal to 50% of the Building's Production cost
+- [Ant] When you construct a Building, gain Science equal to 25% of the Building's Production cost
+- [Exp/Mod] When you Overbuild a Building, gain Science equal to 25% of the Building's Production cost
 
 ## Unique Infrastructure
 ##### Quarter: *Zaibatsu*
 - +1 Gold and Production on Buildings in adjacent Districts
-- Increases the number of resources that may be assigned to this Settlement by 1
+- +1 Resource Capacity in this Settlement
 - Building: **Ginkō**
 	- +9 Gold
 	- +1 Gold Adjacency for Gold Buildings and Wonders
@@ -46,48 +48,55 @@ tags:
 
 ## Civics – Antiquity
 ##### *Origins*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Shusei Kokubō I**
+	- +50% Production towards Military and Science Buildings
+- +1 Settlement Limit
+- +1 Tradition slot
 ##### *Foundation*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Militaristic|Warrior Class]] and [[Scientific|Experimentation]]
+- +1 Settlement Limit
+- Gain 1 Codex
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Kimi I**
+	- +1 Science for every Empire Resource
 
 ## Civics – Exploration
 ##### *Renaissance*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Fukoku Kyōhei I**
+	- +25% Production towards Naval Units
+	- When you train a Naval Unit, receive Science equal to 25% of its Production cost
+- Tradition: **O-yatoi Gaikokujin I**
+	- +1 Production and Science from Specialists in the Capital
+- +1 Settlement Limit
+- +1 Tradition slot
 ##### *Hierarchy*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Militaristic|Professional Army]] and [[Scientific|Alchemy]]
+- +1 Settlement Limit
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Kimi II**
+	- +1 Science for every Empire Resource
+	- +1 Science in Cities adjacent to Coast for every Resource assigned to them
 
 ## Civics – Modern
 ##### *Bunmei Kaika*
-- Unlocks the **Jukogyo** Unique Building
-- +50% Production towards constructing Military and Production Buildings
-- Unlocks the **Fukoku Kyōhei** Tradition
-	- When you train an Aircraft or Naval Unit, receive Science equal to 25% of its Production cost
-- Unlocks the **Dogo Onsen** Wonder
+- Building: **Jukogyo**
+- Tradition: **Fukoku Kyōhei II**
+	- +25% Production towards Naval and Aircraft Units
+	- When you train a Naval or Aircraft Unit, receive Science equal to 25% of its Production cost
+- Wonder: **Dogo Onsen**
 ##### *Oath in Five Articles*
-- Unlocks the **Ginkō** Unique Building
-- +50% Production towards constructing Science Buildings
-- Unlocks the **O-yatoi Gaikokujin** Tradition
+- Building: **Ginkō**
+- Tradition: **O-yatoi Gaikokujin II**
 	- +1 Production and Science from Specialists
 ##### *Supreme War Council*
-- +25% Production towards training Naval and Aircraft Units
-- Unlocks the **Shusei Kokubō** Tradition
-	- Military Buildings receive a +1 Production Adjacency from Coast
+- Tradition: **Shusei Kokubō II**
+	- +50% Production towards Military and Science Buildings
+	- Military and Science Buildings receive an adjacency for Coast
+- +1 Tradition slot
 ##### *Kantai Kessen*
-- +3 Combat Strength for Units on or adjacent to Coast
-- Unlocks the **Kōkūtai** Tradition
-	- +6 Combat Strength for Aircraft attacking an enemy Unit engaged by a Naval Unit
+- Tradition: **Kōkūtai**
+	- +6 Combat Strength for Aircraft attacking an enemy Unit adjacent to a Naval Unit
+- +1 Settlement Limit
 ```mermaid
 graph LR;
  A[Bunmei Kaika] --> C[Supreme War Council];

@@ -23,17 +23,19 @@ tags:
 	- [[Benjamin Franklin]]
 	- [[Charlemagne]]
 	- [[Edward Teach]]
-	- [[Friedrich, Oblique|Friedrich]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
 	- [[Gilgamesh]]
 	- [[Isabella]]
 	- [[Lafayette]]
 	- [[Machiavelli]]
-	- [[Napoleon, Emperor|Napoleon]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
 	- [[Simón Bolívar]]
 
 ## Unique Ability
 ##### *Liberté, Egalité, Fraternité*
-- You can select the Celebration effects of any standard Government in Modern Age
+- You can select the Celebration effects of any standard current Age Government
 
 ## Unique Infrastructure
 ##### Quarter: *Avenue*
@@ -48,8 +50,8 @@ tags:
 ## Unique Units
 ##### Infantry Unit: *Garde Impériale*
 - Can make a Ranged attack
-- +2 Combat Strength when within a friendly Army Commander Radius
-- More expensive to train.
+- +2 Combat Strength when adjacent to a friendly Army Commander
+- More expensive to train
 ##### Great Person: *Jacobin*
 - Can only be trained in Cities with an Avenue
 - **Camille Desmoulins**: Activate on any City's District to add +1 Happiness on Quarters in that City
@@ -66,53 +68,53 @@ tags:
 
 ## Civics – Antiquity
 ##### *Origins*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Style Empire I**
+	- Constructing a Building grants Culture equal to 15% of its Production cost
+	- +2 Culture on Happiness Buildings and Wonders
+- +1 Settlement Limit
+- +1 Tradition slot
 ##### *Foundation*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Cultural|Enlightened Rule]] and [[Diplomatic|Priestly Class]]
+- Wonder: **Pyramid of the Sun**
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **De l'Esprit des Loix I**
+	- +2 Culture for every Tradition slotted into the Government
+	- +2 Happiness for every Social Policy slotted into the Government
 
 ## Civics – Exploration
 ##### *Renaissance*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Cocorico I**
+	- When you defeat an enemy Unit, gain Culture equal to 15% of its Combat Strength
+	- +2 Happiness on Military Buildings and Wonders
+- +1 Settlement Limit
+- +1 Tradition slot
 ##### *Hierarchy*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Cultural|Classical Revival]] and [[Diplomatic|Jubilee]]
+- Wonder: **Notre Dame**
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **De l'Esprit des Loix I**
+	- +3 Culture for every Tradition slotted into the Government
+	- +3 Happiness for every Social Policy slotted into the Government
 
 ## Civics – Modern
 ##### *Belle Époque*
-- Unlocks the **Salon** Unique Building
-- Unlocks the **Style Empire** Tradition
+- Building: **Salon**
+- Tradition: **Style Empire II**
 	- Constructing a Building grants Culture equal to 25% of its Production cost
-- Mastery
 	- +2 Culture on Happiness Buildings and Wonders
 ##### *Voie Triomphale*
-- Unlocks the **Jardin à la Française** Unique Building
-- Unlocks the **Cocorico** Tradition
+- Building: **Jardin à la Française**
+- Tradition: **Cocorico II**
 	- When you defeat an enemy Unit, gain Culture equal to 25% of its Combat Strength
-- Mastery
 	- +2 Happiness on Military Buildings and Wonders
-	- +1 Settlement Limit
 ##### *Grande Armée*
-- Commanders immediately gain a Promotion
-- New Commanders start with a Promotion
-- Mastery
-	- +1 Combat Strength for Military Units for every Tradition slotted in the Government
-	- Unlocks the **Bataillon-Carré** Tradition
-		- Infantry Units gain the Swift ability, allowing them to ignore Zone of Control
+- Tradition: **Bataillon-Carré**
+	- Infantry Units gain the Swift ability, allowing them to ignore Zone of Control
+- +1 Settlement Limit
+- +1 Tradition slot
 ##### *Code Civil des Français*
-- +2 Culture for every Social Policy slotted into the Government
-- Unlocks the **Eiffel Tower** Wonder
-- +1 Social Policy slot
+- Wonder: **Eiffel Tower**
+- +1 Tradition slot
 ```mermaid
 graph LR;
 	A[Belle Époque] --> C[Grande Armée];
@@ -123,7 +125,7 @@ graph LR;
 ## Associated Wonder
 ##### *Eiffel Tower*
 - +5 Culture
-- +3 Culture and Happiness on Quarters in this City
+- +4 Culture and +2 Tourism on Quarters in this City
 - Must be built adjacent to a District
 
 ## Starting Bias

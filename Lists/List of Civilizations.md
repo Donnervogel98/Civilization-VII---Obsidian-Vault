@@ -38,9 +38,9 @@ tags:
 - [[Spain]]
 ##### Modern
 - [[America]]
-- [[Great Britain]] †
 - [[Buganda]]
 - [[French Empire]]
+- [[Great Britain]] †
 - [[Meiji Japan]]
 - [[Mexico]]
 - [[Mughal]]
