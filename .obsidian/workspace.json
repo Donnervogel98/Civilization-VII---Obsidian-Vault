@@ -1,0 +1,380 @@
+{
+  "main": {
+    "id": "eb13c403d41b9197",
+    "type": "split",
+    "children": [
+      {
+        "id": "7336186bf8b4d059",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1e12b9a66c468e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Civilization – Exploration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Civilization – Exploration"
+            }
+          },
+          {
+            "id": "d8a6453b481c33f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Civilizations - Exploration/Spain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spain"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "061d0da6414d985b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f0f8e235d694a36",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Civilizations - Exploration/Spain.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "tag:#Civilization OR tag:#Leader",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#Unreleased",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395168
+                      }
+                    },
+                    {
+                      "query": "tag:#Modern  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#Exploration  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#Antiquity  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    },
+                    {
+                      "query": "tag:#Leader  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
+                    },
+                    {
+                      "query": "tag:#DLC  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11621088
+                      }
+                    },
+                    {
+                      "query": "",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701233
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.5,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.505208333333333,
+                  "repelStrength": 9.79166666666667,
+                  "linkStrength": 1,
+                  "linkDistance": 138,
+                  "scale": 1.0000000000000253,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Spain"
+            }
+          },
+          {
+            "id": "6e479d6ca69d4b15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zUtils/zWork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zWork"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc6d8cc4f7afb905",
+    "type": "split",
+    "children": [
+      {
+        "id": "05f0dd7536a8cd94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d64bc5c654b0679",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "875963b0d73fbf2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eed14260edf75282",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.5
+  },
+  "right": {
+    "id": "a2ae514db9821553",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ef79df91ed2f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6ab57d588e9012b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Amina.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Amina"
+            }
+          },
+          {
+            "id": "7d2ca5c7993af39a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Amina.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Amina"
+            }
+          },
+          {
+            "id": "6dacf1fed31e8e15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e74c2165327c0de3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Civilizations - Antiquity/Khmer.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Khmer"
+            }
+          },
+          {
+            "id": "497559645d51789a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a335f0b5f2fec1e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Civilizations - Antiquity/Mississippian.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Mississippian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d8a6453b481c33f6",
+  "lastOpenFiles": [
+    "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
+    "zUtils/zWork.md",
+    "Civilizations - Exploration/Spain.md",
+    "Civilizations - Exploration/Republic of Pirates.md",
+    "Civilizations - Exploration/Norman.md",
+    "Templates/Civilization – Exploration.md",
+    "Civilizations - Exploration/Songhai.md",
+    "Civilizations - Exploration/Shawnee.md",
+    "Civilizations - Antiquity/Greece.md",
+    "Civilizations - Exploration/Mongolia.md",
+    "Civilizations - Exploration/Ming.md",
+    "Civilizations - Exploration/Majapahit.md",
+    "Attributes/Economic.md",
+    "Attributes/Expansionist.md",
+    "Civilizations - Exploration/Inca.md",
+    "Civilizations - Exploration/Iceland.md",
+    "Civilizations - Exploration/Hawai'i.md",
+    "Civilizations - Exploration/Đại Việt.md",
+    "Civilizations - Exploration/Chola.md",
+    "Civilizations - Antiquity/Mississippian.md",
+    "Civics 1.4.md",
+    "Old Civics.md",
+    "Civilizations - Antiquity/Maya.md",
+    "Civilizations - Antiquity/Silla Korea.md",
+    "Civilizations - Exploration/Bulgaria.md",
+    "Civilizations - Exploration/Abbasid.md",
+    "Untitled.base",
+    "Templates",
+    "Miscellaneous",
+    "Untitled 1.base",
+    "zUtils",
+    "Untitled.canvas",
+    "DLC Packs/Collections",
+    "Attributes",
+    "Lists/Attribute Lists",
+    "Mughal_(Civ7).webp",
+    "Lists",
+    "SyncToy_cf32a261-b73b-4056-b192-4bf0f842b37d.dat",
+    "Leaders_Catherine_400x240.avif",
+    "Leaders_Amina_400x240.avif",
+    "desmoscache/desmos-graph-6b720570ab905e62175121889c068611eda10d37f19ed29c240c96a863ee2c77.svg"
+  ]
+}

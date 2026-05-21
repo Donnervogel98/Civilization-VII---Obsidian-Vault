@@ -1,0 +1,7 @@
+.graph-view.color-fill-focused {
+    color: #FFFFFF;
+}
+
+.theme-dark .graph-view.color-fill {
+    color: #909090;
+}

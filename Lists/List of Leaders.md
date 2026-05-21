@@ -1,0 +1,41 @@
+---
+tags:
+  - List
+---
+*† indicates DLC content*
+*‡ indicates unreleased content*
+## Leaders
+- [[Ada Lovelace]] †
+- [[Alexander the Great]]
+- [[Amina]]
+- [[Ashoka, World Conqueror]] †
+- [[Ashoka, World Renouncer]]
+- [[Augustus]]
+- [[Benjamin Franklin]]
+- [[Catherine the Great]]
+- [[Charlemagne]]
+- [[Confucius]]
+- [[Edward Teach]] †
+- [[Friedrich, Baroque]] †
+- [[Friedrich, Oblique]]
+- [[Genghis Khan]] †
+- [[Gilgamesh]]
+- [[Harriet Tubman]]
+- [[Hatshepsut]]
+- [[Himiko, High Shaman]] †
+- [[Himiko, Queen of Wa]]
+- [[Ibn Battuta]]
+- [[Isabella]]
+- [[José Rizal]]
+- [[Lafayette]]
+- [[Lakshmibai]] †
+- [[Machiavelli]]
+- [[Napoleon, Emperor]] †
+- [[Napoleon, Revolutionary]] †
+- [[Pachacuti]]
+- [[Sayyida al Hurra]] †
+- [[Simón Bolívar]] †
+- [[Tecumseh]] †
+- [[Trung Trac]]
+- [[Xerxes, King of Kings]]
+- [[Xerxes, the Achaemenid]] †

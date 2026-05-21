@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "0f512160727166b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dbf839703f87083",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Backrooms Cult/Backrooms Cult.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "745072bef26e96c3",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "Backrooms Cult/Backrooms Cult.md",
+            "options": {
+              "collapse-filter": true,
+              "search": "-tag:hidden",
+              "localJumps": 5,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": true,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": true,
+              "collapse-color-groups": true,
+              "colorGroups": [
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14701138
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14725458
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 11657298
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5431378
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5431473
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5419488
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 5395168
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 11621088
+                  }
+                },
+                {
+                  "query": "",
+                  "color": {
+                    "a": 1,
+                    "rgb": 14701233
+                  }
+                }
+              ],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": -1.5,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.376125356125356,
+              "repelStrength": 11.5669515669516,
+              "linkStrength": 1,
+              "linkDistance": 136,
+              "scale": 1.13303116040608,
+              "close": false
+            }
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b37b4c4e6faa6c66",
+    "type": "split",
+    "children": [
+      {
+        "id": "62dee6cfaed0c84e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b37f0ad5d4054a83",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "30ee9a067c88c25c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d2aaa0219204797",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 176.5
+  },
+  "right": {
+    "id": "29193f9c3a1221df",
+    "type": "split",
+    "children": [
+      {
+        "id": "b95a5f15c746214c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6faea3c202e60f51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backrooms Cult/Backrooms Cult.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66b20ffff6402dcc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backrooms Cult/Backrooms Cult.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5fd2b18a65cf8ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e671e50335d90b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backrooms Cult/Backrooms Cult.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193,
+    "collapsed": true
+  },
+  "active": "2dbf839703f87083",
+  "lastOpenFiles": [
+    "Backrooms Cult/The Teacher.md",
+    "Backrooms Cult/Thomas.md",
+    "Backrooms Cult/The Leader.md",
+    "Backrooms Cult/Backrooms Cult.md",
+    "Backrooms Cult/The Cult.md",
+    "Backstory/Circle of the Owl.md",
+    "Gethsemane.md",
+    "PCs/Reek.md",
+    "PCs/Feltare.md",
+    "1 - Sessions/Session 4.md"
+  ]
+}

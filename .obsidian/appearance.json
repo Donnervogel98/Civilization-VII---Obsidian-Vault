@@ -1,0 +1,16 @@
+{
+  "interfaceFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "table-center",
+    "desmos-center",
+    "desmos",
+    "tikz",
+    "selectedwhite",
+    "headerbold",
+    "bolderbold",
+    "mermaid"
+  ],
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "theme": "system"
+}
