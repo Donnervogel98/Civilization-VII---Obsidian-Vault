@@ -21,73 +21,77 @@ tags:
 	- [[Ada Lovelace]]
 	- [[Catherine the Great]]
 	- [[Machiavelli]]
-	- [[Xerxes, King of Kings|Xerxes]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
 
 ## Unique Ability
 ##### *Prosveshchenie*
-- +1 Culture on Quarters and Science on Quarters in Tundra Terrain
+- +1 Culture on Quarters in Cities; +1 Science on Quarters in Cities in Tundra
+- +1 Food on Farms in Towns; +1 Production on Farms in Towns in Tundra
 
 ## Unique Infrastructure
 ##### Improvement: *Obshchina*
 - +1 Food on all Farms in this Settlement
-- +2 Culture in Tundra
-- Cannot be built adjacent to another Obshchina
+- +2 Culture in Tundra Terrain
+- Cannot be placed adjacent to another Obshchina
 
 ## Unique Units
 ##### Cavalry Unit: *Cossack*
 - +4 Combat Strength in friendly territory
 ##### Siege Unit: *Katyusha Rocket Launcher*
 - Has +1 Movement
-- Low base Combat Strength but has the Splash ability, dealing damage to enemy Units adjacent to the target Unit
+- Lower Combat Strength but has the Splash ability, dealing Damage to enemy Units adjacent to the target Unit
 
 ## Civics – Antiquity
 ##### *Origins*
-- Tradition: ****
-	- 
-- 
+- Tradition: **General Moroz I**
+	- +3 Combat Strength for Units in Tundra
+	- Your Units, Buildings, and Improvements are immune to damage from Blizzards
+- +1 Tradition slot
+- Mastery
+	- Tradition: **Západnichestvo I**
+		- +15% Science, but -15% Culture in Cities
+	- +1 Settlement Limit
 ##### *Foundation*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Cultural|Enlightened Rule]] and [[Scientific|Experimentation]]
+- Wonder: **Pyramid of the Sun**
+- Gain 1 Codex
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Shakzi I**
+	- +2 Culture on Wonders
+	- +2 Science on Wonders in Tundra
 
 ## Civics – Exploration
 ##### *Renaissance*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Krestyanskaya Reforma I**
+	- +15% Production, but -15% Growth Rate in Cities
+- +1 Tradition slot
+- +1 Settlement Limit
 ##### *Hierarchy*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Cultural|Classical Revival]] and [[Scientific|Alchemy]]
+- Wonder: **Notre Dame**
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Shakzi II**
+	- +3 Culture on Wonders
+	- +3 Science on Wonders in Tundra
 
 ## Civics – Modern
 ##### *Serfdom*
-- Unlocks the **Obschcina** Unique Improvement
-- +10% Production towards Wonders
-- +1 Food on Farms in Towns
-- Mastery
-	- +1 Production on Farms in Towns in Tundra
-	- Unlocks the **Emancipation Reform** Tradition
-		- +15% Production and -15% Growth in Cities
+- Improvement: **Obschcina**
+- Tradition: **Krestyanskaya Reforma II**
+	- +15% Production in Cities, or +20% Production in Cities in Tundra, but -15% Growth Rate in Cities
+- +1 Tradition slot
 ##### *Table of Ranks*
-- +1 Gold and Production on Districts in Cities
-- Unlocks the **Hermitage** Wonder
-- Mastery
-	- +1 Culture on Districts in Cities in Tundra
-	- Unlocks the **Westernization** Tradition
-		- +15% Science and -15% Culture in Cities
-	- +1 Settlement Limit
+- Wonder: **Hermitage**
+- Tradition: **Západnichestvo II**
+	- +15% Science in Cities, or +20% Science in Cities in Tundra, but -15% Culture in Cities
+- +1 Settlement Limit
 ##### *Samoderzhaviye*
-- Your units are immune to damage from blizzards
-- Enemy Units in your territory take double damage from blizzards
-- Unlocks the **General Moroz** Tradition
-	- +3 Combat Strength for Units in Tundra
-- Mastery
-	- +1% total Culture for every City, or 2% if the City is in Tundra
+- Tradition: **General Moroz II**
+	- +5 Combat Strength for Units in Tundra
+	- Enemy Units in your territory take double damage from Blizzards
+	- Your Units, Buildings, and Improvements are immune to damage from Blizzards
+- +1 Tradition slot
 ```mermaid
 graph LR;
 	A[Serfdom] --> B[Table of Ranks];
@@ -98,7 +102,7 @@ graph LR;
 ##### *Hermitage*
 - +4 Culture
 - +5 Culture in Settlements that have a Great Work on display
-- Has 3 Artifact slots
+- Has 3 Great Work slots
 - Must be placed on Tundra
 
 ## Starting Biases

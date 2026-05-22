@@ -20,11 +20,13 @@ tags:
 	- [[Assyria]]
 - Leaders
 	- [[Gilgamesh]]
-	- [[Xerxes, King of Kings|Xerxes]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
 
 ## Unique Ability
 ##### *Kayānī Crown*
 - +50% Influence toward Supporting Diplomatic Actions
+- +2/+6/+10 Food and Production in the Capital for every Settlement under the Settlement Limit
 
 ## Unique Infrastructure
 ##### Quarter: *Bāq*
@@ -39,53 +41,49 @@ tags:
 ## Unique Units
 ##### Cavalry Unit: *Gholām*
 - Has +1 Movement
-- +5 Combat Strength and +10 HP healing in the Command Radius of a Sardār Commander
+- +5 Combat Strength and +10 healing in the Command Radius of an Army Commander
 ##### Army Commander: *Sardār*
 - +1 Movement
-- While razing a Settlement, an additional Districts is Razed per turn in Settlements where this Commander is on a District
+- While razing a Settlement, twice as many Districts are Razed per turn in Settlements where this Commander is on a District
 
 ## Civics – Antiquity
 ##### *Origins*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Dār Al-Fonūn I**
+	- +3 Culture and +3 Science in the Capital for every Settlement under the Settlement Limit
+- +1 Tradition slot
 ##### *Foundation*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Diplomatic|Emissaries]] and [[Expansionist|Fractal Cities]]
+- +1 Specialist Limit in the Capital for this Age
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Waqāyeʿ-e Ettefāqiya I**
+	- +1 Influence in the Capital for every Settlement under the Settlement Limit
 
 ## Civics – Exploration
 ##### *Renaissance*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Soleymaniyeh Palace I**
+	- +0.25 Influence for every Population in the Capital
+- +1 Tradition slot
 ##### *Hierarchy*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Diplomatic|Spy Network]] and [[Expansionist|Municipal Charters]]
+- +1 Specialist Limit in the Capital for this Age
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Waqāyeʿ-e Ettefāqiya II**
+	- +1 Happiness and Influence in the Capital for every Settlement under the Settlement Limit
 
 ## Civics – Modern
 ##### *The Sun Throne*
-- Unlocks the **Takyeh** Unique Building
-- Unlocks the **Soleymaniyeh Palace** Tradition
+- Wonder: **Eram Garden**
+- Building: **Takyeh**
+- Tradition: **Soleymaniyeh Palace II**
 	- +0.5 Influence for every Population in the Capital
-- Unlocks the **Eram Garden** Wonder
-- Mastery
-	- When you Support an Endeavor receive 200 Culture and the other leader receives 100 Gold (on Standard Speed)
 ##### *Twelve Gates*
-- Unlocks the **Ghahve Khane** Unique Building
-- Unlocks the **Waqāyeʿ-e Ettefāqiya** Tradition
+- Building: **Ghahve Khane**
+- Tradition: **Dār Al-Fonūn II**
 	- +10 Science and Culture in the Capital for every Settlement under the Settlement Limit
-- Mastery
-	- +10 Food and Production in the Capital for every Settlement under the Settlement Limit
+- +1 Tradition slot
 ##### *Neẓām-e J̌adīd*
-- +1 Combat Strength for every 2 Settlements under the Settlement Limit to Land Combat Units
-- Unlocks the **Qullarāqāsi** Tradition
-	- Commanders Stationed on a District provide +15 Happiness
+- Tradition: **Qullarāqāsi**
+	- +1 Combat Strength for Land Military Units for every 2 Settlements under the Settlement Limit
 ```mermaid
 graph LR;
 	A[The Sun Throne] --> C[Neẓām-e J̌adīd];
@@ -95,7 +93,7 @@ graph LR;
 ## Associated Wonder
 ##### *Eram Garden*
 - +4 Food
-- +1 Specialist Limit in this City
+- +1 Specialist Limit in this Settlement
 - Must be built in Desert Terrain
 
 ## Starting Biases

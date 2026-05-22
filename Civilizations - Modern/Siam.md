@@ -19,14 +19,18 @@ tags:
 	- [[Chola]]
 	- [[Đại Việt]]
 - Leaders
-	- [[Ashoka, World Renouncer|Ashoka]]
-	- [[Himiko, Queen of Wa|Himiko]]
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
 	- [[José Rizal]]
 	- [[Trung Trac]]
 
 ## Unique Ability
 ##### *Itsaraphab*
-- Grants a unique Diplomatic Action to immediately become Suzerain of a City-State at a higher Influence Cost than Befriend Independent
+- Gains a unique Diplomatic Action to immediately become Suzerain of a City-State at a higher Influence Cost than Befriend Independent
+- +1/+2/+3 Influence for every Civilization your are Friendly or Helpful with
+- [Mod] +12 Tourism for every City-State you are Suzerain of
 
 ## Unique Infrastructure
 ##### Improvement: *Bang*
@@ -38,7 +42,7 @@ tags:
 - Has increased Ranged Strength and +1 Movement
 - Can move after attacking
 ##### Great Person: *Uparat*
-- Can only be trained in Cities when an Independent Power has been befriended
+- Can only be trained in Cities when when you are Suzerain of a City-State
 - **Chakrabongse**: Activate on Palace to immediately receive 100 Influence
 - **Dara Rasmi**: Activate on a City-State you are Suzerain of to turn it into a Town under your control
 - **Itsarasunthon**: Activate on a District to immediately trigger a Celebration
@@ -52,51 +56,46 @@ tags:
 
 ## Civics – Antiquity
 ##### *Origins*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Monthon I**
+	- +3 Gold on the Palace for each City-State you are Suzerain of
+- +1 Tradition slot
 ##### *Foundation*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Cultural|Enlightened Rule]] and [[Diplomatic|Emissaries]]
+- Wonder: **Pyramid of the Sun**
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Chatusadom I**
+	- +1 Culture and Influence on the Palace for each City-State you are Suzerain of
 
 ## Civics – Exploration
 ##### *Renaissance*
-- Tradition: ****
-	- 
-- 
+- Tradition: **San Lak Mueang I**
+	- +1 Influence from Gold Buildings
+- +1 Tradition slot
 ##### *Hierarchy*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Cultural|Classical Revival]] and [[Diplomatic|Spy Network]]
+- Wonder: **Notre Dame**
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Chatusadom II**
+	- +2 Culture and Influence on the Palace for each City-State you are Suzerain of
 
 ## Civics – Modern
 ##### *Nine Gems*
-- Unlocks the **Bang** Unique Improvement
+- Improvement: **Bang**
 - +2 Culture for every Civilization Relationship above Friendly status
-- Unlocks the **State Railway** Tradition
+- Tradition: **San Lak Mueang II**
 	- +2 Influence from Gold Buildings
 - Mastery
-	- +2 Influence for every Civilization Relationship above Friendly status
-	- Unlocks the **Sakdina** Tradition
-		- +2 Happiness in Cities for each City-State you are Suzerain of
+	- Wonder: **Doi Suthep**
+	- Tradition: **Sakdina**
+		- +2 Happiness and Influence in Cities for each City-State you are Suzerain of
 ##### *Mandala*
-- Chang Beun Units gain +6 Combat Strength in or adjacent to City-States you are Suzerain of
-- Unlocks the **Prathetsarat** Tradition
+- +1 Tradition slot
+- Tradition: **Prathetsarat**
 	- +20% Influence towards initiating Diplomatic Actions with City-States
-- Mastery
-	- +3 Culture on the Palace for every City-State you are Suzerain of
-	- Unlocks the **Mueang** Tradition
-		- +5 Gold for each Allied City-State
-	- Unlocks the **Doi Suthep** Wonder
 ##### *Sriwilai*
-- +2 Culture for every active Diplomatic Action with another Civilization
-- Mastery
-	- +5 Culture and +2 Gold for every Trade Route with another Civilization
+- +1 Tradition slot
+- Tradition: **Monthon II**
+	- +5 Gold and +3 Culture on the Palace for each City-State you are Suzerain of
 ```mermaid
 graph LR;
 	A[Nine Gems] --> B[Mandala];

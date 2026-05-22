@@ -21,17 +21,21 @@ tags:
 	- [[Augustus]]
 	- [[Catherine the Great]]
 	- [[Charlemagne]]
-	- [[Friedrich, Oblique|Friedrich]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
 	- [[Genghis Khan]]
-	- [[Napoleon, Emperor|Napoleon]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
 
 ## Unique Ability
 ##### *Blood and Iron*
-- Units receive +1 Combat Strength for every Unfriendly or worse Civilization Relationship
+- +1 Combat Strength for Military Units for every Unfriendly or Hostile Relationship with another Leader
+- You may establish and retain Trade Routes with Civilizations you are at War with
 
 ## Unique Infrastructure
 ##### Railroad: *Staatseisenbahn*
-- +2 Gold and Production on Rural tiles with a Staatseisenbahn
+- +2 Gold and Production on Rural tiles with a Staatseisenbahn in your territory
+- +2 GDP for every Settlement with a Staatseisenbahn
 
 ## Unique Units
 ##### Cavalry Unit: *Hussar*
@@ -42,51 +46,47 @@ tags:
 
 ## Civics – Antiquity
 ##### *Origins*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Coking I**
+	- +1 Production in the Capital for every Resource assigned to it
+- +1 Settlement Limit
+- +1 Tradition slot
 ##### *Foundation*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Diplomatic|Emissaries]] and [[Militaristic|Warrior Class]]
+- +1 Settlement Limit
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Tugenden I**
+	- +2 Science from active Sanctions you started
 
 ## Civics – Exploration
 ##### *Renaissance*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Realpolitik I**
+	- +1 Production in Cities for every Unfriendly or Hostile Relationship with another Leader
+- +1 Settlement Limit
+- +1 Tradition slot
 ##### *Hierarchy*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Diplomatic|Spy Network]] and [[Militaristic|Professional Army]]
+- +1 Settlement Limit
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Tugenden II**
+	- +3 Science from active Sanctions you started
 
 ## Civics – Modern
 ##### *Ruhr*
-- All Buildings gain a +1 Production Adjacency for Navigable Rivers
-- Mastery
-	- +1 Science on Resources
-	- Unlocks the **Coking** Tradition
-		- +1 Production in Cities for every Resource assigned to them
-##### *Zollverein*
-- You may establish and retain Trade Routes with Civilizations that you are at War with
+- Tradition: **Coking II**
+	- +1 Production in Cities for every Resource assigned to them
 - +1 Settlement Limit
-- Mastery
-	- +25% Trade Income in Cities connected with the Staatseisenbahn
-	- Unlocks the **Mediatization** Tradition
-		- +10% Culture in Cities not founded by you
+##### *Zollverein*
+- Tradition: **Mediatization**
+	- +10% Culture in Captured Settlements from any Age
+- +1 Tradition slot
 ##### *Ems Dispatch*
-- Unlocks the **Realpolitik** Tradition
-	- +10% Production in all Cities while at War
-- Unlocks the **Brandenburg Gate** Wonder
-- +25% Relationship change from Diplomatic Actions
+- Tradition: **Realpolitik I**
+	- +2 Production in Cities for every Unfriendly or Hostile Relationship with another Leader
+- Wonder: **Brandenburg Gate**
 ##### *Bewegungskrieg*
-- Cavalry Units gain +50% Combat Strength from Flanking
-- Unlocks the **Iron Cross** Tradition
+- Tradition: **Iron Cross**
 	- +3 Combat Strength for Units within the Command Radius of a Commander with a Commendation
+- +1 Settlement Limit
 ```mermaid
 graph LR;
 	A[Ruhr] --> B[Zollverein];

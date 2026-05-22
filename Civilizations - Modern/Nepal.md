@@ -10,9 +10,9 @@ tags:
 
   ![Nepal](https://assets.2k.com/1a6ngf98576c/7kdHwWsqsSzNsbR1yGr4sr/e54c3759d4342f55b36f938aec2dc85f/Civilizations_Desktop_Nepal.png)
 
-[[Cultural]], [[Diplomatic]]
+[[Diplomatic]], [[Cultural]]
 
->*Nepal never submits. From their high fortresses, the gurkhas watch vigilantly, and in the Durbar Square ministers plan and plot. Under the Nepali flag, the highest peaks become prosperous, and far below the brick stupas and spires, let Nepal's enemies tire themselves on the slopes.*
+>*Nepal never submits. From their high fortresses, the Gurkhas watch vigilantly, and in the Durbar Square ministers plan and plot. Under the Nepali flag, the highest peaks become prosperous, and far below the brick stupas and spires, let Nepal's enemies tire themselves on the slopes.*
 
 ## Unlocked
 - Have 3 Settlements with at least 5 Mountains
@@ -20,79 +20,80 @@ tags:
 	- [[Maurya]]
 	- [[Chola]]
 - Leaders
-	- [[Ashoka, World Renouncer|Ashoka]]
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
 	- [[Lakshmibai]]
 	- [[Pachacuti]]
 
 ## Unique Ability
 ##### *Roof of the World*
+- Can work Mountain Terrain
 - All Warehouse buildings apply to Mountain Terrain tiles, but they cost +1 Gold and Happiness Maintenance
+- [Mod] +1 Tourism from Unique Improvements on Mountains
 
 ## Unique Infrastructure
 ##### Improvement: *Highland Power Station*
 - +3 Production and +3 Culture
-- Must be built on Mountain terrain and is constructed by the Sherpa
+- Must be placed on a featureless Mountain Terrain and is constructed by the Sherpa
 
 ## Unique Units
 ##### Infantry Unit: *Gurkha*
 - Stronger, faster, and more expensive
 ##### Scout: *Sherpa*
 - Ignores Mountains and Rough Terrain for Sight
-- Ignores Mountains for Movement
+- Ignores featureless Mountains for Movement
+- Can move on Mount Everest
+- Can Claim Mountains within 5 tiles of one of your Settlements
 
 ## Civics – Antiquity
 ##### *Origins*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Himāl I**
+	- +2 Culture on Mountain Terrain in your Capital
+	- +1 Culture on Mountain Terrain in other Settlements
+- +1 Tradition slot
 ##### *Foundation*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Cultural|Enlightened Rule]] and [[Diplomatic|Emissaries]] 
+- Wonder: **Pyramid of the Sun**
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Kumar and Kumari I**
+	- +1 Culture on Warehouse Buildings
+	- +1 Influence on Mountains
 
 ## Civics – Exploration
 ##### *Renaissance*
-- Tradition: ****
-	- 
-- 
+- Tradition: **Maitri Sanadhi I**
+	- +25% Influence towards initiating Endeavors if you have the least amount of Settlements, +10% otherwise
+- +1 Tradition slot
 ##### *Hierarchy*
-- Attribute Traditions: 
-- 
+- Attribute Traditions: [[Cultural|Classical Revival]] and [[Diplomatic|Spy Network]]
+- Wonder: **Notre Dame**
 ##### *Syncretism*
-- Affirmation Tradition: ****
-	- 
+- Affirmation Tradition: **Kumar and Kumari II**
+	- +2 Culture on Warehouse Buildings
+	- +1 Influence on Mountains
 
 ## Civics – Modern
-##### *Sagarmatha*
-- Food and Science Buildings receive an adjacency from Mountains
-- Mastery
-	- Sherpas can activate on an unowned Mountain tile within 5 tiles of one of your Settlements' Palace or City Hall; a path of tiles is claimed back to the Settlement and the Mountain tile is improved immediately with a Highland Power Station
 ##### *Jyumdo Bagha*
-- All Districts adjacent to Mountains receive Defensive Fortifications, one-time effect; follows normal Walls placement rules
-- Mastery
-	- Unlocks the **Tundikhel** Tradition
-		- +3 Combat Strength for all Units adjacent to Mountain terrain; this is doubled if the Unit is also in your territory
+- Tradition: **Tundikhel**
+	- +3 Combat Strength for all Units adjacent to Mountains; this is doubled if the Unit is also in your territory
 	- Units complete Fortifications in 1 turn if adjacent to a Mountain
+- +1 Tradition slot
 ##### *Singha Durbar*
-- Unlocks the **Gift Gurkha** Action, which grants a Gurkha to another Civilization; Nepal receives a +10 Relationship with them and 5 (Scales by Gamespeed) Culture for the current Relationship Level with them; can only be done with Friendly or Helpful Civilizations
-- Unlocks the **Boudhanath** Wonder
-- Mastery
-	- +3 Influence on Culture Buildings
-	- Unlocks the **Maitri Sanadhi** Tradition
-		- +50% Influence towards initiating Endeavors if you have the least amount of Settlements, +20% otherwise
+- Wonder: **Boudhanath**
+- Unlocks the Gift Gurkha Action, which grants a Gurkha Unit to another Civilization; Nepal receives a +10 Relationship with them and 5 Culture (Scales by Gamespeed) for the current Relationship Level with them; can only be done with Friendly or Helpful Civilizations
+- Tradition: **Maitri Sanadhi II**
+	- +50% Influence towards initiating Endeavors if you have the least amount of Settlements, +20% otherwise
 ##### *Gorkhapatra*
-- Museums have 2 additional Great Work Slots
-- Unlocks the **Himāl** Tradition
-	- Mountain tiles receive +4 Culture in your Capital
-	- Mountain tiles receive +2 Culture in other Settlements
+- Tradition: **Himāl II**
+	- +4 Culture on Mountain Terrain in your Capital
+	- +2 Culture on Mountain Terrain in other Settlements
+- Tradition: **Sagarmatha**
+	- Food and Science Buildings receive an Adjacency from Mountains
+- +1 Tradition slot
 ```mermaid
 graph LR;
-	A[Sagarmatha] --> B;
-	A --> C[Singha Durbar];
 	B[Jyumdo Bagha] --> D[Gorkhapatra];
-	C --> D;
+	C[Singha Durbar] --> D;
 ```
 
 ## Associated Wonder
