@@ -23,43 +23,98 @@ tags:
 	- [[Benjamin Franklin]]
 	- [[Charlemagne]]
 	- [[Edward Teach]]
-	- [[Friedrich, Oblique|Friedrich]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
 	- [[Gilgamesh]]
 	- [[Isabella]]
 	- [[Lafayette]]
 	- [[Machiavelli]]
-	- [[Napoleon, Emperor|Napoleon]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
 	- [[Simón Bolívar]]
 
 ## Unique Ability
 ##### *Liberté, Egalité, Fraternité*
-- You can select the Celebration effects of any standard Government in Modern Age
+- You can select the Celebration effects of any standard current Age Government
 
-## Civic Tree
+## Unique Infrastructure
+##### Quarter: *Avenue*
+- +2 Happiness on Quarters in this City
+- Building: **Jardin à la Française**
+	- +9 Culture
+	- +1 Happiness Adjacency for Culture Buildings and Wonders
+- Building: **Salon**
+	- +9 Happiness
+	- +1 Culture Adjacency for Happiness Buildings and Wonders
+
+## Unique Units
+##### Infantry Unit: *Garde Impériale*
+- Can make a Ranged attack
+- +2 Combat Strength when adjacent to a friendly Army Commander
+- More expensive to train
+##### Great Person: *Jacobin*
+- Can only be trained in Cities with an Avenue
+- **Camille Desmoulins**: Activate on any City's District to add +1 Happiness on Quarters in that City
+- **Etta Palm D'Aelders**: Activated on a Palace or a City Hall to add a large amount of Happiness to it
+- **Georges Danton**: Activate on a Palace to immediately trigger a Celebration
+- **Jacques Nicolas Billaud-Varenne**: Activate on the Palace to grant all Land Units +3 Combat Strength in Districts
+- **Jacques Pierre Brissot**: Activate on the Palace to grant all Units +2 Combat Strength
+- **Jean-Paul Marat**: Activate on the Palace to add +1 Culture on Quarters
+- **Louis Antoine de Saint-Just**: Activate on an Army Commander to change its name to **Archangel of the Terror**; Units within this Command Radius gain +4 Combat Strength
+- **Maximilien Robespierre**: Activate on the Palace to unlock a unique Tradition, **Reign of Terror**
+	- +3 Culture on Quarters, but -25% Growth Rate in Cities
+- **Olympe de Gouges**: Activate on the Palace to add +1 Science on Quarters
+- **Paul Barras**: Activate on the Palace to increase all Support effects from Diplomatic Actions by 10%
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: **Style Empire I**
+	- Constructing a Building grants Culture equal to 15% of its Production cost
+	- +2 Culture on Happiness Buildings and Wonders
+- +1 Settlement Limit
+- +1 Tradition slot
+##### *Foundation*
+- Attribute Traditions: [[Cultural|Enlightened Rule]] and [[Diplomatic|Priestly Class]]
+- Wonder: **Pyramid of the Sun**
+##### *Syncretism*
+- Affirmation Tradition: **De l'Esprit des Loix I**
+	- +2 Culture for every Tradition slotted into the Government
+	- +2 Happiness for every Social Policy slotted into the Government
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: **Cocorico I**
+	- When you defeat an enemy Unit, gain Culture equal to 15% of its Combat Strength
+	- +2 Happiness on Military Buildings and Wonders
+- +1 Settlement Limit
+- +1 Tradition slot
+##### *Hierarchy*
+- Attribute Traditions: [[Cultural|Classical Revival]] and [[Diplomatic|Jubilee]]
+- Wonder: **Notre Dame**
+##### *Syncretism*
+- Affirmation Tradition: **De l'Esprit des Loix I**
+	- +3 Culture for every Tradition slotted into the Government
+	- +3 Happiness for every Social Policy slotted into the Government
+
+## Civics – Modern
 ##### *Belle Époque*
-- Unlocks the **Salon** Unique Building
-- Unlocks the **Style Empire** Tradition
+- Building: **Salon**
+- Tradition: **Style Empire II**
 	- Constructing a Building grants Culture equal to 25% of its Production cost
-- Mastery
 	- +2 Culture on Happiness Buildings and Wonders
 ##### *Voie Triomphale*
-- Unlocks the **Jardin à la Française** Unique Building
-- Unlocks the **Cocorico** Tradition
+- Building: **Jardin à la Française**
+- Tradition: **Cocorico II**
 	- When you defeat an enemy Unit, gain Culture equal to 25% of its Combat Strength
-- Mastery
 	- +2 Happiness on Military Buildings and Wonders
-	- +1 Settlement Limit
 ##### *Grande Armée*
-- Commanders immediately gain a Promotion
-- New Commanders start with a Promotion
-- Mastery
-	- +1 Combat Strength for Military Units for every Tradition slotted in the Government
-	- Unlocks the **Bataillon-Carré** Tradition
-		- Infantry Units gain the Swift ability, allowing them to ignore Zone of Control
+- Tradition: **Bataillon-Carré**
+	- Infantry Units gain the Swift ability, allowing them to ignore Zone of Control
+- +1 Settlement Limit
+- +1 Tradition slot
 ##### *Code Civil des Français*
-- +2 Culture for every Social Policy slotted into the Government
-- Unlocks the **Eiffel Tower** Wonder
-- +1 Social Policy slot
+- Wonder: **Eiffel Tower**
+- +1 Tradition slot
 ```mermaid
 graph LR;
 	A[Belle Époque] --> C[Grande Armée];
@@ -67,44 +122,10 @@ graph LR;
 	C --> D[Code Civil des Français];
 ```
 
-## Unique Military Unit
-##### *Garde Impériale*
-- Unique Infantry Unit
-- Can make a Ranged attack
-- +2 Combat Strength when within a friendly Army Commander Radius
-- More expensive to train.
-
-## Unique Civilian Unit
-##### *Jacobin*
-- Unique Great Person Unit
-	- **Paul Barras**: Activate on the Palace to increase all Support effects from Diplomatic Actions by 10%
-	- **Jacques Nicolas Billaud-Varenne**: Activate on the Palace to grant all Land Units +3 Combat Strength in Districts
-	- **Jacques Pierre Brissot**: Activate on the Palace to grant all Units +2 Combat Strength
-	- **Etta Palm D'Aelders**: Activated on a Palace or a City Hall to add a large amount of Happiness to it
-	- **Georges Danton**: Activate on a Palace to immediately trigger a Celebration
-	- **Camille Desmoulins**: Activate on any City's District to add +1 Happiness on Quarters in that City
-	- **Olympe de Gouges**: Activate on the Palace to add +1 Science on Quarters
-	- **Jean-Paul Marat**: Activate on the Palace to add +1 Culture on Quarters
-	- **Maximilien Robespierre**: Activate on the Palace to unlock a unique Tradition, **Reign of Terror**
-		- +3 Culture on Quarters, but -25% Growth Rate in Cities
-	- **Louis Antoine de Saint-Just**: Activate on an Army Commander to change its name to **Archangel of the Terror**; Units within this Command Radius gain +4 Combat Strength
-- Can only be trained in Cities with an Avenue
-
-## Unique Infrastructure
-##### *Avenue*
-- Unique Quarter
-- +2 Happiness on Quarters in this City
-- Unique Building: **Jardin à la Française**
-	- +9 Culture
-	- +1 Happiness Adjacency for Culture Buildings and Wonders
-- Unique Building: **Salon**
-	- +9 Happiness
-	- +1 Culture Adjacency for Happiness Buildings and Wonders
-
 ## Associated Wonder
 ##### *Eiffel Tower*
 - +5 Culture
-- +3 Culture and Happiness on Quarters in this City
+- +4 Culture and +2 Tourism on Quarters in this City
 - Must be built adjacent to a District
 
 ## Starting Bias

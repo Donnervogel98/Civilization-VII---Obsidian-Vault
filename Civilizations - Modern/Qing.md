@@ -21,29 +21,79 @@ tags:
 
 ## Unique Ability
 ##### *Kang Qian Shengshi*
-- +4 Gold, +4 Culture, +2 Influence, but -4 Science per Trade Route
+- +1/+2/+3 Gold and Culture for every imported Resource, but -2/-4/-6 Science per Trade Route
+- [Mod] +1 GDP per turn for imported Resources assigned to Cities
+- +1 Combat Strength for Land Units for every other Civilization you have a Trade Route with
 
-## Civic Tree
-##### *Ten Great Campaigns*
-- +1 Combat Strength for all Units for every Civilization and City-State you have a Trade Route with
-- Unlocks the **Chuang Guandong** Tradition
+## Unique Infrastructure
+##### Quarter: *Huiguan*
+- +25% Influence in this Settlement
+- Building: **Shiguan**
+	- +9 Science
+	- +1 Happiness Adjacency for Happiness Buildings and Wonders
+- Building: **Qianzhuang**
+	- +9 Gold
+	- +1 Gold Adjacency for Gold Buildings and Wonders
+
+## Unique Units
+##### Infantry Unit: *Gusa*
+- +4 Combat Strength if adjacent to another Gusa
+##### Merchant: *Hangshang*
+- Gain 50 Gold for every Resource acquired when creating a Naval Trade Route
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: **Tun Ken I**
 	- +25% Growth Rate in Towns with a Resource assigned to them
+- Unlocks Merchants
+- Gain a free Merchant
+- +1 Settlement Limit
+- +1 Tradition slot
+##### *Foundation*
+- Attribute Traditions: [[Economic|Merchant Class]] and [[Expansionist|Fractal Cities]]
+- +1 Settlement Limit
+##### *Syncretism*
+- Affirmation Tradition: **Ethnic Stratification I**
+	- +2 Resource Capacity in the Capital
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: **Cohong I**
+	- +1 Influence in the Capital for every 2 Resources assigned to it
+- +1 Tradition slot
+- Mastery
+	- Tradition: **Banner Army I**
+		- +20% Production towards training Land Units
+		- -1 Gold Maintenance for Land Units
+	- +1 Settlement Limit
+##### *Hierarchy*
+- Attribute Traditions: [[Economic|Supply and Demand]] and [[Expansionist|Yanakuna]]
+- +1 Settlement Limit
+##### *Syncretism*
+- Affirmation Tradition: **Ethnic Stratification II**
+	- +2 Resource Capacity in Cities founded by you
+
+## Civics – Modern
+##### *Ten Great Campaigns*
+- Tradition: **Tun Ken II**
+	- +50% Growth Rate in Towns with a Resource assigned to them
+- +1 Settlement Limit
 ##### *Open Customs*
-- Unlocks the **Qianzhuang** Unique Building
-- +1 Culture from imported Resources
-- Unlocks the **Cohong** Tradition
-	- +50% Trade Income
+- Building: **Qianzhuang**
+- Tradition: **Cohong II**
+	- +1 Influence in Cities for every 2 Resources assigned to them
 - +1 Settlement Limit
 ##### *Kang Xi Tax Reformation*
-- Unlocks the **Shiguan** Unique Building
-- +2 Food from Resources assigned to Cities
-- Unlocks the **Farmland Assessment** Tradition
-	- +5% Production towards training Land Units
+- Building: **Shiguan**
+- Tradition: **Farmland Assessment**
+	- +2 Food in Cities for each Resource assigned to them
+- +1 Tradition slot
 ##### *Stabilizing Frontier*
 - +2 Happiness from Resources assigned to Cities
-- Unlocks the **Banner Army** Tradition
-	- +3 Combat Strength for all Units against Land Units
-- Unlocks the **Chengde Mountain Resort** Wonder
+- Tradition: **Banner Army II**
+	- +30% Production towards training Land Units
+	- -2 Gold Maintenance for Land Units
+- Wonder: **Chengde Mountain Resort**
 ```mermaid
 graph LR;
 	A[Ten Great Campaigns] --> B[Open Customs];
@@ -51,27 +101,6 @@ graph LR;
 	B --> D[Stabilizing Frontier];
 	C --> D;
 ```
-
-## Unique Military Unit
-##### *Gusa*
-- Unique Infantry Unit
-- +4 Combat Strength if adjacent to another Gusa Unit
-
-## Unique Civilian Unit
-##### *Hangshang*
-- Unique Merchant
-- Gain 50 Gold for every Resource acquired when creating a naval Trade Route
-
-## Unique Infrastructure
-##### *Huiguan*
-- Unique Quarter
-- +25% Influence in this Settlement
-- Unique Building: **Shiguan**
-	- +9 Science
-	- +1 Happiness Adjacency for Happiness Buildings and Wonders
-- Unique Building: **Qianzhuang**
-	- +9 Gold
-	- +1 Gold Adjacency for Gold Buildings and Wonders
 
 ## Associated Wonder
 ##### *Chengde Mountain Resort*

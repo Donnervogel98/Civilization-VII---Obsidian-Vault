@@ -35,7 +35,7 @@ tags:
 - Lvl 5 Memento: ***Kwalkwali***
 	- +1 Gold per Age for each Resource assigned to Cities
 - Lvl 9 Memento: ***Rawani***
-	- +3 Combat Strength to a Unit's next attack after they destroy an enemy Unit
+	- +3 Combat Strength to a Unit's next attack after they defeat an enemy Unit
 - Lvl 10 Title: **Warrior-Queen**
 
 ![AminaReveal](https://assets.2k.com/1a6ngf98576c/61tyDhr8w3yHpOahBW3wE8/6b135927b6593103b6e644efc7f2dcc4/Leaders_Amina_400x240.jpg)

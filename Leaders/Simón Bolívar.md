@@ -30,7 +30,7 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Gold Snuff Box***
-	- +20% Food when in only one Alliance
+	- +20 Food per Age in Cities when in only one Alliance
 - Lvl 5 Memento: ***Davalos Medal***
 	- +1 Happiness per Age on Military Buildings
 - Lvl 9 Memento: ***Letter to Jamaica***

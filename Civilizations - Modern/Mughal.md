@@ -8,7 +8,7 @@ tags:
 
 [[Economic]], [[Expansionist]]
 
->*From the Peacock Throne, the Mughals oversee lands spraling and rich, decadent and earnest, where architects dream of wonders and commoners dream of bread. Its contrasts are yours – give the order.*
+>*From the Peacock Throne, the Mughals oversee lands sprawling and rich, decadent and earnest, where architects dream of wonders and commoners dream of bread. Its contrasts are yours – give the order.*
 
 ## Unlocked
 - Have at least three Trade Routes with unique Civilizations
@@ -17,39 +17,79 @@ tags:
 	- [[Abbasid]]
 	- [[Chola]]
 - Leaders
-	- [[Ashoka, World Renouncer|Ashoka]]
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
 	- [[Genghis Khan]]
 	- [[Hatshepsut]]
 	- [[Ibn Battuta]]
 	- [[Lakshmibai]]
 	- [[Sayyida al Hurra]]
-	- [[Xerxes, King of Kings|Xerxes]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
 
 ## Unique Ability
 ##### *Paradise of Nations*
 - +100% Gold Yields
-- -25% to all other yields
+- -25% to all other yields except Food
+- You can purchase Wonders with Gold, but they are 150% more expensive
 
-## Civic Tree
+## Unique Infrastructure
+##### Improvement: *Stepwell*
+- +2 Food
+- +2 Food from adjacent Farms
+- Must be placed on Flat Terrain
+- Cannot be placed adjacent to another Stepwell
+
+## Unique Units
+##### Infantry Unit: *Sepoy*
+- Can make a Ranged Bombard attack
+##### Settler: *Zamindar*
+- +1 Population on new Towns
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: **Qilachas I**
+	- +1 Gold on Fortified Districts
+- +1 Settlement Limit
+- +1 Tradition slot
+##### *Foundation*
+- Attribute Traditions: [[Economic|Merchant Class]] and [[Expansionist|Fractal Cities]]
+- +1 Settlement Limit
+##### *Syncretism*
+- Affirmation Tradition: **Karkhanas I**
+	- +1 Gold on Farms in Towns
+
+## Civics – Exploration
+##### *Renaissance*
+- Tradition: **Mayūrāsana I**
+	- +5% Gold towards purchasing Units, Improvements, Buildings, and Wonders
+- +1 Settlement Limit
+- +1 Tradition slot
+##### *Hierarchy*
+- Attribute Traditions: [[Economic|Supply and Demand]] and [[Expansionist|Yanakuna]]
+- +1 Settlement Limit
+##### *Syncretism*
+- Affirmation Tradition: **Karkhanas II**
+	- +2 Gold on Farms in Towns
+
+## Civics – Modern
 ##### *Zabt*
-- +1 Gold on Farms in Towns
-- Unlocks the **Jins-i Kamil** Tradition
+- Improvement: **Stepwell**
+- Tradition: **Jins-i Kamil**
 	- +1 Food on Farms for each adjacent Plantation, and on Plantations for each adjacent Farm
-- Unlocks the **Stepwell** Improvement
+- +1 Tradition slot
 ##### *Jagir*
-- +1 Happiness on Farms
-- Unlocks the **Qilachas** Tradition
-	- +2 Gold on Fortified Quarters
+- Tradition: **Qilachas II**
+	- +2 Gold on Fortified Districts
 - +1 Settlement Limit
 ##### *Mansabdari*
-- +25% Gold towards purchasing Infantry Units
-- Unlocks **Gunpowder Empire** Tradition
+- Tradition: **Gunpowder Empire**
 	- +3 Combat Strength for all Units
-- Unlocks the **Red Fort** Wonder
+- Wonder: **Red Fort**
 ##### *Gardens of Paradise*
-- You can purchase Wonders with Gold
-- Unlocks the **Mayūrāsana** Tradition
-	- +10% Gold towards purchasing anything
+- Tradition: **Mayūrāsana II**
+	- +10% Gold towards purchasing Units, Improvements, Buildings, and Wonders
+- +1 Tradition slot
 ```mermaid
 graph LR;
 	A[Zabt] --> B[Jagir];
@@ -58,31 +98,13 @@ graph LR;
 	C --> D;
 ```
 
-## Unique Military Unit
-##### *Sepoy*
-- Unique Infantry Unit
-- Can make a Bombard Ranged attack
-
-## Unique Civilian Unit
-##### *Zamindar*
-- Unique Settler
-- +1 Population on new Settlements
-
-## Unique Infrastructure
-##### *Stepwell*
-- Unique Improvement
-- +2 Food
-- +2 Food from adjacent Farms
-- Must be placed on Flat Terrain
-- Cannot be placed adjacent to another Stepwell Improvement
-
 ## Associated Wonder
 ##### *Red Fort*
 - +4 Gold
 - +4 Production
 - Acts as a Fortified District that must be conquered
 - +50 HP to this tile and all City Centers
-- Must be built adjacent to a District
+- Must be adjacent to a District
 
 ## Starting Bias
 - Flat

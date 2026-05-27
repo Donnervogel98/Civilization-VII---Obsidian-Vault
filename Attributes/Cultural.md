@@ -53,10 +53,10 @@ Cultural Leaders gain access to the below upon reaching the appropriate level in
 	- [[Maya]]
 	- [[Rome]]
 - Exploration
+	- [[Đại Việt]]
 	- [[Hawai'i]]
 	- [[Iceland]]
 	- [[Majapahit]]
-	- [[Đại Việt]]
 - Modern
 	- [[Buganda]]
 	- [[French Empire]]

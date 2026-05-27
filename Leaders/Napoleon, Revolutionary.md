@@ -30,7 +30,7 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Artilleryman's Glones***
-	- +1 Culture per Age for every Army Commander Level
+	- +2 Culture for each Army Commander Promotion
 - Lvl 5 Memento: ***Bicorne Hat***
 	- +1 Movement for Infantry Units
 - Lvl 9 Memento: ***Legion d'honneur Grand Eagle and Cross***

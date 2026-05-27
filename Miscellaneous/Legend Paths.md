@@ -57,7 +57,7 @@ Mementos are items that can be equipped to your Leader when starting a game or t
 - Lvl 7: ***Imago Mundi***
 	- +2 Sight instead of +1 for Scout's Search & Lookout abilities
 - Lvl 8: ***Corpus Juris Civilis***
-	- Start with one extra Social Policy slot
+	- Start with one extra Social Policy Slot
 - Lvl 9: ***The Travels of Marco Polo***
 	- +50 Gold for every 100 Tiles Explored by your Units
 - Lvl 14: ***Equestrian Figure***
@@ -67,13 +67,13 @@ Mementos are items that can be equipped to your Leader when starting a game or t
 - Lvl 24: Colada & Tizona
 	- +2 Combat Strength for Units adjacent to 2 or more enemy Units
 - Lvl 29: ***Shisa Necklace***
-	- Gain 100 Influence when you become Suzerain of a City-State
+	- Gain 50 Influence per Age when you become Suzerain of a City-State
 - Lvl 34: ***Agincourt Arrowhead***
 	- +1 Movement for Ranged Units
 - Lvl 39: ***Garuda Statue***
 	- +1 Population in your smallest Settlement every time you start a Celebration
 - Lvl 44: ***The Art of War***
-	- +10% Commander Experience; +50% when your Commander is within the Command Radius of a higher level Commander
+	- +10% Commander Experience; +50% when within the Command Radius of a higher level Commander
 - Lvl 49: ***Royal Game of Ur***
-	- +10% Science when outpaced in Tech by at least half of other Leaders; +10% Culture when outpaced in Civics by at least half of other Leaders
+	- +10% Science when outpaced in Tech by half of Civs; +10% Culture when outpaced in Civics by half of Civs
 

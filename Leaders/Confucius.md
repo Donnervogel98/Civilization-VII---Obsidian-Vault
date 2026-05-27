@@ -34,7 +34,7 @@ tags:
 - Lvl 5 Memento: ***Altar Set***
 	- +1 Culture from Specialists
 - Lvl 9 Memento: ***The Analects***
-	- +1 Science per Specialist
+	- +1 Science from Specialists
 - Lvl 10 Title: **Great Sage**
 
 ![Confucius](https://assets.2k.com/1a6ngf98576c/65pGWxSViha5meZ3rOZAY/4f2ede0ef6caa478393925f3b4253fe2/Civilizations_Confusius_400x240.png)

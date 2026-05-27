@@ -30,11 +30,11 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Poteskwate***
-	- +1 Food per Age in Settlements for each City-State you are Suzerain of
+	- +1 Food per Age in Towns for each City-State you are Suzerain of
 - Lvl 5 Memento: ***Wampum Belt***
-	- +1 Production per Age in Settlements for each City-State you are Suzerain of
+	- +1 Production per Age in Cities for each City-State you are Suzerain of
 - Lvl 9 Memento: ***Warclub***
-	- +1 Combat Strength for all Units for every City-State you are Suzerain of
+	- +1 Combat Strength for Infantry Units for every City-State you are Suzerain of
 - Lvl 10 Title: **Chief**
 
 ![Tecumseh](https://assets.2k.com/1a6ngf98576c/28OdYrD0YGA7PD1AatZMin/a779610e5d17410981f57d5f8e5e7e62/Civilizations_Tecumseh_400x240.jpg)

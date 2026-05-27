@@ -67,8 +67,7 @@ tags:
 - +1 Tradition slot
 ##### *Maleki Kintake*
 - Tradition: **Takesiyake Yepepoki**
-	- +2 Production on Improvements on Tundra, Desert, and Plains terrain in Cities
-	- These numbers are doubled if the tile is also Navigable River Terrain
+	- +2 Production on Improvements on Tundra, Desert, and Plains terrain in Cities; these numbers are doubled if the tile is also Navigable River Terrain
 - +1 Tradition slot
 
 ```mermaid

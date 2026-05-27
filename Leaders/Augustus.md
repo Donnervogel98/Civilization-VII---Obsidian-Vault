@@ -27,7 +27,7 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Corona Civica***
-	- +1 Settlement Limit per Age, but +50% Convert to City cost
+	- +1 Settlement Limit each Age, but +50% Convert to City cost
 - Lvl 5 Memento: ***Breastplate***
 	- +2 Food per Age in Towns
 - Lvl 9 Memento: ***Clipeus Virtutis***

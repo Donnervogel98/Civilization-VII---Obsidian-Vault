@@ -31,7 +31,7 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Chanda-mahasena***
-	- +5 Combat Strength against Fortified Districts for all Units during a Celebration
+	- +3 Combat Strength against Fortified Districts for all Units during a Celebration
 - Lvl 5 Memento: ***Silk Uttariya***
 	- +2 Production per Age in Cities with positive Happiness
 - Lvl 9 Memento: ***Lion Capital***

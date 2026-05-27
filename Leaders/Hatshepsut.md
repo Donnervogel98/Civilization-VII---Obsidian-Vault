@@ -34,7 +34,7 @@ tags:
 - Lvl 5 Memento: ***False Beard***
 	- +2 Culture on Wonders
 - Lvl 9 Memento: ***Uraeus***
-	- +10% Culture in Cities with at least 1 Wonder
+	- +10 Culture per Age in Cities with at least 1 Wonder
 - Lvl 10 Title: **Voice of the Sun**
 
 ![Hatshepsut](https://assets.2k.com/1a6ngf98576c/78kRWFXNxm1e5VtkwcGZGl/cef11e7551f0b41682657980eca358ad/Civilizations_Hatshepsut_400x240.png)

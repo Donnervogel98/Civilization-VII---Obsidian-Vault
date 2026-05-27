@@ -40,8 +40,7 @@ tags:
 - Has a Ranged attack
 ##### Merchant: *Maritime Envoy*
 - When creating a naval Trade Route, the target player receives +100 Culture (Scales by Game Speed)
-- A Treasure Convoy unit worth 1 Cargo spawns for you near the target's border
-- Doubled in value if the target is in Distant Lands
+- A Treasure Convoy unit worth 1 Cargo spawns for you near the target's border; doubled in value if the target is in Distant Lands
 
 ## Civics – Antiquity
 ##### *Origins*

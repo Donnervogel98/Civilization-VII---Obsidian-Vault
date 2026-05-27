@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1e12b9a66c468e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Civilization – Exploration.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Civilization – Exploration"
-            }
-          },
-          {
             "id": "d8a6453b481c33f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civilizations - Exploration/Spain.md",
+                "file": "Miscellaneous/Legend Paths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spain"
+              "title": "Legend Paths"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "061d0da6414d985b",
@@ -48,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Civilizations - Exploration/Spain.md",
+                "file": "Miscellaneous/Legend Paths.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#Civilization OR tag:#Leader",
@@ -130,35 +115,20 @@
                   "textFadeMultiplier": -1.5,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.505208333333333,
                   "repelStrength": 9.79166666666667,
                   "linkStrength": 1,
                   "linkDistance": 138,
-                  "scale": 1.0000000000000253,
+                  "scale": 1.000000000000027,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Spain"
-            }
-          },
-          {
-            "id": "6e479d6ca69d4b15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zUtils/zWork.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "zWork"
+              "title": "Graph of Legend Paths"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,10 +278,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Civilizations - Antiquity/Mississippian.md"
+                "file": "Civilizations - Modern/Siam.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Mississippian"
+              "title": "File properties for Siam"
             }
           }
         ],
@@ -335,32 +305,33 @@
   },
   "active": "d8a6453b481c33f6",
   "lastOpenFiles": [
+    "Leaders/Xerxes, King of Kings.md",
+    "Leaders/Xerxes, the Achaemenid.md",
+    "Leaders/Trung Trac.md",
+    "Leaders/Tecumseh.md",
+    "Leaders/Sayyida al Hurra.md",
+    "Leaders/Pachacuti.md",
+    "Leaders/Napoleon, Revolutionary.md",
+    "Leaders/Napoleon, Emperor.md",
+    "Leaders/Machiavelli.md",
+    "Leaders/Lakshmibai.md",
+    "Leaders/Lafayette.md",
+    "Leaders/José Rizal.md",
+    "Leaders/Isabella.md",
+    "Leaders/Ibn Battuta.md",
+    "Leaders/Himiko, Queen of Wa.md",
+    "Leaders/Himiko, High Shaman.md",
+    "Leaders/Hatshepsut.md",
+    "Leaders/Harriet Tubman.md",
+    "Leaders/Gilgamesh.md",
+    "Leaders/Genghis Khan.md",
+    "Leaders/Friedrich, Oblique.md",
+    "Leaders/Friedrich, Baroque.md",
+    "Leaders/Edward Teach.md",
+    "Leaders/Confucius.md",
+    "Leaders/Catherine the Great.md",
+    "Leaders/Charlemagne.md",
     "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
-    "zUtils/zWork.md",
-    "Civilizations - Exploration/Spain.md",
-    "Civilizations - Exploration/Republic of Pirates.md",
-    "Civilizations - Exploration/Norman.md",
-    "Templates/Civilization – Exploration.md",
-    "Civilizations - Exploration/Songhai.md",
-    "Civilizations - Exploration/Shawnee.md",
-    "Civilizations - Antiquity/Greece.md",
-    "Civilizations - Exploration/Mongolia.md",
-    "Civilizations - Exploration/Ming.md",
-    "Civilizations - Exploration/Majapahit.md",
-    "Attributes/Economic.md",
-    "Attributes/Expansionist.md",
-    "Civilizations - Exploration/Inca.md",
-    "Civilizations - Exploration/Iceland.md",
-    "Civilizations - Exploration/Hawai'i.md",
-    "Civilizations - Exploration/Đại Việt.md",
-    "Civilizations - Exploration/Chola.md",
-    "Civilizations - Antiquity/Mississippian.md",
-    "Civics 1.4.md",
-    "Old Civics.md",
-    "Civilizations - Antiquity/Maya.md",
-    "Civilizations - Antiquity/Silla Korea.md",
-    "Civilizations - Exploration/Bulgaria.md",
-    "Civilizations - Exploration/Abbasid.md",
     "Untitled.base",
     "Templates",
     "Miscellaneous",
@@ -372,7 +343,6 @@
     "Lists/Attribute Lists",
     "Mughal_(Civ7).webp",
     "Lists",
-    "SyncToy_cf32a261-b73b-4056-b192-4bf0f842b37d.dat",
     "Leaders_Catherine_400x240.avif",
     "Leaders_Amina_400x240.avif",
     "desmoscache/desmos-graph-6b720570ab905e62175121889c068611eda10d37f19ed29c240c96a863ee2c77.svg"

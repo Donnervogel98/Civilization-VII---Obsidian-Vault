@@ -28,9 +28,9 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Chakra***
-	- +1 Food in the Capital for every 5 excess Happiness
+	- +1 Food in your Capital for every 5 excess Happiness
 - Lvl 5 Memento: ***Gold & Sapphire Flowers***
-	- Gain 100 Food in the Capital when you spend an Attribute Point on the Expansionist Attribute Tree
+	- Gain 100 Food in Capital when you spend an Attribute Point on the Expansionist Attribute Tree
 - Lvl 9 Memento: ***Diamond Throne***
 	- +1 Happiness per Age on Quarters during a Celebration
 - Lvl 10 Title: **World Renouncer**
