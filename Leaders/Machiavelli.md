@@ -31,7 +31,7 @@ tags:
 - Lvl 5 Memento: ***Dell'Arte della Guerra***
 	- +3 Gold per Sanction you have active per Age
 - Lvl 9 Memento: ***Il Principe***
-	- Declaring a Formal War decreases relationship with all untargeted Civilizations by 25
+	- Declaring a Formal War decreases target's relationship with all other Civs by 25
 - Lvl 10 Title: **The Prince**
 
 ![Machiavelli](https://assets.2k.com/1a6ngf98576c/70NJzmRJ3XUDKgzvxZEOFk/c68b31c6cfda00abe9be07357cdc8f82/Civilizations_Machiavelli_400x240.jpg)

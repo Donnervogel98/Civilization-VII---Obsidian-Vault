@@ -31,9 +31,9 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Kiem***
-	- +1 Science for every Commander Level
+	- +2 Science for each Army Commander Promotion
 - Lvl 5 Memento: ***Ankus***
-	- +1 free War Support on all wars
+	- +1 War Support on all wars
 - Lvl 9 Memento: ***Dong Son Drum***
 	- Declaring a Formal War against another Civilization grants a Tech Boost
 - Lvl 10 Title: **Rebel Queen**

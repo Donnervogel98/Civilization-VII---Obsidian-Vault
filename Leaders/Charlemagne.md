@@ -30,7 +30,7 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Joyeuse***
-	- +2 Happiness for every Cavalry Unit
+	- +1 Happiness per Age on Cavalry Units Stationed on a Palace or City Hall
 - Lvl 5 Memento: ***Globus Cruciger***
 	- +50 Influence when you spend an Attribute Point on the Diplomatic Attribute tree
 - Lvl 9 Memento: ***Tencendur***

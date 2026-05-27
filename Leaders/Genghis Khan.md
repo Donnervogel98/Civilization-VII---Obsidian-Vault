@@ -32,9 +32,9 @@ tags:
 - Lvl 2 Memento: ***Paiza***
 	- -1 Gold Maintenance on Cavalry Units
 - Lvl 5 Memento: ***Saddle***
-	- +1 Food per Age per Cavalry Unit Stationed on a Town Center
+	- +1 Food per Age on Cavalry Units Stationed on a Palace or City Hall
 - Lvl 9 Memento: ***Sulde***
-	- +1 Culture per Age for each Commander Promotion
+	- +1 Culture per Age on Cavalry Units Stationed on a Palace or City Hall
 - Lvl 10 Title: **Chosen of Tengri**
 
 

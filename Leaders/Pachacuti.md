@@ -34,7 +34,7 @@ tags:
 - Lvl 5 Memento: ***All-T'oqapu Tunic***
 	- +1 Sight for Scouts adjacent to Mountains
 - Lvl 9 Memento: ***Mascapaycha***
-	- +1 Gold and Food from Specialists in tiles adjacent to Mountains
+	- +1 Gold from Specialists; +1 additional Gold from Specialists in tiles adjacent to Mountains
 - Lvl 10 Title: **Earth Shaker**
 
 ![Pachacuti](https://assets.2k.com/1a6ngf98576c/164ahIlB0yGU8sMGZydOSu/c5aaa008294fd10bd64ac8df382bb8a9/Civilizations_Pachacuti_400x240.jpg)

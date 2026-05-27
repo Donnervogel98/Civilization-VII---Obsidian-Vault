@@ -30,11 +30,11 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Dhal***
-	- +2 Combat Strength when defending in friendly territory
+	- +2 Combat Strength defending in friendly territory
 - Lvl 5 Memento: ***Baadal's Reins***
 	- +1 Influence per Age per Pasture Improvement
 - Lvl 9 Memento: ***Flag of Jhansi***
-	- +1 Influence per Age for each Commander Promotion
+	- +2 Influence for each Army Commander Promotion
 - Lvl 10 Title: **Rani of Jhansi**
 
 

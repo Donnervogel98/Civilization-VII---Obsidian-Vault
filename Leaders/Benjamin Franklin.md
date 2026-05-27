@@ -28,11 +28,11 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Bifocals***
-	- Gain 50 Influence after researching a Tech or Civic Mastery
+	- Gain 25 Influence per Age after researching a Technology
 - Lvl 5 Memento: ***Kite & Key***
 	- +10% Science towards researching Tech Masteries
 - Lvl 9 Memento: ***Glass Armonica***
-	- +10% Science and Happiness when in an Alliance for you and your ally
+	- +15 Science and Happiness per Age when in an Alliance for you and your ally
 - Lvl 10 Title: **First American**
 
 ![Benjamin Franklin](https://assets.2k.com/1a6ngf98576c/2kvj4GrX8VSKqc2t073zjS/d5d6ec71b9d08bc87581545831f7883d/Leaders_Benji_400x240.jpg)

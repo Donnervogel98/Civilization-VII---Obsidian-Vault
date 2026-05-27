@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civilizations - Modern/Nepal.md",
+                "file": "Miscellaneous/Legend Paths.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nepal"
+              "title": "Legend Paths"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Civilizations - Modern/Nepal.md",
+                "file": "Miscellaneous/Legend Paths.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#Civilization OR tag:#Leader",
@@ -125,7 +125,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Nepal"
+              "title": "Graph of Legend Paths"
             }
           }
         ]
@@ -305,32 +305,32 @@
   },
   "active": "d8a6453b481c33f6",
   "lastOpenFiles": [
-    "Civilizations - Modern/Siam.md",
-    "Civilizations - Modern/Russia.md",
-    "Civilizations - Modern/Mexico.md",
-    "Civilizations - Modern/Qing.md",
-    "Civilizations - Modern/Qajar.md",
-    "Civilizations - Modern/Prussia.md",
-    "Civilizations - Modern/Ottomans.md",
-    "Civilizations - Modern/Nepal.md",
-    "Civilizations - Modern/Mughal.md",
-    "Attributes/Expansionist.md",
-    "Civilizations - Modern/Meiji Japan.md",
-    "zUtils/Antiquity Trees.md",
-    "Templates/Template - Civilization.md",
-    "zUtils/zWork.md",
+    "Leaders/Xerxes, King of Kings.md",
+    "Leaders/Xerxes, the Achaemenid.md",
+    "Leaders/Trung Trac.md",
+    "Leaders/Tecumseh.md",
+    "Leaders/Sayyida al Hurra.md",
+    "Leaders/Pachacuti.md",
+    "Leaders/Napoleon, Revolutionary.md",
+    "Leaders/Napoleon, Emperor.md",
+    "Leaders/Machiavelli.md",
+    "Leaders/Lakshmibai.md",
+    "Leaders/Lafayette.md",
+    "Leaders/José Rizal.md",
+    "Leaders/Isabella.md",
+    "Leaders/Ibn Battuta.md",
+    "Leaders/Himiko, Queen of Wa.md",
+    "Leaders/Himiko, High Shaman.md",
+    "Leaders/Hatshepsut.md",
+    "Leaders/Harriet Tubman.md",
+    "Leaders/Gilgamesh.md",
+    "Leaders/Genghis Khan.md",
     "Leaders/Friedrich, Oblique.md",
-    "Civilizations - Modern/French Empire.md",
-    "Leaders/Benjamin Franklin.md",
-    "Civilizations - Modern/America.md",
-    "Civilizations - Exploration/Iceland.md",
-    "Civilizations - Antiquity/Maya.md",
-    "Civilizations - Exploration/Hawai'i.md",
-    "Attributes/Scientific.md",
-    "Attributes/Militaristic.md",
-    "Attributes/Cultural.md",
-    "Lists/List of Leaders.md",
-    "Lists/List of Civilizations.md",
+    "Leaders/Friedrich, Baroque.md",
+    "Leaders/Edward Teach.md",
+    "Leaders/Confucius.md",
+    "Leaders/Catherine the Great.md",
+    "Leaders/Charlemagne.md",
     "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
     "Untitled.base",
     "Templates",

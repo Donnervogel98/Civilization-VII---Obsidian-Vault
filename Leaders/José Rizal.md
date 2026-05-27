@@ -35,7 +35,7 @@ tags:
 - Lvl 5 Memento: ***Ophthalmoscope***
 	- +25% Celebration Duration
 - Lvl 9 Memento: ***Noli Me Tángere***
-	- +10% to Science, Culture, and Gold for each Legacy Path completed in this Age
+	- +1 Science, Culture, and Gold per Age for each major Triumph completed in an Age
 - Lvl 10 Title: **National Hero**
 
 ![José Rizal](https://assets.2k.com/1a6ngf98576c/2MNo3ICjvLnEufbeqVNcAJ/21291cf5f44a7ca7aeea9ec0653c5197/Leaders_Jose-Rizal_400x240.jpg)

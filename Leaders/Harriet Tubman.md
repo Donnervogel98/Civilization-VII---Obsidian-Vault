@@ -30,7 +30,7 @@ tags:
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ***Lantern***
-	- A Migrant appears in the Capital whenever you complete an Espionage Action without being detected
+	- Gain a Migrant in the Capital whenever you complete an undetected Espionage Action
 - Lvl 5 Memento: ***Satchel***
 	- If a Settler is defeated, it respawns in your Capital after 3 turns (on Standard Speed)
 - Lvl 9 Memento: ***Sidearm***

@@ -57,11 +57,11 @@ tags:
 - **Al-Farghani**: Create an Observatory in a City; this Observatory receives +2 Science
 - **Al-Jahiz**: Create a Menagerie in a City; this Menagerie receives +2 Happiness
 - **Al-Jazari**: Activate on a District with at least 1 Specialist Limit, this tile gets +1 Specialists; 2 charges
-- **Al-Khwarizmi**: Activate on a completed Ulema; Each Building in this Quarter receives +3 Science
-- **Al-Maqdisi**: Activate in another Civilization; Receive 50 Gold for every Resource this Settlement has
+- **Al-Khwarizmi**: Activate on a completed Ulema; Each Building in this Quarter gains +3 Science
+- **Al-Maqdisi**: Activate in another Civilization; gain 50 Gold for every improved Resource tile this Settlement has (on Standard Speed)
 - **Al-Shaybani**: Activate on a Culture Building; receive an additional Social Policy slot
 - **Ibn Fadlan**: Activate on a Navigable River; receive 50 Influence for every tile of this River (on Standard Speed)
-- **Ibn Sina**: Create a Hospital in a City; this Hospital receives +2 Food
+- **Ibn Sina**: Create a Hospital in a City; this Hospital gains +2 Food; tile must have less than 2 Buildings and the City cannot have a Hospital
 - **Rabia of Basra**: Activate on a Happiness Building; +10% Happiness in this Settlement
 
 ## Civics – Antiquity
