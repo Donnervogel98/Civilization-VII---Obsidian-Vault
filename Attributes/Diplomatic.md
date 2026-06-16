@@ -42,7 +42,7 @@ Diplomatic Leaders gain access to the below diplomatic actions
 Diplomatic Leaders gain access to the below upon reaching the appropriate level in their [[Legend Paths|Legend Path]]
 - **Attribute Node (Lvl 3 or Lvl 7)**
 	- +25% Relationship from starting or supporting Endeavors. -25% Relationship from starting Sanctions or rejecting Endeavors
-- **Legacy Card (Lvl 4 & Lvl 8)**
+- **Dedication (Lvl 4 & Lvl 8)**
 	- +15% Influence, -2 Combat Strength for Naval (Exp.) or Air (Mod.) Units
 
 #### Diplomatic Leaders

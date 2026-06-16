@@ -2,12 +2,12 @@
 aliases:
   - Legend Path
 ---
-Completing Challenges while playing the game will unlock various Mementos, Cosmetics, Legacy Cards, and Attribute Nodes for use in future games
+Completing Challenges while playing the game will unlock various Mementos, Cosmetics, Dedications, and Attribute Nodes for use in future games
 
 
 ## Leader Paths
 
-Each Leader has their own Legend Path and Challenges, with unlocks listed below. Mementos are unique to each Leader and are made available for use on all Leaders once unlocked. Conversely, Attribute Nodes and Legacy Cards are determined by a Leader's Attributes, and must be unlocked individually for each Leader.
+Each Leader has their own Legend Path and Challenges, with unlocks listed below. Mementos are unique to each Leader and are made available for use on all Leaders once unlocked. Conversely, Attribute Nodes and Dedications are determined by a Leader's Attributes, and must be unlocked individually for each Leader.
 
 - Lvl 2: Unique Memento
 - Lvl 3: Attribute Node for first Attribute
@@ -17,7 +17,7 @@ Each Leader has their own Legend Path and Challenges, with unlocks listed below.
 	- [[Expansionist]]: +50% Gold towards converting a Town to a City
 	- [[Militaristic]]: +5 Combat Strength for all Units against Districts
 	- [[Scientific]]: +1 to the adjacencies of standard Gold, Production, and Science Buildings
-- Lvl 4: Legacy Cards for the Exploration Age
+- Lvl 4: Dedications for the Exploration Age
 	- [[Cultural]]: +15% Culture, -10% Science
 	- [[Diplomatic]]: +15% Influence, -2 Combat Strength for Naval (Exp.) or Air (Mod.) Units
 	- [[Economic]]: +15% Gold, -10% Food
@@ -27,7 +27,7 @@ Each Leader has their own Legend Path and Challenges, with unlocks listed below.
 - Lvl 5: Unique Memento
 - Lvl 6: Cosmetics: Badge and Banner
 - Lvl 7: Attribute Node for second Attribute
-- Lvl 8: Legacy Cards (see Lvl 4) for the Modern Age
+- Lvl 8: Dedications (see Lvl 4) for the Modern Age
 - Lvl 9: Unique Memento
 - Lvl 10: Cosmetics: Badge (Portrait) and Title
 

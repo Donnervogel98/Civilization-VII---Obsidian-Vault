@@ -29,11 +29,11 @@ tags:
 - Modern: [[Buganda]], [[Mughal]], [[Ottomans]]
 
 ## Unique Legend Path Unlocks
-*The [[Wildcard]] Attribute grants atypical Attribute Nodes and Legacy Cards*
+*The [[Wildcard]] Attribute grants atypical Attribute Nodes and Dedications*
 - Lvl 2 Memento: ***Traveller's Sandals***
 	- Gain 10 of the corresponding yield whenever you spend an Attribute Point
 - Lvl 3 Attribute Node: [[Economic]]
-- Lvl 4 & Lvl 8 Legacy Cards: [[Economic]], [[Cultural]]
+- Lvl 4 & Lvl 8 Dedications: [[Economic]], [[Cultural]]
 - Lvl 5 Memento: ***Merchant's Saddle***
 	- +1 Movement for Scouts, Merchants, Settlers, and Explorers
 - Lvl 7 Attribute Node: [[Expansionist]]

@@ -29,7 +29,7 @@ Scientific Leaders gain access to the below diplomatic actions
 Scientific Leaders gain access to the below upon reaching the appropriate level in their [[Legend Paths|Legend Path]]
 - **Attribute Node (Lvl 3 or Lvl 7)**
 	- +1 to the adjacencies of standard Gold, Production, and Science Buildings
-- **Legacy Card (Lvl 4 & Lvl 8)**
+- **Dedication (Lvl 4 & Lvl 8)**
 	- +15% Science, -10% Culture
 
 #### Scientific Leaders

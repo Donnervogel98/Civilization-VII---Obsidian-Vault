@@ -30,7 +30,7 @@ Militaristic Leaders gain access to the below diplomatic actions
 Militaristic Leaders gain access to the below upon reaching the appropriate level in their [[Legend Paths|Legend Path]]
 - **Attribute Node (Lvl 3 or Lvl 7)**
 	- +5 Combat Strength for all Units against Districts
-- **Legacy Card (Lvl 4 & Lvl 8)**
+- **Dedication (Lvl 4 & Lvl 8)**
 	- +3 Combat Strength towards Naval (Exp.) or Air (Mod.) Units, -10% Influence
 
 #### Militaristic Leaders
