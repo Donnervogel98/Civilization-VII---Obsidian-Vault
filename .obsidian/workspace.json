@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leaders/Ibn Battuta.md",
+                "file": "Leaders/Toyotomi Hideyoshi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ibn Battuta"
+              "title": "Toyotomi Hideyoshi"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Leaders/Ibn Battuta.md",
+                "file": "Leaders/Toyotomi Hideyoshi.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#Civilization OR tag:#Leader",
@@ -120,12 +120,12 @@
                   "repelStrength": 9.79166666666667,
                   "linkStrength": 1,
                   "linkDistance": 138,
-                  "scale": 1.000000000000027,
+                  "scale": 1.4019828977761388,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ibn Battuta"
+              "title": "Graph of Toyotomi Hideyoshi"
             }
           }
         ]
@@ -278,10 +278,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Civilizations - Modern/Siam.md"
+                "file": "Leaders/Toyotomi Hideyoshi.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Siam"
+              "title": "File properties for Toyotomi Hideyoshi"
             }
           }
         ],
@@ -289,8 +289,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 322.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,32 +304,32 @@
   },
   "active": "d8a6453b481c33f6",
   "lastOpenFiles": [
-    "Attributes/Cultural.md",
-    "Attributes/Economic.md",
-    "Attributes/Expansionist.md",
-    "Attributes/Scientific.md",
-    "Attributes/Diplomatic.md",
-    "Attributes/Militaristic.md",
-    "Miscellaneous/Legend Paths.md",
+    "DLC Packs/Collections/Brush and Blade Collection.md",
+    "Civilizations - Exploration/Sengoku Japan.md",
+    "Civilizations - Antiquity/Heian Japan.md",
+    "Civilizations - Exploration/Hawai'i.md",
+    "Leaders/Toyotomi Hideyoshi.md",
     "Leaders/Xerxes, King of Kings.md",
-    "Leaders/Xerxes, the Achaemenid.md",
     "Leaders/Trung Trac.md",
-    "Leaders/Tecumseh.md",
-    "Leaders/Sayyida al Hurra.md",
-    "Leaders/Pachacuti.md",
-    "Leaders/Napoleon, Revolutionary.md",
-    "Leaders/Napoleon, Emperor.md",
-    "Leaders/Machiavelli.md",
-    "Leaders/Lakshmibai.md",
-    "Leaders/Lafayette.md",
+    "Civilizations - Modern/Mexico.md",
+    "Attributes/Cultural.md",
+    "Attributes/Militaristic.md",
+    "Lists/List of Civilizations.md",
+    "Lists/List of Leaders.md",
+    "Civilizations - Modern/Joseon.md",
+    "Civilizations - Exploration/Goryeo.md",
+    "Civilizations - Antiquity/Silla Korea.md",
+    "Civilizations - Antiquity/Han.md",
+    "Leaders/Yi Sun-sin.md",
     "Leaders/José Rizal.md",
-    "Leaders/Isabella.md",
-    "Leaders/Ibn Battuta.md",
-    "Leaders/Himiko, Queen of Wa.md",
-    "Leaders/Himiko, High Shaman.md",
-    "Leaders/Hatshepsut.md",
-    "Leaders/Harriet Tubman.md",
+    "Leaders/Sayyida al Hurra.md",
     "Leaders/Gilgamesh.md",
+    "Leaders/Edward Teach.md",
+    "Leaders/Catherine the Great.md",
+    "DLC Packs/Collections/Tides of Power Collection.md",
+    "DLC Packs/Collections/Right to Rule Collection.md",
+    "DLC Packs/Collections/Crossroads of the World Collection.md",
+    "Leaders/Leader 1 1.md",
     "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
     "Untitled.base",
     "Templates",

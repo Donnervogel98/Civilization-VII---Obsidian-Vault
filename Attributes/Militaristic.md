@@ -49,6 +49,7 @@ Militaristic Leaders gain access to the below upon reaching the appropriate leve
 - [[Sayyida al Hurra]]
 - [[Simón Bolívar]]
 - [[Tecumseh]]
+- [[Toyotomi Hideyoshi]]
 - [[Trung Trac]]
 - [[Xerxes, King of Kings]]
 

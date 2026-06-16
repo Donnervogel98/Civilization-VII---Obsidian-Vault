@@ -33,14 +33,14 @@ tags:
 - +5 Combat Strength when attacking adjacent Units
 ##### Great Person: *Shì Dàfū*
 - Can only be trained in the Capital with at least 10 Population
-- **Ban Zhao**: Activate on a Constructible with a Great Work Slot to grant a Codex called *Book of Han* that grants +2 Culture
+- **Ban Zhao**: Activate on a Building or Wonder with a Great Work Slot to grant a Codex called *Book of Han* that grants +2 Culture
 - **Han Fei**: Activate on the Palace to add +3 Science to the Building
 - **Laozi**: Activate on a Constructible with a Great Work Slot to grant a Codex called *Tao Te Ching* that grants +2 Happiness
 - **Mencius**: Activate on a Science Building to receive a free random Technology
 - **Mozi**: Activated in the Capital to immediately add Population
 - **Shang Yang**: Activated on the Palace to add +3 Influence to it
 - **Shen Buhai**: Activate in the Capital to immediately trigger a Celebration
-- **Huo Qubing**: Activated on an Army Commander to grant it a free Promotion
+- **Huo Qubing**: Activate on an Army Commander to grant it 1 Promotion
 - **Xun Kuang**: Activate in a City to add +1 Science to all Codices in that City
 - **Zhang Heng**: Activate on an Academy to grant +4 Science to the Building
 

@@ -43,6 +43,7 @@ Cultural Leaders gain access to the below upon reaching the appropriate level in
 - [[José Rizal]]
 - [[Lafayette]]
 - [[Napoleon, Revolutionary]]
+- [[Toyotomi Hideyoshi]]
 - [[Xerxes, the Achaemenid]]
 
 #### Cultural Civilizations
