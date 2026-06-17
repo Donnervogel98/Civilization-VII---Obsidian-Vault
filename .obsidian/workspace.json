@@ -289,7 +289,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,10 +306,10 @@
   "active": "d8a6453b481c33f6",
   "lastOpenFiles": [
     "DLC Packs/Collections/Brush and Blade Collection.md",
+    "Leaders/Toyotomi Hideyoshi.md",
     "Civilizations - Exploration/Sengoku Japan.md",
     "Civilizations - Antiquity/Heian Japan.md",
     "Civilizations - Exploration/Hawai'i.md",
-    "Leaders/Toyotomi Hideyoshi.md",
     "Leaders/Xerxes, King of Kings.md",
     "Leaders/Trung Trac.md",
     "Civilizations - Modern/Mexico.md",

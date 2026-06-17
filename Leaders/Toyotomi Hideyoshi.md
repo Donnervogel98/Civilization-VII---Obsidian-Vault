@@ -15,9 +15,9 @@ tags:
 
 ## Leader Bonus
 ##### *Great Unifier*
-- Land Units deal increased damage when attacking opposing civilizations' Units, but take increased damage from opposing civilizations' Units when defending
-- Your Units heal additional HP if on a Culture Building or Wonder
-- Increased Production towards Culture Buildings, increased further in Cities not founded by you
+- Land Units deal double damage when attacking opposing Civilizations' Units, but take double damage from opposing Civilizations' Units when defending
+- Your Units heal an additional 5 HP, doubled if on a Culture Building or Wonder
+- +25% Production towards Culture Buildings, doubled in Cities not founded by you
 
 ## Agenda
 ##### *Kampaku*
@@ -26,7 +26,7 @@ tags:
 
 ## Recommended Civilizations
 - Antiquity: 
-- Exploration: 
+- Exploration: [[Sengoku Japan]]
 - Modern: 
 
 ## Unique Legend Path Unlocks
