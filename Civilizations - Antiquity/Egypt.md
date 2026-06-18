@@ -35,16 +35,16 @@ tags:
 - +3 Combat Strength in friendly territory, doubled when stationed in a Settlement you own
 ##### Great Person: *Tjaty*
 - Can only be trained in Cities with a Necropolis
-- **Amhose**: Activated on the Palace to add +3 Culture to the Building
-- **Aperel**: Creates 2 Cavalry Units with +3 Combat Strength
-- **Hemiunu**: Activated on a Wonder under construction to add 200 Production (on Standard Speed)
-- **Imhotep**: Activated on a Wonder under construction to add 250 Production (on Standard Speed)
-- **Khay**: Creates 2 Medjay Units with +3 Combat Strength
-- **Nebet**: Activated on a Necropolis to immediately trigger a Celebration
-- **Paser**: Activated on a Wonder under construction to add 150 Production (on Standard Speed)
-- **Ptahhotep**: Activated on a Building or Wonder with a Great Work Slot to grant a Codex called *The Maxims of Ptahhotep* that grants +3 Science
-- **Ramose**: Activated on a Wonder to add +2 Gold to all Wonders currently in this Settlement
-- **Useramen**: Activated on a Wonder to add +2 Culture to all Wonders currently in this Settlement
+- **Amhose**: Activate on the Palace to add +3 Culture to the Building
+- **Aperel**: Activate in friendly territory to create 2 Cavalry Units with +3 Combat Strength
+- **Hemiunu**: Activate on a Wonder under construction to add 200 Production (on Standard Speed)
+- **Imhotep**: Activate on a Wonder under construction to add 250 Production (on Standard Speed)
+- **Khay**: Active in friendly territory to create 2 Medjay with +3 Combat Strength
+- **Nebet**: Activate on a Necropolis to immediately start a Celebration
+- **Paser**: Activate on a Wonder under construction to add 150 Production (on Standard Speed)
+- **Ptahhotep**: Activate on a Building or Wonder with a Great Work Slot to grant a Codex called *The Maxims of Ptahhotep* that grants +3 Science
+- **Ramose**: Activate on a Wonder to add +2 Gold to all Wonders currently in this Settlement
+- **Useramen**: Activate on a Wonder to add +2 Culture to all Wonders currently in this Settlement
 
 ## Civics – Antiquity
 ##### *Arrival of Hapi*
