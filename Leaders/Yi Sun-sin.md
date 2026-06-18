@@ -7,7 +7,7 @@ tags:
 *Available with the Yi Sun-sin Pack DLC*
 *Included in the [[Brush and Blade Collection]]*
   
-  ![Portrait]()
+![Portrait]()
 
 [[]], [[]]
 
@@ -43,4 +43,3 @@ tags:
 ![Reveal]()
 
 >**
-

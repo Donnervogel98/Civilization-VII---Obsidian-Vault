@@ -8,7 +8,7 @@ tags:
 *Available with the Sengoku Pack DLC*
 *Included in the [[Brush and Blade Collection]]*
   
-  ![Reveal]()
+![Icon]()
 
 [[]], [[]]
 
@@ -92,5 +92,7 @@ graph LR;
 ## Starting Biases
 - 
 - 
+
+![Background]()
 
 ![Settlement](https://assets.2k.com/1a6ngf98576c/14je99qq81OjumyejiXMaS/3bb7eea52810a8e2a342e756df10aeb3/Screenshots_Sengoku_02_1920x1080_png.png)

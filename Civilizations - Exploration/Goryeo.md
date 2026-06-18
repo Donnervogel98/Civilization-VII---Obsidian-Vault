@@ -8,7 +8,7 @@ tags:
 *Available with the Goryeo Pack DLC*
 *Included in the [[Brush and Blade Collection]]*
   
-  ![Reveal]()
+![Icon]()
 
 [[]], [[]]
 
@@ -89,5 +89,7 @@ graph LR;
 ## Starting Biases
 - 
 - 
+
+![Background]()
 
 ![Settlement]()

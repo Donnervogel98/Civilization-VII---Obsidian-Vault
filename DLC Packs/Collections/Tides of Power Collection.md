@@ -3,7 +3,7 @@ tags:
   - DLC
   - Pack
 ---
-*Can be claimed for free by all players from 11/4-1/5*
+*Can be claimed for free by all players from 11/4/2025-1/5/2026*
 
 ## Includes
 ##### Leaders

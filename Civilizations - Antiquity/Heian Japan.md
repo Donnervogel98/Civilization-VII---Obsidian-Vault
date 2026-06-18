@@ -8,7 +8,7 @@ tags:
 *Available with the Heian Pack DLC*
 *Included in the [[Brush and Blade Collection]]*
   
-  ![Reveal](https://assets.2k.com/1a6ngf98576c/5JmniIYNwcOUvtexHAczFo/08417fe85da188f8b384ad0bed5c9b4d/CC4_Civilizations_Thumbnails_Heian.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/5JmniIYNwcOUvtexHAczFo/08417fe85da188f8b384ad0bed5c9b4d/CC4_Civilizations_Thumbnails_Heian.png)
 
 [[Cultural]], [[Diplomatic]]
 
@@ -100,5 +100,7 @@ graph LR;
 - Mountains
 - Rivers
 - Vegetated
+
+![Background]()
 
 ![Settlement](https://assets.2k.com/1a6ngf98576c/35d4Azszhmwbc5Q8mCBy2c/355c78745f2397615619c54e923b37f9/Screenshots_Heian_03_1920x1080_png.png)

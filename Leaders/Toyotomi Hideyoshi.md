@@ -7,7 +7,7 @@ tags:
 *Available with the Toyotomi Hideyoshi Pack DLC*
 *Included in the [[Brush and Blade Collection]]*
   
-  ![Portrait]()
+![Portrait]()
 
 [[Militaristic]], [[Cultural]]
 
@@ -41,4 +41,3 @@ tags:
 ![Reveal](https://assets.2k.com/1a6ngf98576c/2l6A2NspnRTROIHtPCq3SV/3c828d9646e76bbe869059302bda0557/CIV7-CC4-TOYOTOMI_HIDEYOSHI_PLAIN_V1-NA-STATIC-ENUS-NO_RATING-AGN-400x240-FINAL.png)
 
 >**
-
