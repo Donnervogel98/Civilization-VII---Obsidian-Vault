@@ -89,6 +89,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Emile Bell*
+- Unlocked for any Civilization by the *Citizenship* Civic
 - +2 Influence
 - Gain a unique Diplomatic Endeavor called **Ginseng Agreement** that grants food to both Leaders' Cities
 - +1 Diplomatic Attribute Point

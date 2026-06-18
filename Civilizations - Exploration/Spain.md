@@ -124,6 +124,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *El Escorial*
+- Unlocked for any Civilization by the *Colonialism II* Civic
 - +3 Happiness
 - Has 3 Great Work slots
 - +1 Settlement Limit

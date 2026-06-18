@@ -79,6 +79,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Angkor Wat*
+- Unlocked for any Civilization by the *Philosophy* Civic
 - +3 Happiness
 - +1 Specialist Limit in this Settlement
 - Must be placed adjacent to a River

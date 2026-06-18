@@ -98,6 +98,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Rila Monastery*
+- Unlocked for any Civilization by the *Heraldry* Technology
 - +4 Culture
 - Has 3 Great Work Slots
 - Gain a Relic every time you construct a Wonder, including this one

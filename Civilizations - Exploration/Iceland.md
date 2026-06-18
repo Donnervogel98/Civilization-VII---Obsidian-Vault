@@ -120,6 +120,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Reykjaholt*
+- Unlocked for any Civilization by the *Society II* Civic
 - +3 Culture
 - +25% Production towards Military Units in this City for every Great Work in this City
 - Has 3 Relic slots

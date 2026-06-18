@@ -118,6 +118,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Havana Harbor*
+- Unlocked for any Civilization by the *Shipbuilding II* Technology
 - +3 Gold
 - This Settlement generates Treasure Convoys worth 3 Cargo in the Exploration Age
 - +1 Economic Attribute Point

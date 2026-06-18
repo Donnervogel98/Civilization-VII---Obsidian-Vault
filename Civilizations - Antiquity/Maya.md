@@ -92,6 +92,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Mundo Perdido*
+- Unlocked for any Civilization by the *Code of Laws II* Civic
 - +1 Science on Improvements and +1 Happiness on Districts on Tropical Terrain in this Settlement
 - Must be placed on Tropical
 

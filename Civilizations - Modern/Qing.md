@@ -104,6 +104,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Chengde Mountain Resort*
+- Unlocked for any Civilization by the *Hegemony II* Civic
 - +6 Gold
 - +5% Culture for every other Civilization with which you have a Trade Route
 - Must be built adjacent to a Mountain

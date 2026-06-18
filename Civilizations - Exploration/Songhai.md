@@ -100,6 +100,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Tomb of Askia*
+- Unlocked for any Civilization by the *Mercantilism* Civic
 - +2 Gold
 - +2 Resource Capacity in this Settlement
 - +2 Gold and +1 Production in this Settlement for every Resource assigned to it

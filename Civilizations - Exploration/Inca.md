@@ -89,6 +89,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Machu Pikchu*
+- Unlocked for any Civilization by the *Urban Planning* Technology
 - +4 Gold
 - Buildings in this Settlement gain a +1 Culture and Gold Adjacency for Mountains
 - Must be placed on a Grassland or Tropical Mountain

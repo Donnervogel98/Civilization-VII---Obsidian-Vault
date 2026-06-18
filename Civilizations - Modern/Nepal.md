@@ -98,6 +98,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Boudhanath*
+- Unlocked for any Civilization by the *Nationalism* Civic
 - +6 Influence
 - Increase your Relationship with all other Leaders by 20
 - Must be built in Grassland or Tropical adjacent to a Mountain

@@ -95,6 +95,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Serpent Mound*
+- Unlocked for any Civilization by the *Astronomy* Technology
 - +4 Influence
 - +3 Science and +2 Production to all Unique Improvements in this Settlement
 - Must be placed in Grassland

@@ -81,6 +81,7 @@ graph LR
 
 ## Associated Wonder
 ##### *Great Stele*
+- Unlocked for any Civilization by the *Mysticism II* Civic
 - +2 Production
 - Gain 200 Gold per Age when you construct a Wonder, including this one
 - Must be placed on Flat Terrain

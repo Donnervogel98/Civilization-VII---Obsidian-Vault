@@ -90,6 +90,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Ha'amonga 'a Maui*
+- Unlocked for any Civilization by the *Navigation* Technology
 - +2 Culture
 - +1 Culture and Food on Fishing Boats in this Settlement
 - +1 Cultural Attribute Point

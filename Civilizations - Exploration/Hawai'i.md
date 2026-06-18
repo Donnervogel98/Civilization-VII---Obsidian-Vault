@@ -99,7 +99,8 @@ graph LR;
 	- +4 Culture on Volcanoes
 
 ## Associated Wonder
-##### *Hale O Keawe*
+##### *Hale o Keawe*
+- Unlocked for any Civilization by the *Inspiration* Civic
 - +2 Culture
 - +1 Culture on Water Buildings
 - Has 3 Great Work slots

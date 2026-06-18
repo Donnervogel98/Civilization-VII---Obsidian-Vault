@@ -104,6 +104,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Doi Suthep*
+- Unlocked for any Civilization by the *Political Theory* Civic
 - +4 Influence
 - +5 Culture and Gold for every City-State you are Suzerain of
 - Must be placed on Rough Terrain

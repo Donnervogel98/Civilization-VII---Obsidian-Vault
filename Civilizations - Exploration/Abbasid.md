@@ -112,6 +112,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *House of Wisdom*
+- Unlocked for any Civilization by the *Society II* Civic
 - +3 Science
 - Gain 1 Relic
 - Has 3 Great Work slots

@@ -101,6 +101,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Erdene Zuu*
+- Unlocked for any Civilization by the *Authority II* Civic
 - +2 Culture
 - Creating a Cavalry Unit grants Culture equal to 25% of its cost
 - Must be placed on Flat Terrain

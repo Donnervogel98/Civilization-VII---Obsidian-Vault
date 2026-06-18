@@ -95,6 +95,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Byrsa*
+- Unlocked for any Civilization by the *Engineering* Technology
 - +2 Gold
 - Trade Routes cannot be plundered
 - All Districts in this City that are adjacent to Coast and eligible for Walls receive a Wall

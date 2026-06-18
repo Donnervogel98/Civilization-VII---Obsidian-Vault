@@ -80,6 +80,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Monks Mound*
+- Unlocked for any Civilization by the *Commerce* Civic
 - +3 Food
 - +4 Resource Capacity in this Settlement
 - Must be placed adjacent to a River

@@ -95,6 +95,7 @@ graph LR;
 ```
 ## Associated Wonder
 ##### *Muzibu Azaala Mpanga*
+- Unlocked for any Civilization by the *Natural History* Civic
 - +4 Food
 - +4 Culture and Food on Improvements and Districts on Lake tiles
 - +1 Population in Settlements adjacent to Lakes
