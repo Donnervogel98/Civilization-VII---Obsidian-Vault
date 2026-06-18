@@ -4,7 +4,8 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Majapahit](https://assets.2k.com/1a6ngf98576c/673iJ41kX0xOcKUKpSufOi/54d995aa37234b171dafe9a88982367c/Civilizations_Desktop_Majapahit.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/673iJ41kX0xOcKUKpSufOi/54d995aa37234b171dafe9a88982367c/Civilizations_Desktop_Majapahit.jpg)
 
 [[Cultural]], [[Expansionist]]
 
@@ -111,6 +112,8 @@ graph LR;
 - Coast
 - Spices
 
-![Majapahit](https://assets.2k.com/1a6ngf98576c/4HcjdexFPblFOwl4hcrePm/450a7143f8499859fe412831fe16f6c5/Civ7_Majapahit.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/5/54/Majapahit_Background_(Civ7).png/revision/latest)
 
 >*The earth cries out for stewards. The Majapahit shall answer, and by wisdom, power, and grace, the fields will sing their name.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/4HcjdexFPblFOwl4hcrePm/450a7143f8499859fe412831fe16f6c5/Civ7_Majapahit.png)

@@ -8,7 +8,7 @@ tags:
 *Available with the Tonga Pack DLC*
 *Included in the [[Tides of Power Collection]]*
   
-  ![name](https://assets.2k.com/1a6ngf98576c/3QMpp557NcU5zK6DlfIeHJ/a003326b0b82d67eb20233d7fc62e943/Tonga_400x240.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/3QMpp557NcU5zK6DlfIeHJ/a003326b0b82d67eb20233d7fc62e943/Tonga_400x240.png)
 
 [[Diplomatic]], [[Expansionist]]
 
@@ -100,4 +100,6 @@ graph LR;
 - Coast
 - Tropical
 
-![Civ](https://assets.2k.com/1a6ngf98576c/7ApO6jIdDYL4NNj6EavDJd/edaa50dc335dad0dd3a157dbc917ae8b/2KCAP_Inverness_CC3-Screenshots_Group-1_Tonga_04.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/f/fd/Tongan_Background_(Civ7).jpg/revision/latest)
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/7ApO6jIdDYL4NNj6EavDJd/edaa50dc335dad0dd3a157dbc917ae8b/2KCAP_Inverness_CC3-Screenshots_Group-1_Tonga_04.jpg)

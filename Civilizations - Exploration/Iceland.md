@@ -8,7 +8,7 @@ tags:
 *Available with the Iceland Pack DLC*
 *Included in the [[Tides of Power Collection]]*
   
-  ![name](https://assets.2k.com/1a6ngf98576c/A7QllAsbGWHecdDy0Ao6N/a4f32a8a2f65fd3503651385c4665640/Iceland_400x240__1_.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/A7QllAsbGWHecdDy0Ao6N/a4f32a8a2f65fd3503651385c4665640/Iceland_400x240__1_.png)
 
 [[Cultural]], [[Militaristic]]
 
@@ -131,4 +131,6 @@ graph LR;
 - Tundra
 - Grassland
 
-![Civ]()
+![Background](https://static.wikia.nocookie.net/civilization/images/c/cb/Iceland_Background_(Civ7).jpg/revision/latest)
+
+![Settlement](https://static.wikia.nocookie.net/civilization/images/8/81/Icelandic_city_in-game_(Civ7).jpg/revision/latest)

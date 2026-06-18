@@ -6,7 +6,7 @@ tags:
 *Alternate Persona of [[Xerxes, King of Kings]]*
 *Available with the [[Deluxe Content Pack]] DLC*
 
-  ![Xerxes, the Achaemenid](https://static.wikia.nocookie.net/civilization/images/d/d5/Xerxes%2C_the_Achaemenid_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/d/d5/Xerxes%2C_the_Achaemenid_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Economic]]
 

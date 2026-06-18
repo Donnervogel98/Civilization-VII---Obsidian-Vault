@@ -4,7 +4,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Friedrich, Oblique](https://static.wikia.nocookie.net/civilization/images/5/5f/Friedrich%2C_Oblique_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/5/5f/Friedrich%2C_Oblique_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Militaristic]], [[Scientific]]
 
@@ -35,6 +36,6 @@ tags:
 	- +2 Combat Strength for All Units when using Coordinated Attack or Focus Fire
 - Lvl 10 Title: **Old Fritz**
 
-![Friedrich, Oblique](https://assets.2k.com/1a6ngf98576c/1G2WeW7S0qEb6rRpgyPmoJ/a2051198f57834632c62bebd05da27a1/Leaders_400x240Friedrich.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/1G2WeW7S0qEb6rRpgyPmoJ/a2051198f57834632c62bebd05da27a1/Leaders_400x240Friedrich.jpg)
 
 >*We strive to do our duty, to serve our country faithfully at the expense of our blood and of our repose, to commit our whole being to it.*

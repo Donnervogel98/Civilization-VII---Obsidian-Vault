@@ -5,7 +5,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Egypt](https://assets.2k.com/1a6ngf98576c/1esI9HOw6eBOkk1Eef2dNh/2c23ab9599bfc357d6f3decaa83eabf1/Civilizations_Egypt_Desktop.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/1esI9HOw6eBOkk1Eef2dNh/2c23ab9599bfc357d6f3decaa83eabf1/Civilizations_Egypt_Desktop.png)
 
 [[Cultural]], [[Economic]]
 
@@ -104,6 +105,8 @@ graph LR;
 - Navigable Rivers
 - Desert
 
-![Egypt](https://assets.2k.com/1a6ngf98576c/7fBEeltVAaxOvgsAMxh5Ea/9ba1d3e189a8b882d0441f2f133e705b/egypt-1920.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/b/b5/Egyptian_Background_(Civ7).png/revision/latest)
 
 >*The waters flood again, preparing the lands for new growth. Here Egypt will compel the world to behold the wonders it works.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/7fBEeltVAaxOvgsAMxh5Ea/9ba1d3e189a8b882d0441f2f133e705b/egypt-1920.jpg)

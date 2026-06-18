@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Trung Trac](https://static.wikia.nocookie.net/civilization/images/2/2e/Trung_Trac_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/2/2e/Trung_Trac_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Militaristic]], [[Scientific]]
 
@@ -38,6 +39,6 @@ tags:
 	- Declaring a Formal War against another Civilization grants a Tech Boost
 - Lvl 10 Title: **Rebel Queen**
 
-![Trung Trac](https://assets.2k.com/1a6ngf98576c/29dQqdcrq2OpCkXRFB577q/872c4582d335ce6de9fa9221be8fe066/Civilizations_TrungTrac_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/29dQqdcrq2OpCkXRFB577q/872c4582d335ce6de9fa9221be8fe066/Civilizations_TrungTrac_400x240.jpg)
 
 >*When all the men bow their heads in submission, only I stand for what is right.*

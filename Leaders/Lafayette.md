@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Lafayette](https://static.wikia.nocookie.net/civilization/images/8/82/Lafayette_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/8/82/Lafayette_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Diplomatic]]
 
@@ -37,6 +38,6 @@ tags:
 	- +2 Culture and Happiness per Age in the Capital for every Tradition, but not Policy, slotted into your Government
 - Lvl 10 Title: **Hero of Two Worlds**
 
-![Lafayette](https://assets.2k.com/1a6ngf98576c/TjgiberXSmxU1ogWOGUOe/74e765a815356dca03a551cc929668f0/Leaders_Lafayette_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/TjgiberXSmxU1ogWOGUOe/74e765a815356dca03a551cc929668f0/Leaders_Lafayette_400x240.jpg)
 
 >*We walk always between two abysses. Care and moderation is our path forward.*

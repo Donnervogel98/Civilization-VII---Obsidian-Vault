@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Amina](https://static.wikia.nocookie.net/civilization/images/d/d8/Amina_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/d/d8/Amina_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Economic]], [[Militaristic]]
 
@@ -38,6 +39,6 @@ tags:
 	- +3 Combat Strength to a Unit's next attack after they defeat an enemy Unit
 - Lvl 10 Title: **Warrior-Queen**
 
-![AminaReveal](https://assets.2k.com/1a6ngf98576c/61tyDhr8w3yHpOahBW3wE8/6b135927b6593103b6e644efc7f2dcc4/Leaders_Amina_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/61tyDhr8w3yHpOahBW3wE8/6b135927b6593103b6e644efc7f2dcc4/Leaders_Amina_400x240.jpg)
 
 > *Re-sharpen your weapons, saddle your horses, and make your peace with the divine. Today, we conquer.*

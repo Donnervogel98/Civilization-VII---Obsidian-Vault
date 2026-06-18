@@ -4,7 +4,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Khmer](https://assets.2k.com/1a6ngf98576c/3h9K7O2WdbjbbeBiHmZtTu/2fc2cf7a297765c98d3406a9c428af56/Civilizations_Khmer_400x240.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/3h9K7O2WdbjbbeBiHmZtTu/2fc2cf7a297765c98d3406a9c428af56/Civilizations_Khmer_400x240.png)
 
 [[Expansionist]], [[Scientific]]
 
@@ -88,6 +89,8 @@ graph LR;
 - Floodplains
 - Tropical
 
-![Khmer](https://assets.2k.com/1a6ngf98576c/vLTBtbvBtKQXwSCiAKIa9/2d01da9cd8573d4145679a1d4601fb85/antiquity-Civ_Khmer_01.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/e/e2/Khmer_Background_(Civ7).png/revision/latest)
 
 >*Prosperity falls from the heavens, flows down the rivers to nourish the Khmer, the masters of waters. Where else will their rains fall?*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/vLTBtbvBtKQXwSCiAKIa9/2d01da9cd8573d4145679a1d4601fb85/antiquity-Civ_Khmer_01.jpg)

@@ -8,7 +8,7 @@ tags:
 *Available with the Great Britain Pack DLC*
 *Included in the [[Crossroads of the World Collection]]*
 
-  ![Great Britain](https://assets.2k.com/1a6ngf98576c/37UXpAhSXAGcWeZNHPf2YS/db9fced69b1aa53dc0e8b62b511bdae8/Civilizations_Desktop_Great-Britai.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/37UXpAhSXAGcWeZNHPf2YS/db9fced69b1aa53dc0e8b62b511bdae8/Civilizations_Desktop_Great-Britai.png)
 
 [[Economic]], [[Scientific]]
 
@@ -111,6 +111,8 @@ graph LR;
 - Receive a second Naval Unit each time you train a Naval Unit 
 - Must be placed on land adjacent to Coast
 
-![Great Britain](https://assets.2k.com/1a6ngf98576c/3Z4cEAp8iXv42J58Xxl8u6/b9f6c0f9da6f6bcd06f296057c947bf8/Great_Britain.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/5/5f/British_Background_(Civ7).jpg/revision/latest)
 
 >*Chaos is the absence of order, and the world needs structure. Great Britain ascends.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/3Z4cEAp8iXv42J58Xxl8u6/b9f6c0f9da6f6bcd06f296057c947bf8/Great_Britain.jpg)

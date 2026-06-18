@@ -5,7 +5,7 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Spain](https://assets.2k.com/1a6ngf98576c/5Zztd2gBUq3WYMc691k9ix/39e78e0426dc3018b9b38ed7b3ae31a3/Civilizations_Desktop_Spain.jpg)
+  ![Icon](https://assets.2k.com/1a6ngf98576c/5Zztd2gBUq3WYMc691k9ix/39e78e0426dc3018b9b38ed7b3ae31a3/Civilizations_Desktop_Spain.jpg)
 
 [[Economic]], [[Militaristic]]
 
@@ -134,6 +134,8 @@ graph LR;
 ## Starting Bias
 - Coast
 
-![Spain](https://assets.2k.com/1a6ngf98576c/3tLMbqJNHqvfx8ROZH4zOh/313759e047ad8e81a97dbc9724646841/Civ7_Spain.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/3/3d/Spanish_Background_(Civ7).jpg/revision/latest)
 
 >*Undaunted by the ocean's expanse, Spain will follow the song of gold to unknown lands and make them its own.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/3tLMbqJNHqvfx8ROZH4zOh/313759e047ad8e81a97dbc9724646841/Civ7_Spain.png)

@@ -6,7 +6,7 @@ tags:
 *Available with the Simón Bolívar Pack DLC*
 *Included in the [[Crossroads of the World Collection]]*
 
-  ![Simón Bolívar](https://static.wikia.nocookie.net/civilization/images/6/6c/Sim%C3%B3n_Bol%C3%ADvar_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/6/6c/Sim%C3%B3n_Bol%C3%ADvar_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Militaristic]], [[Expansionist]]
 
@@ -37,6 +37,6 @@ tags:
 	- +50% Gold towards purchasing Units during a Celebration
 - Lvl 10 Title: **The Liberator**
 
-![Simón Bolívar](https://assets.2k.com/1a6ngf98576c/6zHCjefBxFhPkGoCOFceh0/121e55d9cdca913c1082955cc72bc936/Leaders_400x240Simon.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/6zHCjefBxFhPkGoCOFceh0/121e55d9cdca913c1082955cc72bc936/Leaders_400x240Simon.jpg)
 
 >*It is harder to maintain the balance of liberty than to endure the weight of tyranny.*

@@ -5,7 +5,8 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Hawai'i](https://assets.2k.com/1a6ngf98576c/3MzW10CeGyI0Nulh7HUzth/27f66f24cd47b61c4c75e8b2f6d7c34d/Civilizations_Desktop_Hawaii.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/3MzW10CeGyI0Nulh7HUzth/27f66f24cd47b61c4c75e8b2f6d7c34d/Civilizations_Desktop_Hawaii.jpg)
 
 [[Cultural]], [[Expansionist]]
 
@@ -110,6 +111,8 @@ graph LR;
 - Coast
 - Marine
 
-![Hawai'i](https://assets.2k.com/1a6ngf98576c/6egBbWolaSja29aRR9GmCc/048b4bc6119c6ad0ebcb9d0d94ad1e19/Civ7_Hawai-i.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/a/a6/Hawaiian_Background_(Civ7).jpg/revision/latest)
 
 >*The oceans whisper of a new power rising with the tide. The masters of waves will take a name forever remembered – Hawaii.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/6egBbWolaSja29aRR9GmCc/048b4bc6119c6ad0ebcb9d0d94ad1e19/Civ7_Hawai-i.png)

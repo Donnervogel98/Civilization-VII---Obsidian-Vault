@@ -8,7 +8,7 @@ tags:
 *Available with the Assyria Pack DLC*
 *Included in the [[Right to Rule Collection]]*
 
-  ![Assyria](https://assets.2k.com/1a6ngf98576c/48GI9j7PdtjkjPSqICYaDg/cde900e5b95178724362d1d6d696c321/ASSYRIA.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/48GI9j7PdtjkjPSqICYaDg/cde900e5b95178724362d1d6d696c321/ASSYRIA.png)
 
 [[Militaristic]], [[Scientific]]
 
@@ -117,4 +117,6 @@ graph LR;
 - Flat
 - Rivers
 
-![Assyria](https://assets.2k.com/1a6ngf98576c/3by9BSLis6SZczxQncAfWK/0abf71b43a3ceb5b34ad1947093fad57/civ7_Content-Collection-2-Screenshots_R2_Assyria_City-Flyover-02.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/1/15/Assyrian_Background_(Civ7).png/revision/latest)
+
+![Background](https://assets.2k.com/1a6ngf98576c/3by9BSLis6SZczxQncAfWK/0abf71b43a3ceb5b34ad1947093fad57/civ7_Content-Collection-2-Screenshots_R2_Assyria_City-Flyover-02.jpg)

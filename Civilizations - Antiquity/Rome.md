@@ -5,7 +5,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Rome](https://assets.2k.com/1a6ngf98576c/GxA25MRawowYEdjERWDA2/0a4b0ee0c2df3c0443dfcd6934ee9332/Civilizations_Rome_Desktop.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/GxA25MRawowYEdjERWDA2/0a4b0ee0c2df3c0443dfcd6934ee9332/Civilizations_Rome_Desktop.png)
 
 [[Cultural]], [[Militaristic]]
 
@@ -103,6 +104,8 @@ graph LR;
 ## Starting Bias
 - Grassland
 
-![Rome](https://assets.2k.com/1a6ngf98576c/3I2WcZhoJ5XBwlfe26ZKNd/80e13a589a6c65aa749017fbf72ebd04/rome-1920.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/9/98/Roman_Background_(Civ7).png/revision/latest)
 
 >*A new banner unfurls, emblazoned with triumphal laurels. Rome seeks its champions.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/3I2WcZhoJ5XBwlfe26ZKNd/80e13a589a6c65aa749017fbf72ebd04/rome-1920.jpg)

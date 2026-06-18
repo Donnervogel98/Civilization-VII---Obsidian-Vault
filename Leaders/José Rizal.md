@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![José Rizal](https://static.wikia.nocookie.net/civilization/images/e/ea/Jos%C3%A9_Rizal_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/e/ea/Jos%C3%A9_Rizal_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Diplomatic]]
 
@@ -38,6 +39,6 @@ tags:
 	- +1 Science, Culture, and Gold per Age for each major Triumph completed in an Age
 - Lvl 10 Title: **National Hero**
 
-![José Rizal](https://assets.2k.com/1a6ngf98576c/2MNo3ICjvLnEufbeqVNcAJ/21291cf5f44a7ca7aeea9ec0653c5197/Leaders_Jose-Rizal_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/2MNo3ICjvLnEufbeqVNcAJ/21291cf5f44a7ca7aeea9ec0653c5197/Leaders_Jose-Rizal_400x240.jpg)
 
 >*Genius has no country. It blossoms everywhere. Genius is light, is air. It is all of our heritage.*

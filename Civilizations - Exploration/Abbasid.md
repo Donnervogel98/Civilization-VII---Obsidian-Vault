@@ -4,7 +4,8 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Abbasid](https://assets.2k.com/1a6ngf98576c/3zIHuEsL0Hv8S5nqrTj9JS/fb0d0105ada7a37cb7edae05208c1428/Civilizations_Sabbasid_Desktop.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/3zIHuEsL0Hv8S5nqrTj9JS/fb0d0105ada7a37cb7edae05208c1428/Civilizations_Sabbasid_Desktop.jpg)
 
 [[Expansionist]], [[Scientific]]
 
@@ -124,6 +125,8 @@ graph LR;
 - Coast
 - Camels
 
-![Abbasid](https://assets.2k.com/1a6ngf98576c/QC8uKuJHms1SzpNgPJH9A/4bc41cfed3b687aa1196359e9fcf5e03/Copy_of_Exploration-Civ_Abbasid_01.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/7/7f/Abbasid_Background_(Civ7).png/revision/latest)
 
 >*Bahamut rumbles and sways the jacinth slab of Kuyutha. The Abbasids' weight will realign the balance of the world.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/QC8uKuJHms1SzpNgPJH9A/4bc41cfed3b687aa1196359e9fcf5e03/Copy_of_Exploration-Civ_Abbasid_01.jpg)

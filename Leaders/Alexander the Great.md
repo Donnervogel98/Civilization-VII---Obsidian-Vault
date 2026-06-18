@@ -4,7 +4,7 @@ tags:
 ---
 *Available with patch 1.4.0*
   
-  ![Portrait]()
+![Portrait](https://static.wikia.nocookie.net/civilization/images/2/27/Alexander_(Civ7).png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Militaristic]]
 
@@ -39,4 +39,3 @@ tags:
 ![Reveal](https://assets.2k.com/1a6ngf98576c/6xGDr2TU7c6J5VNZtiWnTH/0ce25a90ba349c5c431b53537cc23bf9/CIV7-BASE-FIRSTLOOK_ALEXANDER-STATIC-ENUS-NO_RATING-AGN-1920x1080-R1.jpg)
 
 >*One day, the Muses will sing of me – godlike Alexander, the greatest of the Greek heroes.*
-

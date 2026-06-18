@@ -6,7 +6,7 @@ tags:
 *Available with the Sayyida al Hurra Pack DLC*
 *Included in the [[Tides of Power Collection]]*
 
-  ![Leader](http://static.wikia.nocookie.net/civilization/images/c/cf/Sayyida_al_Hurra_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](http://static.wikia.nocookie.net/civilization/images/c/cf/Sayyida_al_Hurra_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Militaristic]]
 
@@ -41,7 +41,6 @@ tags:
 	- Gain 25 Culture per Age for every Diplomatic Action accepted by another Leader
 - Lvl 10 Title: **Hakima Tatwan**
 
-![Leader](https://assets.2k.com/1a6ngf98576c/30Ep71w43IZhgcgF5gUlyP/6b2d3ac3311d3a513059aff0635b853b/Sayyida_400x240.png)
+![Reveal](https://assets.2k.com/1a6ngf98576c/30Ep71w43IZhgcgF5gUlyP/6b2d3ac3311d3a513059aff0635b853b/Sayyida_400x240.png)
 
 >*I have sailed through treacherous waters and always emerged victorious.*
-

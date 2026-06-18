@@ -4,7 +4,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Mississippian](https://assets.2k.com/1a6ngf98576c/CNmOUl62oDs6eblx7oh43/56479c1942a4cd29e724a73795ab9f1b/Civilizations_Mississipian_400x240_V2.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/CNmOUl62oDs6eblx7oh43/56479c1942a4cd29e724a73795ab9f1b/Civilizations_Mississipian_400x240_V2.jpg)
 
 [[Economic]], [[Expansionist]]
 
@@ -89,6 +90,8 @@ graph LR;
 - Flat
 - Rivers
 
-![Mississippian](https://assets.2k.com/1a6ngf98576c/3F8lHqJOurY407naRJ3Bgz/8faf54c60b95eff876871c107e3cbdde/Civ7_Mississippian.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/9/97/Mississippian_Background_(Civ7).png/revision/latest)
 
 >*A great dais rises from the earth, heralding a new day. What the Mississippians build will uphold the world.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/3F8lHqJOurY407naRJ3Bgz/8faf54c60b95eff876871c107e3cbdde/Civ7_Mississippian.png)

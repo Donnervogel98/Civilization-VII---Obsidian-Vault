@@ -5,7 +5,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![America](https://assets.2k.com/1a6ngf98576c/7j9rzEnIysEO8sGI6Bcd3g/80cfa4410b7d877f32a6b4c8747b7007/Civilizations_Desktop_America.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/7j9rzEnIysEO8sGI6Bcd3g/80cfa4410b7d877f32a6b4c8747b7007/Civilizations_Desktop_America.jpg)
 
 [[Economic]], [[Diplomatic]]
 
@@ -107,6 +108,8 @@ graph LR
 - Rough
 - Rivers
 
-![America](https://assets.2k.com/1a6ngf98576c/2zbI4vLKv13iUchyqPpOIT/10c2fbe200e861640c156f65f7b6785b/Civ7_America__1_.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/e/eb/American_Background_(Civ7).png/revision/latest)
 
 >*From the fertile soil of America springs forth a brave new world, driven by passion, ideas, and a desire to shape the future.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/2zbI4vLKv13iUchyqPpOIT/10c2fbe200e861640c156f65f7b6785b/Civ7_America__1_.png)

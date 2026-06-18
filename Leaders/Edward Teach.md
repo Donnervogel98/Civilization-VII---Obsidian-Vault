@@ -6,7 +6,7 @@ tags:
 *Available with the Edward Teach Pack DLC*
 *Included in the [[Tides of Power Collection]]*
 
-  ![Leader](https://static.wikia.nocookie.net/civilization/images/f/f8/Edward_Teach_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/f/f8/Edward_Teach_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Militaristic]], [[Economic]]
 
@@ -43,4 +43,3 @@ tags:
 ![Reveal](https://assets.2k.com/1a6ngf98576c/1bZRTn9cjkZ5G2hgAZs5N5/602d22dddd4f3e86a776d2c59c207347/Blackbeard_400x240.png)
 
 >*Fix me deadlights, matey. We aim for plunder and profit, and give naught to king nor God.*
-

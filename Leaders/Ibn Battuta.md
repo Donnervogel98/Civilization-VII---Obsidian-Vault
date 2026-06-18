@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Ibn Battuta](https://static.wikia.nocookie.net/civilization/images/2/27/Ibn_Battuta_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/2/27/Ibn_Battuta_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Expansionist]], [[Wildcard]]
 
@@ -41,6 +42,6 @@ tags:
 	- +1 Culture, Gold, Happiness, and Science per turn per Age for each Attribute tree in which you have points
 - Lvl 10 Title: **Marvelous Traveller**
 
-![Ibn Battuta](https://assets.2k.com/1a6ngf98576c/3ul1NE0doXt6CGu2EEHHUQ/8a601f060b4261435944bd8c4a15a143/Leaders_Ibn_Battuta_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/3ul1NE0doXt6CGu2EEHHUQ/8a601f060b4261435944bd8c4a15a143/Leaders_Ibn_Battuta_400x240.jpg)
 
 >*Come, and we will walk strange shores and make them familiar. And on returning find our familiar shores strange.*

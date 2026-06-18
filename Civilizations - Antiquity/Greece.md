@@ -5,7 +5,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Greece](https://assets.2k.com/1a6ngf98576c/SKKQHl7pKyoxXy6O36GoW/a3e45d2fb76f409af7fb20ad93f8625c/Civilizations_Greece_400x240.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/SKKQHl7pKyoxXy6O36GoW/a3e45d2fb76f409af7fb20ad93f8625c/Civilizations_Greece_400x240.png)
 
 [[Cultural]], [[Diplomatic]]
 
@@ -110,6 +111,8 @@ graph LR;
 - Rough
 - Grassland
 
-![Greece](https://assets.2k.com/1a6ngf98576c/4alNKQvcX1y3LfP0Qp8R0/b6ddd524530f05316eddd14c85390b03/Greece.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/f/f3/Greek_Background_(Civ7).png/revision/latest)
 
 >*The people gather together, debating music and politics, poetry and law—envisioning how to build a Greece that will last for ages.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/4alNKQvcX1y3LfP0Qp8R0/b6ddd524530f05316eddd14c85390b03/Greece.jpg)

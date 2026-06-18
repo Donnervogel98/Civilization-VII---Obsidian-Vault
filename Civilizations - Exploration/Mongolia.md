@@ -5,7 +5,8 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Mongolia](https://assets.2k.com/1a6ngf98576c/4FdsE89lSRbgcDazfoJnSh/0b0f2bcf34992df7ebc2a315e9d27940/Civilizations_Desktop_Mongol.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/4FdsE89lSRbgcDazfoJnSh/0b0f2bcf34992df7ebc2a315e9d27940/Civilizations_Desktop_Mongol.jpg)
 
 [[Expansionist]], [[Militaristic]]
 
@@ -109,6 +110,8 @@ graph LR;
 ## Starting Bias
 - Horses
 
-![Mongolia](https://assets.2k.com/1a6ngf98576c/4hKADNWsAjnj9TMynSJT1N/8e553a2975659aac06071a62fe81d9a2/Exploration-Era_Mongolia-City-02.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/9/9d/Mongolian_Background_(Civ7).png/revision/latest)
 
 >*The steppes brace for a coming storm – one of horses, valor, and endless ambition. The Mongols ride forth.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/4hKADNWsAjnj9TMynSJT1N/8e553a2975659aac06071a62fe81d9a2/Exploration-Era_Mongolia-City-02.png)

@@ -6,7 +6,7 @@ tags:
 ---
 *Available with the [[Tecumseh and Shawnee Pack]] DLC*
 
-  ![Shawnee](https://assets.2k.com/1a6ngf98576c/6QL91ZjQC9MubUwhBY9FLO/7aa514dc72bf8775a7fb778d21a3ad64/Civilizations_Shawnee_Desktop.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/6QL91ZjQC9MubUwhBY9FLO/7aa514dc72bf8775a7fb778d21a3ad64/Civilizations_Shawnee_Desktop.png)
 
 [[Diplomatic]], [[Economic]]
 
@@ -103,6 +103,8 @@ graph LR;
 ## Starting Biases
 - Navigable Rivers
 
-![Shawnee](https://assets.2k.com/1a6ngf98576c/518v40lQLbwYHY6BRx66fK/d742216c0e2f263efd3828913f1d020d/shawnee-1920.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/2/22/Shawnee_Background_(Civ7).png/revision/latest)
 
 >*Spring comes to the woodlands. The Shawnee will craft their legacy of unity – and dominance.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/518v40lQLbwYHY6BRx66fK/d742216c0e2f263efd3828913f1d020d/shawnee-1920.jpg)

@@ -8,7 +8,7 @@ aliases:
 *Available with the Ottomans Pack DLC*
 *Included in the [[Tides of Power Collection]]*
 
-  ![name](https://assets.2k.com/1a6ngf98576c/4qFXQ7vL3lOAy6OfaCylbs/3be54824a8e2204de288d12dab38929f/Ottomans_400x240.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/4qFXQ7vL3lOAy6OfaCylbs/3be54824a8e2204de288d12dab38929f/Ottomans_400x240.png)
 
 [[Cultural]], [[Militaristic]]
 
@@ -122,4 +122,6 @@ graph LR;
 - +2 Culture and Gold on Wonders in this Settlement; this is doubled for Exploration Wonders and tripled for Antiquity Wonders
 - Must be built adjacent to another Wonder
 
-![Civ]()
+![Background](https://static.wikia.nocookie.net/civilization/images/0/0a/Ottoman_Background_(Civ7).jpg/revision/latest)
+
+![Settlement](https://static.wikia.nocookie.net/civilization/images/4/47/Ottoman_city_in-game_(Civ7).jpg/revision/latest)

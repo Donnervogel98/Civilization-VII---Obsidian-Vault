@@ -4,7 +4,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Ashoka, World Renouncer](https://static.wikia.nocookie.net/civilization/images/b/b2/Ashoka%2C_World_Renouncer_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/b/b2/Ashoka%2C_World_Renouncer_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Expansionist]]
 
@@ -35,6 +36,6 @@ tags:
 	- +1 Happiness per Age on Quarters during a Celebration
 - Lvl 10 Title: **World Renouncer**
 
-![Ashoka, World Renouncer](https://assets.2k.com/1a6ngf98576c/5HujTuA4gPyQ5mySvYlXxT/48bf5a594a678190f83764affa31413b/Civilizations_Ashoka_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/5HujTuA4gPyQ5mySvYlXxT/48bf5a594a678190f83764affa31413b/Civilizations_Ashoka_400x240.jpg)
 
 > *Let all listen, and be willing to listen to the teachings of all others.*

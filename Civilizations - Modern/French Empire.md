@@ -5,7 +5,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![French Empire](https://assets.2k.com/1a6ngf98576c/5yVdeZDn7Cwubt60e4XtVt/9cf63540c4bf8857bc158ae9db196a38/Civilizations_Desktop_French.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/5yVdeZDn7Cwubt60e4XtVt/9cf63540c4bf8857bc158ae9db196a38/Civilizations_Desktop_French.jpg)
 
 [[Cultural]], [[Diplomatic]]
 
@@ -132,6 +133,8 @@ graph LR;
 ## Starting Bias
 - Wine
 
-![French Empire](https://assets.2k.com/1a6ngf98576c/6McqYcRjJTbmfwrw70PyOv/af246e3b0092cdb6706e8f30f16abe62/Civ7_French_Empire.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/6/6d/French_Imperial_Background_(Civ7).jpg/revision/latest)
 
 >*France looks out upon an incomplete world—a blank canvas waiting to be marked.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/6McqYcRjJTbmfwrw70PyOv/af246e3b0092cdb6706e8f30f16abe62/Civ7_French_Empire.jpg)

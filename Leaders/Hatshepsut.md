@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Hatshepsut](https://static.wikia.nocookie.net/civilization/images/0/05/Hatshepsut_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/0/05/Hatshepsut_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Economic]]
 
@@ -37,6 +38,6 @@ tags:
 	- +10 Culture per Age in Cities with at least 1 Wonder
 - Lvl 10 Title: **Voice of the Sun**
 
-![Hatshepsut](https://assets.2k.com/1a6ngf98576c/78kRWFXNxm1e5VtkwcGZGl/cef11e7551f0b41682657980eca358ad/Civilizations_Hatshepsut_400x240.png)
+![Reveal](https://assets.2k.com/1a6ngf98576c/78kRWFXNxm1e5VtkwcGZGl/cef11e7551f0b41682657980eca358ad/Civilizations_Hatshepsut_400x240.png)
 
 >*Horus, the bright god, reborn into this person you see before you. Horus who is Hatshepsut. All that surrounds the sun works for me. Do you?*

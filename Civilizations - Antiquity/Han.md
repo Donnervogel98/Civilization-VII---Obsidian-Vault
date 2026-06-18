@@ -4,7 +4,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Han](https://assets.2k.com/1a6ngf98576c/11DIs0fsS9UmCWAFF8JcoI/f93556f33fdd77bc7577d0e36b8faeba/Civilizations_HanChina_400x240__1_.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/11DIs0fsS9UmCWAFF8JcoI/f93556f33fdd77bc7577d0e36b8faeba/Civilizations_HanChina_400x240__1_.png)
 
 [[Diplomatic]], [[Scientific]]
 
@@ -33,14 +34,14 @@ tags:
 - +5 Combat Strength when attacking adjacent Units
 ##### Great Person: *Shì Dàfū*
 - Can only be trained in the Capital with at least 10 Population
-- **Ban Zhao**: Activate on a Constructible with a Great Work Slot to grant a Codex called *Book of Han* that grants +2 Culture
+- **Ban Zhao**: Activate on a Building or Wonder with a Great Work Slot to grant a Codex called *Book of Han* that grants +2 Culture
 - **Han Fei**: Activate on the Palace to add +3 Science to the Building
 - **Laozi**: Activate on a Constructible with a Great Work Slot to grant a Codex called *Tao Te Ching* that grants +2 Happiness
 - **Mencius**: Activate on a Science Building to receive a free random Technology
 - **Mozi**: Activated in the Capital to immediately add Population
 - **Shang Yang**: Activated on the Palace to add +3 Influence to it
 - **Shen Buhai**: Activate in the Capital to immediately trigger a Celebration
-- **Huo Qubing**: Activated on an Army Commander to grant it a free Promotion
+- **Huo Qubing**: Activate on an Army Commander to grant it 1 Promotion
 - **Xun Kuang**: Activate in a City to add +1 Science to all Codices in that City
 - **Zhang Heng**: Activate on an Academy to grant +4 Science to the Building
 
@@ -107,6 +108,8 @@ graph LR;
 ## Starting Bias
 - Grassland
 
-![Han China](https://assets.2k.com/1a6ngf98576c/zRlJ56h9leOt1YOMJNlAa/fc40fa41ffb78d30a4ae0d3e87aa1418/HAN_CHINA.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/9/91/Han_Background_(Civ7).png/revision/latest)
 
 >*Harmony reveals itself through the shaping of energy, the cultivation of order. Now, the Han shall be its ministers.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/zRlJ56h9leOt1YOMJNlAa/fc40fa41ffb78d30a4ae0d3e87aa1418/HAN_CHINA.jpg)

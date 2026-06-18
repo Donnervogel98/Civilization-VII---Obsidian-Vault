@@ -5,7 +5,7 @@ tags:
 ---
 *Available with Update 1.3.2*
   
-  ![Portrait](https://static.wikia.nocookie.net/civilization/images/2/23/Gilgamesh_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/2/23/Gilgamesh_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Militaristic]]
 
@@ -39,4 +39,3 @@ tags:
 ![Reveal](https://assets.2k.com/1a6ngf98576c/7kK4zLFiEOd6tWJWgm5ji4/25762ce6363d71e61fc81904c67f477d/1920x1080_gilgamesh.png)
 
 >*These others claim to be kings. Who among them can claim my godlike frame, my lapis beard, my flashing eyes?*
-

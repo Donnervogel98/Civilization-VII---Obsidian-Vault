@@ -5,7 +5,8 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Inca](https://assets.2k.com/1a6ngf98576c/1glKbgWzwCGL9gtYP768J1/be094ce5e7f292994773d297121be509/Civilizations_Desktop_Inca.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/1glKbgWzwCGL9gtYP768J1/be094ce5e7f292994773d297121be509/Civilizations_Desktop_Inca.jpg)
 
 [[Economic]], [[Expansionist]]
 
@@ -100,6 +101,8 @@ graph LR;
 - Desert
 - Plains
 
-![Inca](https://assets.2k.com/1a6ngf98576c/6T1zz3Uk0GrskWUbdcg5wd/57644ac9e2d47496af4010312f0a30dd/Civ7_Inca.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/8/85/Incan_Background_(Civ7).png/revision/latest)
 
 >*The mountain valleys will sound with hammer and spade as the Inca enrich the land.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/6T1zz3Uk0GrskWUbdcg5wd/57644ac9e2d47496af4010312f0a30dd/Civ7_Inca.png)

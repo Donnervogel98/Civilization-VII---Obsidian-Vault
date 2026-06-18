@@ -8,7 +8,7 @@ tags:
 *Available with the Carthage Pack DLC*
 *Included in the [[Crossroads of the World Collection]]*
 
-  ![Carthage](https://assets.2k.com/1a6ngf98576c/7je6EpFtovpJFvMYWwtlzo/f3c25ce4a6fdb99ed1139137a5786244/Civilizations_Desktop_Carthage.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/7je6EpFtovpJFvMYWwtlzo/f3c25ce4a6fdb99ed1139137a5786244/Civilizations_Desktop_Carthage.png)
 
 [[Militaristic]], [[Economic]]
 
@@ -105,6 +105,8 @@ graph LR;
 - Coast
 - Grassland
 
-![Carthage](https://assets.2k.com/1a6ngf98576c/52pLng6zve1asw4ktV2usJ/d2f6779a7bb54e25a31bac40c847b71f/Carthage.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/c/c8/Carthaginian_Background_(Civ7).png/revision/latest)
 
 >*The children of Tyre come from afar to claim their destiny. From the center of the world, they will command an empire that knows no equal.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/52pLng6zve1asw4ktV2usJ/d2f6779a7bb54e25a31bac40c847b71f/Carthage.jpg)

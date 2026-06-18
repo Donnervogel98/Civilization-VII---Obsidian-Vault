@@ -5,7 +5,7 @@ tags:
 ---
 *Available with the [[Tecumseh and Shawnee Pack]] DLC*
 
-  ![Tecumseh](https://static.wikia.nocookie.net/civilization/images/0/08/Tecumseh_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/0/08/Tecumseh_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Militaristic]], [[Diplomatic]]
 
@@ -37,6 +37,6 @@ tags:
 	- +1 Combat Strength for Infantry Units for every City-State you are Suzerain of
 - Lvl 10 Title: **Chief**
 
-![Tecumseh](https://assets.2k.com/1a6ngf98576c/28OdYrD0YGA7PD1AatZMin/a779610e5d17410981f57d5f8e5e7e62/Civilizations_Tecumseh_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/28OdYrD0YGA7PD1AatZMin/a779610e5d17410981f57d5f8e5e7e62/Civilizations_Tecumseh_400x240.jpg)
 
 >*My forefathers were warriors. Their son is a warrior. From them I take only my existence. I have made myself what I am.*

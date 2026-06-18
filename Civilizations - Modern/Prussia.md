@@ -5,7 +5,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![Prussia](https://assets.2k.com/1a6ngf98576c/2FPLLRJoTbW7o9j1TL0pCu/6c399769af9764d14d69148e945644f2/Civilizations_Desktop_Prussia.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/2FPLLRJoTbW7o9j1TL0pCu/6c399769af9764d14d69148e945644f2/Civilizations_Desktop_Prussia.jpg)
 
 [[Militaristic]], [[Diplomatic]]
 
@@ -105,6 +106,8 @@ graph LR;
 ## Starting Biases
 - Niter
 
-![Prussia](https://assets.2k.com/1a6ngf98576c/3meFjpgywHCFQcwWpc7LFo/a875e2ba1bba6b4409079be7feadc5bb/Civ7_Prussia__1_.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/4/4b/Prussian_Background_(Civ7).png/revision/latest)
 
 >*A harbinger of change, Prussia ushers in an age of explosive growth and opportunity.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/3meFjpgywHCFQcwWpc7LFo/a875e2ba1bba6b4409079be7feadc5bb/Civ7_Prussia__1_.png)

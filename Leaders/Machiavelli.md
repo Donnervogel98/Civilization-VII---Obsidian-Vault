@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Machiavelli](https://static.wikia.nocookie.net/civilization/images/6/6b/Machiavelli_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/6/6b/Machiavelli_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Economic]]
 
@@ -34,6 +35,6 @@ tags:
 	- Declaring a Formal War decreases target's relationship with all other Civs by 25
 - Lvl 10 Title: **The Prince**
 
-![Machiavelli](https://assets.2k.com/1a6ngf98576c/70NJzmRJ3XUDKgzvxZEOFk/c68b31c6cfda00abe9be07357cdc8f82/Civilizations_Machiavelli_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/70NJzmRJ3XUDKgzvxZEOFk/c68b31c6cfda00abe9be07357cdc8f82/Civilizations_Machiavelli_400x240.jpg)
 
 >*Every one sees what you appear to be, few really know what you are. This is as it should be.*
