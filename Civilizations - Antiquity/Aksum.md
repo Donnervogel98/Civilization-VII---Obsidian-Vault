@@ -5,7 +5,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Aksum](https://assets.2k.com/1a6ngf98576c/3glYwoc9fh4JVjCPjvipju/08ec4c3338bb70011f935feed183bbb7/Civilizations_Aksum_Desktop.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/3glYwoc9fh4JVjCPjvipju/08ec4c3338bb70011f935feed183bbb7/Civilizations_Aksum_Desktop.png)
 
 [[Cultural]], [[Economic]]
 
@@ -90,6 +91,8 @@ graph LR
 - Coastal
 - Rough
 
-![Aksum](https://assets.2k.com/1a6ngf98576c/3vFCKTzKL06MiDhMR0EhsJ/de86dff5b1dbd15ac0763379287fff3c/aksum-1920.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/c/cc/Aksumite_Background_(Civ7).jpg/revision/latest)
 
 >*Say the word, and Aksum shall perch on the gateway between worlds. May only the worthy pass and know its majesty.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/3vFCKTzKL06MiDhMR0EhsJ/de86dff5b1dbd15ac0763379287fff3c/aksum-1920.jpg)

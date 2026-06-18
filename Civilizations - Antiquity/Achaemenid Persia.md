@@ -5,7 +5,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Persia](https://assets.2k.com/1a6ngf98576c/2uEaO2syuMBhNePl8m8lE3/422e90f8e8ac050862c7a5c1ac6418de/Civilizations_Persia_Desktop.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/2uEaO2syuMBhNePl8m8lE3/422e90f8e8ac050862c7a5c1ac6418de/Civilizations_Persia_Desktop.jpg)
 
 [[Economic]], [[Militaristic]]
 
@@ -94,6 +95,8 @@ graph LR;
 ## Starting Biases
 - Desert
 
-![Persia](https://assets.2k.com/1a6ngf98576c/fUkRbuZ7wdPPtOvIW4Xjs/1cb66175b81440c622dd05b137bfd4ed/Copy_of_Antiquity-Civ_Persia_01.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/9/9d/Achaemenid_Persian_Background_(Civ7).png/revision/latest)
 
 >*They will come from every corner of the world to pledge their strength and march under the same banner—the might and glory of Persia, embodied.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/fUkRbuZ7wdPPtOvIW4Xjs/1cb66175b81440c622dd05b137bfd4ed/Copy_of_Antiquity-Civ_Persia_01.jpg)

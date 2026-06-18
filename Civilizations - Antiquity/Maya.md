@@ -4,7 +4,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Maya](https://assets.2k.com/1a6ngf98576c/47KaR6dGcS1k5nizApKkxz/1eaf1491757109bf1b486035670b56dc/Civilizations_Maya_Desktop.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/47KaR6dGcS1k5nizApKkxz/1eaf1491757109bf1b486035670b56dc/Civilizations_Maya_Desktop.png)
 
 [[Cultural]], [[Scientific]]
 
@@ -100,6 +101,8 @@ graph LR;
 - Vegetated
 - Tropical
 
-![Maya](https://assets.2k.com/1a6ngf98576c/5dcz8ULVIoeBVO1QKGxBT2/2ecafea3d3ff845eda0629617bd7df48/maya-1920.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/2/24/Maya_Background_(Civ7).png/revision/latest)
 
 >*The people lay these stones as a pathway to the heavens. Come, k'uhul ajaw, and assume the world's throne.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/5dcz8ULVIoeBVO1QKGxBT2/2ecafea3d3ff845eda0629617bd7df48/maya-1920.jpg)

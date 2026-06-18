@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Confucius](https://static.wikia.nocookie.net/civilization/images/c/c4/Confucius_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/c/c4/Confucius_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Expansionist]], [[Scientific]]
 
@@ -37,6 +38,6 @@ tags:
 	- +1 Science from Specialists
 - Lvl 10 Title: **Great Sage**
 
-![Confucius](https://assets.2k.com/1a6ngf98576c/65pGWxSViha5meZ3rOZAY/4f2ede0ef6caa478393925f3b4253fe2/Civilizations_Confusius_400x240.png)
+![Reveal](https://assets.2k.com/1a6ngf98576c/65pGWxSViha5meZ3rOZAY/4f2ede0ef6caa478393925f3b4253fe2/Civilizations_Confusius_400x240.png)
 
 >*Shall I teach you about knowledge? What you know, you know, what you don't know, you don't know. This is true knowledge.*

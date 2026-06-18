@@ -6,7 +6,7 @@ tags:
 *Alternate Persona of [[Ashoka, World Renouncer]]*
 *Available with the [[Founders Content Pack]] DLC*
 
-  ![Ashoka, World Conqueror](https://static.wikia.nocookie.net/civilization/images/1/19/Ashoka%2C_World_Conqueror_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/1/19/Ashoka%2C_World_Conqueror_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Militaristic]]
 

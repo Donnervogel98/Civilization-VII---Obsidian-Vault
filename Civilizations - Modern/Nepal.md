@@ -8,7 +8,7 @@ tags:
 *Available with the Nepal Pack DLC*
 *Included in the [[Crossroads of the World Collection]]*
 
-  ![Nepal](https://assets.2k.com/1a6ngf98576c/7kdHwWsqsSzNsbR1yGr4sr/e54c3759d4342f55b36f938aec2dc85f/Civilizations_Desktop_Nepal.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/7kdHwWsqsSzNsbR1yGr4sr/e54c3759d4342f55b36f938aec2dc85f/Civilizations_Desktop_Nepal.png)
 
 [[Diplomatic]], [[Cultural]]
 
@@ -106,6 +106,8 @@ graph LR;
 ## Starting Bias
 - Mountains
 
-![Nepal](https://assets.2k.com/1a6ngf98576c/50N8nHQvBOYs29wmJlIDCj/cd52aa264aebe407a87687bb51149265/Civ7_Crossroads_Nepal.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/7/78/Nepalese_Background_(Civ7).jpg/revision/latest)
 
 >*Nepal rises above its neighbors, looking to become a world power.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/50N8nHQvBOYs29wmJlIDCj/cd52aa264aebe407a87687bb51149265/Civ7_Crossroads_Nepal.jpg)

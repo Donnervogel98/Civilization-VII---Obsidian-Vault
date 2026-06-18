@@ -8,7 +8,7 @@ tags:
 *Available with the Republic of Pirates Pack DLC*
 *Included in the [[Tides of Power Collection]]*
   
-  ![name](https:////assets.2k.com/1a6ngf98576c/4QDeZBmdkKuXqqXDFpJyNw/e7c1130dc2828d3bc1122e62c169b03a/Republic_of_Pirates_400x250.png)
+![Icon](https:////assets.2k.com/1a6ngf98576c/4QDeZBmdkKuXqqXDFpJyNw/e7c1130dc2828d3bc1122e62c169b03a/Republic_of_Pirates_400x250.png)
 
 [[Economic]], [[Militaristic]]
 
@@ -127,4 +127,6 @@ graph LR;
 ## Starting Biases
 - Coast
 
-![Civ](https://assets.2k.com/1a6ngf98576c/16phFjgJSDVa2S6WrPA1Sy/cf021a513e7f5e4a9b2d417f323fa30e/2KCAP_Inverness_CC3-Screenshots_Group-1_Republic-of-Pirates_05.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/c/c4/Pirate_Background_(Civ7).jpg/revision/latest)
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/16phFjgJSDVa2S6WrPA1Sy/cf021a513e7f5e4a9b2d417f323fa30e/2KCAP_Inverness_CC3-Screenshots_Group-1_Republic-of-Pirates_05.jpg)

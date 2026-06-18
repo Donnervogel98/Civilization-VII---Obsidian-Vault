@@ -6,7 +6,7 @@ tags:
 *Available with the Lakshmibai Pack DLC*
 *Included in the [[Right to Rule Collection]]*
 
-  ![Lakshmibai](https://static.wikia.nocookie.net/civilization/images/b/b8/Lakshmibai_(Civ7).png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/b/b8/Lakshmibai_(Civ7).png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Militaristic]]
 
@@ -37,8 +37,6 @@ tags:
 	- +2 Influence for each Army Commander Promotion
 - Lvl 10 Title: **Rani of Jhansi**
 
-
-![Lakshmibai](https:////assets.2k.com/1a6ngf98576c/4PYw3I854crpjzY1OSko9H/23a23adedf957a29875c6898125b1d40/Leaders_400x240Lakshmibai.jpg)
+![Reveal](https:////assets.2k.com/1a6ngf98576c/4PYw3I854crpjzY1OSko9H/23a23adedf957a29875c6898125b1d40/Leaders_400x240Lakshmibai.jpg)
 
 >*Weapons possess only the power of those who wield them, and that power comes from the heart.*
-

@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Benjamin Franklin](https://static.wikia.nocookie.net/civilization/images/4/4c/Benjamin_Franklin_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/4/4c/Benjamin_Franklin_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Scientific]]
 
@@ -35,6 +36,6 @@ tags:
 	- +15 Science and Happiness per Age when in an Alliance for you and your ally
 - Lvl 10 Title: **First American**
 
-![Benjamin Franklin](https://assets.2k.com/1a6ngf98576c/2kvj4GrX8VSKqc2t073zjS/d5d6ec71b9d08bc87581545831f7883d/Leaders_Benji_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/2kvj4GrX8VSKqc2t073zjS/d5d6ec71b9d08bc87581545831f7883d/Leaders_Benji_400x240.jpg)
 
 >*A game of strategy is not idle amusement. Instead, we cultivate foresight, circumspection, and learn caution. Let us build a nation together so that we may know how nations are built.*

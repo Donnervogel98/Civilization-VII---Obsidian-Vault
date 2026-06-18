@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Charlemagne](https://static.wikia.nocookie.net/civilization/images/d/dd/Charlemagne_%28Civ7%29.png/revision/latest?cb=20250217042636/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/d/dd/Charlemagne_%28Civ7%29.png/revision/latest?cb=20250217042636/revision/latest/scale-to-width-down/350)
 
 [[Militaristic]], [[Scientific]]
 
@@ -37,6 +38,6 @@ tags:
 	- +1 Movement for Cavalry Units
 - Lvl 10 Title: **Father of Europe**
 
-![Charlemagne](https://assets.2k.com/1a6ngf98576c/5AQXzrVcS1HNDWUsKRvpD1/50493d0beb5e7cb59e1b5b55372b62d0/Leaders_Charlemagne_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/5AQXzrVcS1HNDWUsKRvpD1/50493d0beb5e7cb59e1b5b55372b62d0/Leaders_Charlemagne_400x240.jpg)
 
 >*Action is better than knowledge, but one must have the knowledge to know what actions bring!*

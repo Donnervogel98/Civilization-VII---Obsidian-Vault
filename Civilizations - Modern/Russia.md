@@ -5,7 +5,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![Russia](https://assets.2k.com/1a6ngf98576c/4yDe2Jfdd56GkrR4sQsYC9/a5667b41170844ce71850ee8fd475982/Civilizations_Desktop_Russia.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/4yDe2Jfdd56GkrR4sQsYC9/a5667b41170844ce71850ee8fd475982/Civilizations_Desktop_Russia.jpg)
 
 [[Cultural]], [[Scientific]]
 
@@ -110,6 +111,8 @@ graph LR;
 - Tundra
 - Furs
 
-![Russia](https://assets.2k.com/1a6ngf98576c/c06tSRcNGq37GhTmtu9oD/9b2b23909806c09170373c4ba41fa638/Civ7_Russia.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/f/fb/Russian_Background_(Civ7).jpg/revision/latest)
 
 >*The velikaya dusha – the great Russian soul – emerges upon the world, with its unquenchable appetite for knowledge, poetry… and conquest.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/c06tSRcNGq37GhTmtu9oD/9b2b23909806c09170373c4ba41fa638/Civ7_Russia.jpg)

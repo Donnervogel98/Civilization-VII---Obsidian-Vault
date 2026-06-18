@@ -8,7 +8,7 @@ tags:
 *Available with the Bulgaria Pack DLC*
 *Included in the [[Crossroads of the World Collection]]*
 
-  ![Bulgaria](https://assets.2k.com/1a6ngf98576c/1iYhV6dH7QO43cbyLdUqlP/2a930edadd08ca2085afa185e7afc51e/Civilizations_Desktop_Bulgaria.png)
+![Icon](https://assets.2k.com/1a6ngf98576c/1iYhV6dH7QO43cbyLdUqlP/2a930edadd08ca2085afa185e7afc51e/Civilizations_Desktop_Bulgaria.png)
 
 [[Expansionist]], [[Militaristic]]
 
@@ -107,6 +107,8 @@ graph LR;
 ## Starting Bias
 - Rough
 
-![Bulgaria](https://assets.2k.com/1a6ngf98576c/1bRl5q5sO8WvSkfgn90jq1/2c6b5f3be2acb046d57f9a9158307b09/Civ7_Crossroads_Bulgaria.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/6/68/Bulgarian_Background_(Civ7).png/revision/latest)
 
 >*As the horseman tramples the dragon, Bulgaria shall overrun the earth.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/1bRl5q5sO8WvSkfgn90jq1/2c6b5f3be2acb046d57f9a9158307b09/Civ7_Crossroads_Bulgaria.jpg)

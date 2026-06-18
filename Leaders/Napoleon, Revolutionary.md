@@ -6,7 +6,7 @@ tags:
 *Alternate Persona of [[Napoleon, Emperor]]*
 *Available with a linked 2K account that is also linked to Civilization VI*
 
-  ![Napoleon, Revolutionary](https://static.wikia.nocookie.net/civilization/images/4/4b/Napoleon%2C_Revolutionary_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/4/4b/Napoleon%2C_Revolutionary_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Militaristic]]
 
@@ -37,6 +37,6 @@ tags:
 	- Units in a Command Radius heal +10 HP after defeating an enemy Unit
 - Lvl 10 Title: **Man of Destiny**
 
-![Napoleon](https://assets.2k.com/1a6ngf98576c/16SpSymbm5NTO33NRxwEyI/52ff788b435e8e064c98a5667b1288ba/Leaders_Napoleon_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/16SpSymbm5NTO33NRxwEyI/52ff788b435e8e064c98a5667b1288ba/Leaders_Napoleon_400x240.jpg)
 
 >*To do all that one is able to do, is to be human; to do all that one would like to do, is to be a god.*

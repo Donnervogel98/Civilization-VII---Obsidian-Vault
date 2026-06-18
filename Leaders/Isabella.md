@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Isabella](https://static.wikia.nocookie.net/civilization/images/b/b3/Isabella_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/b/b3/Isabella_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Economic]], [[Expansionist]]
 
@@ -39,6 +40,6 @@ tags:
 	- +2 Happiness per Age on Natural Wonders
 - Lvl 10 Title: **Golden Age Monarch**
 
-![Isabella](https://assets.2k.com/1a6ngf98576c/5nLZwuHihfAElbaqHy4qZv/ef32526a326d9410a5a9702947ca00ff/Civilizations_Isabella_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/5nLZwuHihfAElbaqHy4qZv/ef32526a326d9410a5a9702947ca00ff/Civilizations_Isabella_400x240.jpg)
 
 >*It is divine will that I should be queen, and that his kingdom should extend over the earth. Is it yours?*

@@ -5,7 +5,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Maurya](https://assets.2k.com/1a6ngf98576c/4jK89uvyjvFpRDTNwxese6/a50602f93624769d0949c561c4a77808/Civilizations_Maurya_Desktop.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/4jK89uvyjvFpRDTNwxese6/a50602f93624769d0949c561c4a77808/Civilizations_Maurya_Desktop.png)
 
 [[Militaristic]], [[Scientific]]
 
@@ -93,6 +94,8 @@ graph LR;
 ## Starting Bias
 - Vegetated
 
-![Maurya India](https://assets.2k.com/1a6ngf98576c/4XTqvDJlOfjiHxvf5vuhAT/1c32d0921d929a02d44ca1ca668ffab6/maurya-1920.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/e/e2/Mauryan_Background_(Civ7).png/revision/latest)
 
 >*The path to glory requires the guidance of a steady hand. Can Maurya, hardy as the Himalayas, become the stewards of the world?*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/4XTqvDJlOfjiHxvf5vuhAT/1c32d0921d929a02d44ca1ca668ffab6/maurya-1920.jpg)

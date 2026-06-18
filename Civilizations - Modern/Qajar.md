@@ -7,7 +7,7 @@ tags:
 *Available with the Qajar Pack DLC*
 *Included in the [[Right to Rule Collection]]*
 
-  ![Qajar](https:////assets.2k.com/1a6ngf98576c/2dDYlHlepEP040sRwkCygU/7a0affef137f0ec3a0b379ed4359f6b0/Civilization_400x240_Qajar.png)
+![Icon](https:////assets.2k.com/1a6ngf98576c/2dDYlHlepEP040sRwkCygU/7a0affef137f0ec3a0b379ed4359f6b0/Civilization_400x240_Qajar.png)
 
 [[Diplomatic]], [[Expansionist]]
 
@@ -101,4 +101,6 @@ graph LR;
 - Plains
 - Desert
 
-![Civ]()
+![Background](https://static.wikia.nocookie.net/civilization/images/a/a9/Qajar_Background_(Civ7).png/revision/latest)
+
+![Settlement](https://static.wikia.nocookie.net/civilization/images/8/84/Qajar_city_in-game_(Civ7).jpg/revision/latest)

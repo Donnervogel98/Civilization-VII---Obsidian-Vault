@@ -4,7 +4,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Xerxes, King of Kings](https://static.wikia.nocookie.net/civilization/images/3/36/Xerxes%2C_King_of_Kings_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/3/36/Xerxes%2C_King_of_Kings_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Economic]], [[Militaristic]]
 
@@ -39,6 +40,6 @@ tags:
 	- +3 Gold per age for each other Civilization's Settlement you have conquered
 - Lvl 10 Title: **King of Kings**
 
-![Xerxes, King of Kings](https://assets.2k.com/1a6ngf98576c/2cS3sfeA5B7nsSdms6AaM7/1ca15973ba2c9fb89c0e6a5e84eb97ef/Civilizations_Xerxes_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/2cS3sfeA5B7nsSdms6AaM7/1ca15973ba2c9fb89c0e6a5e84eb97ef/Civilizations_Xerxes_400x240.jpg)
 
 > *Under my hand, wherever there is conflict and chaos I strike it down. I will have peace, even amidst ashes.*

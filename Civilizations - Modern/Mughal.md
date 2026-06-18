@@ -4,7 +4,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![Mughal](https://assets.2k.com/1a6ngf98576c/2ZiOiwWkRilj12XK6frX8D/f16d1f0bb79a32f5ec66fb7065056562/Civilizations_Desktop_Mughal.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/2ZiOiwWkRilj12XK6frX8D/f16d1f0bb79a32f5ec66fb7065056562/Civilizations_Desktop_Mughal.jpg)
 
 [[Economic]], [[Expansionist]]
 
@@ -110,6 +111,8 @@ graph LR;
 ## Starting Bias
 - Flat
 
-![Mughal India](https://assets.2k.com/1a6ngf98576c/7UlIFeBukZH7SKe528mUj/f34dabad51cb6e6d4bb34c3d43968683/Civ7_Mughal.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/6/64/Mughal_Background_(Civ7).png/revision/latest)
 
 >*The Mughals come, foreigners to the land, but with a drive to assemble the foundations of an empire from the detritus of what went before.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/7UlIFeBukZH7SKe528mUj/f34dabad51cb6e6d4bb34c3d43968683/Civ7_Mughal.jpg)

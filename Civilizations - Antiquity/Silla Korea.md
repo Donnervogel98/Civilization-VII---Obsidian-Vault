@@ -7,7 +7,7 @@ tags:
 *Available with the Silla Pack DLC*
 *Included in the [[Right to Rule Collection]]*
 
-  ![Silla](https:////assets.2k.com/1a6ngf98576c/15gdu4805KnN95xbWXqQxE/1028191322a19ac380a84a1250d976d7/Civilization_400x240_Silla.png)
+![Icon](https:////assets.2k.com/1a6ngf98576c/15gdu4805KnN95xbWXqQxE/1028191322a19ac380a84a1250d976d7/Civilization_400x240_Silla.png)
 
 [[Economic]], [[Diplomatic]]
 
@@ -99,4 +99,6 @@ graph LR;
 - Rough
 - Grassland
 
-![Settlement]()
+![Background](https://static.wikia.nocookie.net/civilization/images/1/10/Silla_Background_%28Civ7%29.jpg/revision/latest/)
+
+![Settlement](https://static.wikia.nocookie.net/civilization/images/b/bb/Silla_city_in-game_(Civ7).jpg/revision/latest)

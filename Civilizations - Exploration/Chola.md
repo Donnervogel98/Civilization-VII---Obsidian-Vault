@@ -4,7 +4,8 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Chola](https://assets.2k.com/1a6ngf98576c/7ihL6dVHsa1N2quPjCgznT/f554c5bc4790cf0051083b2de172458a/Civilizations_Chola_Desktop.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/7ihL6dVHsa1N2quPjCgznT/f554c5bc4790cf0051083b2de172458a/Civilizations_Chola_Desktop.jpg)
 
 [[Diplomatic]], [[Economic]]
 
@@ -119,6 +120,8 @@ graph LR;
 - Coast
 - Tropical
 
-![Chola India](https://assets.2k.com/1a6ngf98576c/5jy7COecxu8QcHkPbwUrvh/f699edcee86e402b2237f999959d5aad/Civ7_Chola.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/5/5e/Chola_Background_(Civ7).png/revision/latest)
 
 >*The monsoon gathers, filling sails and banners, pushing the fierce Chola toward their destiny.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/5jy7COecxu8QcHkPbwUrvh/f699edcee86e402b2237f999959d5aad/Civ7_Chola.png)

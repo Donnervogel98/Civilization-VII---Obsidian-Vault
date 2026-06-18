@@ -6,7 +6,7 @@ tags:
 *Available with the Genghis Khan Pack DLC*
 *Included in the [[Right to Rule Collection]]*
 
-  ![Genghis Khan](https://static.wikia.nocookie.net/civilization/images/b/b0/Genghis_Khan_(Civ7).png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/b/b0/Genghis_Khan_(Civ7).png/revision/latest/scale-to-width-down/350)
 
 [[Expansionist]], [[Militaristic]]
 
@@ -37,7 +37,6 @@ tags:
 	- +1 Culture per Age on Cavalry Units Stationed on a Palace or City Hall
 - Lvl 10 Title: **Chosen of Tengri**
 
-
-![Genghis Khan](https:////assets.2k.com/1a6ngf98576c/2FYQ6EY5LEE8ax75yky7oq/fe04fedb086cf4acfe7e3bed4be8801b/Leaders_400x240Genghis.jpg)
+![Reveal](https:////assets.2k.com/1a6ngf98576c/2FYQ6EY5LEE8ax75yky7oq/fe04fedb086cf4acfe7e3bed4be8801b/Leaders_400x240Genghis.jpg)
 
 >*The Eternal Blue Sky commands all. Who dares to listen?*

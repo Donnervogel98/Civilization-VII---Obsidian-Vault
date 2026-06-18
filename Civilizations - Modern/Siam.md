@@ -5,7 +5,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![Siam](https://assets.2k.com/1a6ngf98576c/31bq7QgIZYyRCXz2737n8Y/9f5cc7a23f4d87735b1627d8c7124c52/Civilizations_Desktop_Siam.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/31bq7QgIZYyRCXz2737n8Y/9f5cc7a23f4d87735b1627d8c7124c52/Civilizations_Desktop_Siam.jpg)
 
 [[Cultural]], [[Diplomatic]]
 
@@ -112,6 +113,8 @@ graph LR;
 ## Starting Bias
 - Ivory
 
-![Siam](https://assets.2k.com/1a6ngf98576c/J5DbVmhPHqPOpr3fa3WkC/1a248b93498f3b8f6fd54b44d7ea1b3c/Civ7_Siam.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/f/fe/Siamese_Background_(Civ7).jpg/revision/latest)
 
 >*Siam grows like mai pai, like forest bamboo. It bends with the changing winds, it does not break.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/J5DbVmhPHqPOpr3fa3WkC/1a248b93498f3b8f6fd54b44d7ea1b3c/Civ7_Siam.jpg)

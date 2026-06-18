@@ -5,7 +5,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![Buganda](https://assets.2k.com/1a6ngf98576c/39pmewT7g9RmA9JDqXtcdZ/8b147d0b089d84cda6b1da8a267e3a8e/Civilizations_Desktop_Buganda.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/39pmewT7g9RmA9JDqXtcdZ/8b147d0b089d84cda6b1da8a267e3a8e/Civilizations_Desktop_Buganda.jpg)
 
 [[Cultural]], [[Expansionist]]
 
@@ -105,6 +106,8 @@ graph LR;
 - Lakes
 - Tropical
 
-![Budanda](https://assets.2k.com/1a6ngf98576c/411tAPI1bntFXO4Nd5uwHF/1cc1f4f7f5be3cc6222646b18c3a39da/Civ7_Buganda.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/0/0b/Bugandan_Background_(Civ7).png/revision/latest)
 
 >*From the lakes, with war-canoe and spear, rifle and kingly authority, the Baganda of Buganda come. Let all kneel before the throne of the kabakas.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/411tAPI1bntFXO4Nd5uwHF/1cc1f4f7f5be3cc6222646b18c3a39da/Civ7_Buganda.png)

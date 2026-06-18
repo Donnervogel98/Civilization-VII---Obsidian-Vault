@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Harriet Tubman](https://static.wikia.nocookie.net/civilization/images/c/cf/Harriet_Tubman_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/c/cf/Harriet_Tubman_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Militaristic]]
 
@@ -37,6 +38,6 @@ tags:
 	- +3 Combat Strength to your units below 50% health
 - Lvl 10 Title: **Conductor**
 
-![Harriet Tubman](https://assets.2k.com/1a6ngf98576c/71R9NtDANCbd6rt8Xya6mg/8a8136f32303460757e5bf8aaa503a78/Leaders_Harriet_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/71R9NtDANCbd6rt8Xya6mg/8a8136f32303460757e5bf8aaa503a78/Leaders_Harriet_400x240.jpg)
 
 >*I never lost a passenger, never crashed my train. Not many can say the same.*

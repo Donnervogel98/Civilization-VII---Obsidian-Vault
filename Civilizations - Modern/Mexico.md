@@ -5,7 +5,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![Mexico](https://assets.2k.com/1a6ngf98576c/Qm5QNCEQKFjGR5yA2IISk/b4788474a1f8577684e526b4472fade5/Civilizations_Desktop_Mexico.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/Qm5QNCEQKFjGR5yA2IISk/b4788474a1f8577684e526b4472fade5/Civilizations_Desktop_Mexico.jpg)
 
 [[Cultural]], [[Diplomatic]]
 
@@ -125,6 +126,8 @@ graph LR;
 - Desert
 - Plains
 
-![Mexico](https://assets.2k.com/1a6ngf98576c/cuvckbYO4tP5OVLzjNcOu/fe861d673a03d5acd0d51ffcb2000811/Civ7_Mexico.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/1/18/Mexican_Background_(Civ7).jpg/revision/latest)
 
 >*A world built from the bones of the past, refashioned for a new future: Mexico has arrived.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/cuvckbYO4tP5OVLzjNcOu/fe861d673a03d5acd0d51ffcb2000811/Civ7_Mexico.png)

@@ -4,7 +4,7 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Songhai](https://assets.2k.com/1a6ngf98576c/3vBKkCnFihj2P5FDUvYabM/78fe4de48ba738f92ca1124999302229/Civilizations_Desktop_Songhai.jpg)
+  ![Icon](https://assets.2k.com/1a6ngf98576c/3vBKkCnFihj2P5FDUvYabM/78fe4de48ba738f92ca1124999302229/Civilizations_Desktop_Songhai.jpg)
 
 [[Economic]], [[Militaristic]]
 
@@ -112,6 +112,8 @@ graph LR;
 - Desert
 - Plains
 
-![Songhai](https://assets.2k.com/1a6ngf98576c/3wwBgLRxT422ZP5JDIIuoY/cc811d0637fb08ff84327eab4d2431c7/Civ7_Songhai.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/7/79/Songhai_Background_(Civ7).png/revision/latest)
 
 >*From the heart of the Sahel, the Songhai will emerge upon the river's waves to take the world by storm.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/3wwBgLRxT422ZP5JDIIuoY/cc811d0637fb08ff84327eab4d2431c7/Civ7_Songhai.png)

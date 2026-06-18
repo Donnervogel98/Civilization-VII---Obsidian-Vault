@@ -4,7 +4,8 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Normandy](https://assets.2k.com/1a6ngf98576c/2fEQ6yHPEri5kif274a4ON/b0371a747c6cc9a64d86cfe96150ed79/Civilizations_Norman_Desktop.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/2fEQ6yHPEri5kif274a4ON/b0371a747c6cc9a64d86cfe96150ed79/Civilizations_Norman_Desktop.jpg)
 
 [[Diplomatic]], [[Militaristic]]
 
@@ -129,6 +130,8 @@ graph LR;
 - Coast
 - Iron
 
-![Norman](https://assets.2k.com/1a6ngf98576c/HmMFmne9rBgReZ11gkYVu/13ed56acb0cd50f8cd494aba6983f746/Civ7_Norman.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/8/82/Norman_Background_(Civ7).png/revision/latest)
 
 >*The winds rise, and the Normans cross the channel of history to seize the world for themselves and hold nothing back.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/HmMFmne9rBgReZ11gkYVu/13ed56acb0cd50f8cd494aba6983f746/Civ7_Norman.png)

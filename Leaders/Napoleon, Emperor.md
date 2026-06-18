@@ -6,7 +6,7 @@ tags:
 ---
 *Available with a linked 2K account*
 
-  ![Napoleon, Emperor](https://static.wikia.nocookie.net/civilization/images/f/ff/Napoleon%2C_Emperor_(Civ7).png/revision/latest/scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/f/ff/Napoleon%2C_Emperor_(Civ7).png/revision/latest/scale-to-width-down/350)
 
 [[Economic]], [[Diplomatic]]
 
@@ -38,6 +38,6 @@ tags:
 	- Gain 200 Gold per Age when a Formal War is declared against you
 - Lvl 10 Title: **Self-Crowned Emperor**
 
-![Napoleon](https://assets.2k.com/1a6ngf98576c/16SpSymbm5NTO33NRxwEyI/52ff788b435e8e064c98a5667b1288ba/Leaders_Napoleon_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/16SpSymbm5NTO33NRxwEyI/52ff788b435e8e064c98a5667b1288ba/Leaders_Napoleon_400x240.jpg)
 
 >*To do all that one is able to do, is to be human; to do all that one would like to do, is to be a god.*

@@ -4,7 +4,8 @@ tags:
   - Vanilla
 aliases:
 ---
-  ![Catherine the Great](https://static.wikia.nocookie.net/civilization/images/c/c5/Catherine_the_Great_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/c/c5/Catherine_the_Great_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Scientific]]
 
@@ -39,6 +40,6 @@ aliases:
 	- +2 Science per Age in Towns in Tundra
 - Lvl 10 Title: **Star of the North**
 
-![Catherine the Great](https://assets.2k.com/1a6ngf98576c/4qIzlJ1qivEOKgSJSU6zbG/d5c24b927a9c3e630138e17eb4c10bb2/Leaders_Catherine_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/4qIzlJ1qivEOKgSJSU6zbG/d5c24b927a9c3e630138e17eb4c10bb2/Leaders_Catherine_400x240.jpg)
 
 >*Let us rule by force of personality, by passion, rather than some bloodless system!*

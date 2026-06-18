@@ -6,7 +6,7 @@ tags:
 *Alternate Persona of [[Himiko, Queen of Wa]]*
 *Available with the [[Founders Content Pack]] DLC*
 
-  ![Himiko, High Shaman](https://static.wikia.nocookie.net/civilization/images/1/15/Himiko%2C_High_Shaman_%28Civ7%29.png/revision/latest//scale-to-width-down/350)
+![Portrait](https://static.wikia.nocookie.net/civilization/images/1/15/Himiko%2C_High_Shaman_%28Civ7%29.png/revision/latest//scale-to-width-down/350)
 
 [[Cultural]], [[Diplomatic]]
 

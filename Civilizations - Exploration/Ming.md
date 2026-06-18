@@ -4,7 +4,8 @@ tags:
   - Exploration
   - Vanilla
 ---
-  ![Ming](https://assets.2k.com/1a6ngf98576c/7s8JmQmcyLn2fscAOet75c/da333a20e773553afd3e00ab8a295f57/Civilizations_Desktop_Ming.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/7s8JmQmcyLn2fscAOet75c/da333a20e773553afd3e00ab8a295f57/Civilizations_Desktop_Ming.jpg)
 
 [[Economic]], [[Scientific]]
 
@@ -101,6 +102,8 @@ A --> C[Da Ming Lu];
 - Coast
 - Silk
 
-![Ming China](https://assets.2k.com/1a6ngf98576c/4CzST7YlsgmfHkhQOSyxG/2a6cf438132984aa34f7e9a230742a9a/Civ7_Ming.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/4/41/Ming_Background_(Civ7).png/revision/latest)
 
 >*Guided by the stars, the Ming will seize the mandate of heaven, and lead the people into a prosperous future.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/4CzST7YlsgmfHkhQOSyxG/2a6cf438132984aa34f7e9a230742a9a/Civ7_Ming.png)

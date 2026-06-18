@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Augustus](https://static.wikia.nocookie.net/civilization/images/9/99/Augustus_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/9/99/Augustus_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Expansionist]]
 
@@ -34,6 +35,6 @@ tags:
 	- +1 Production in the Capital for every Town
 - Lvl 10 Title: **First Citizen**
 
-![Augustus](https://assets.2k.com/1a6ngf98576c/3xrKAGhQKpjk52haGZGygR/95a4bec119186e5cb12eecf2077d5478/Civilizations_Augustus_400x240.png)
+![Reveal](https://assets.2k.com/1a6ngf98576c/3xrKAGhQKpjk52haGZGygR/95a4bec119186e5cb12eecf2077d5478/Civilizations_Augustus_400x240.png)
 
 >*The beginnings of all things are small. But in the end, I will raise a city of marble where once were bricks.*

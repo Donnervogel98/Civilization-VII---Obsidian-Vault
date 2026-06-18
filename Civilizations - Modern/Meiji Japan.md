@@ -5,7 +5,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![Meiji Japan](https://assets.2k.com/1a6ngf98576c/6k9qWgTqPLZOmlWyNqvc7a/d8832ef212cbfd523a27cdfd77dbffc5/Civilizations_Desktop_Meiji.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/6k9qWgTqPLZOmlWyNqvc7a/d8832ef212cbfd523a27cdfd77dbffc5/Civilizations_Desktop_Meiji.jpg)
 
 [[Militaristic]], [[Scientific]]
 
@@ -115,6 +116,8 @@ graph LR;
 - Coast
 - Grassland
 
-![Meiji Japan](https://assets.2k.com/1a6ngf98576c/1Xhcih33eU0tLwevq1yFHA/52c87200d76f75784a957ae9822ea2bb/Civ7_Meiji.png)
+![Background](https://static.wikia.nocookie.net/civilization/images/0/06/Meiji_Japanese_Background_(Civ7).png/revision/latest)
 
 >*The sun rises. The Meiji ascend.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/1Xhcih33eU0tLwevq1yFHA/52c87200d76f75784a957ae9822ea2bb/Civ7_Meiji.png)

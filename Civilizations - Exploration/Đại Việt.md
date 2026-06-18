@@ -8,7 +8,7 @@ aliases:
 *Available with the Dai Viet Pack DLC*
 *Included in the [[Right to Rule Collection]]*
 
-  ![Dai Viet](https:////assets.2k.com/1a6ngf98576c/4XOulntbOa7OgOX3xCRIk9/d11de7a243cdbe4229f27259235b7c5c/DAI_VIET.png)
+![Icon](https:////assets.2k.com/1a6ngf98576c/4XOulntbOa7OgOX3xCRIk9/d11de7a243cdbe4229f27259235b7c5c/DAI_VIET.png)
 
 [[Cultural]], [[Expansionist]]
 
@@ -111,4 +111,6 @@ graph LR;
 - Floodplains
 - Tropical
 
-![Đại Việt](https://assets.2k.com/1a6ngf98576c/z7t8tsyASAF3STanqw0Yd/12329a565804c6731fab7b5954c6caa3/civ7_Content-Collection-2-Screenshots_R2_Dai-Viet_City-Flyover-02.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/a/a0/Vietnamese_background_(Civ7).png/revision/latest)
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/z7t8tsyASAF3STanqw0Yd/12329a565804c6731fab7b5954c6caa3/civ7_Content-Collection-2-Screenshots_R2_Dai-Viet_City-Flyover-02.jpg)

@@ -4,7 +4,8 @@ tags:
   - Modern
   - Vanilla
 ---
-  ![Qing](https://assets.2k.com/1a6ngf98576c/1dZDADlg5u0ozqAmELfKQo/08b56d6028dc0e75d04b87c6ae03ac9a/Civilizations_Desktop_Qinq.jpg)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/1dZDADlg5u0ozqAmELfKQo/08b56d6028dc0e75d04b87c6ae03ac9a/Civilizations_Desktop_Qinq.jpg)
 
 [[Economic]], [[Expansionist]]
 
@@ -112,6 +113,8 @@ graph LR;
 ## Starting Bias
 - Grassland
 
-![Qing China](https://assets.2k.com/1a6ngf98576c/15D49x5GnjrXbvlazX67W7/c16e11f95706990782fc458a6ab19ab8/Civ7_Qing.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/c/c2/Qing_Background_(Civ7).jpg/revision/latest)
 
 >*The Eight Banners rise to make way for the Qing.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/15D49x5GnjrXbvlazX67W7/c16e11f95706990782fc458a6ab19ab8/Civ7_Qing.jpg)

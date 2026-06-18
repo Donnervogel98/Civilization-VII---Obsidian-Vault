@@ -6,7 +6,7 @@ tags:
 *Available with the Ada Lovelace Pack DLC*
 *Included in the [[Crossroads of the World Collection]]*
 
-  ![Ada Lovelace](http://static.wikia.nocookie.net/civilization/images/1/15/Ada_Lovelace_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](http://static.wikia.nocookie.net/civilization/images/1/15/Ada_Lovelace_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Scientific]]
 
@@ -36,6 +36,6 @@ tags:
 	- Every time you research a Technology or Civic Mastery, the Capital gains Production equal to 15% of its cost
 - Lvl 10 Title: **Enchantress of Numbers**
 
-![Ada Lovelace](https://assets.2k.com/1a6ngf98576c/7HBQeH6cuEmu6bxYShwuAK/515872ebe8564f3ca1c5a4fdf899a227/Leaders_400x240Ada-Lovelace.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/7HBQeH6cuEmu6bxYShwuAK/515872ebe8564f3ca1c5a4fdf899a227/Leaders_400x240Ada-Lovelace.jpg)
 
 >*To use and apply the language of science, we must fully appreciate, feel, seize the unseen.*

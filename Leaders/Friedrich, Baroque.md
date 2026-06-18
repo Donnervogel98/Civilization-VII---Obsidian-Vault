@@ -6,7 +6,7 @@ tags:
 *Alternate Persona of [[Friedrich, Oblique]]*
 *Available with the [[Deluxe Content Pack]] DLC*
 
-  ![Friedrich, Baroque](http://static.wikia.nocookie.net/civilization/images/6/60/Friedrich%2C_Baroque_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+![Portrait](http://static.wikia.nocookie.net/civilization/images/6/60/Friedrich%2C_Baroque_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Cultural]], [[Militaristic]]
 

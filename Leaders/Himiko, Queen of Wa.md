@@ -4,7 +4,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Himiko, Queen of Wa](https://static.wikia.nocookie.net/civilization/images/a/af/Himiko%2C_Queen_of_Wa_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/a/af/Himiko%2C_Queen_of_Wa_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Diplomatic]], [[Scientific]]
 
@@ -35,6 +36,6 @@ tags:
 	- +2 Science per Age for every Technology Mastery completed
 - Lvl 10 Title: **Queen of Wa**
 
-![Himiko, Queen of Wa](https://assets.2k.com/1a6ngf98576c/24ML7q6hUtWtHOUsQXBoHi/dd408645c7d1dfc3871004645cecdb3c/Leaders_400x240Himiko.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/24ML7q6hUtWtHOUsQXBoHi/dd408645c7d1dfc3871004645cecdb3c/Leaders_400x240Himiko.jpg)
 
 > *The sun shines upon me, her daughter. Upon my enemies, it will burn.*

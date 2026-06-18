@@ -3,7 +3,8 @@ tags:
   - Leader
   - Vanilla
 ---
-  ![Pachacuti](https://static.wikia.nocookie.net/civilization/images/5/5f/Pachacuti_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
+
+![Portrait](https://static.wikia.nocookie.net/civilization/images/5/5f/Pachacuti_%28Civ7%29.png/revision/latest/scale-to-width-down/350)
 
 [[Economic]], [[Expansionist]]
 
@@ -37,6 +38,6 @@ tags:
 	- +1 Gold from Specialists; +1 additional Gold from Specialists in tiles adjacent to Mountains
 - Lvl 10 Title: **Earth Shaker**
 
-![Pachacuti](https://assets.2k.com/1a6ngf98576c/164ahIlB0yGU8sMGZydOSu/c5aaa008294fd10bd64ac8df382bb8a9/Civilizations_Pachacuti_400x240.jpg)
+![Reveal](https://assets.2k.com/1a6ngf98576c/164ahIlB0yGU8sMGZydOSu/c5aaa008294fd10bd64ac8df382bb8a9/Civilizations_Pachacuti_400x240.jpg)
 
 >*My heart is the heart of the mountain. My name is Lord Cataclysm. Let us shake the world.*

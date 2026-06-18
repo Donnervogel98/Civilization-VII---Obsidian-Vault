@@ -4,7 +4,8 @@ tags:
   - Antiquity
   - Vanilla
 ---
-  ![Han](https://assets.2k.com/1a6ngf98576c/11DIs0fsS9UmCWAFF8JcoI/f93556f33fdd77bc7577d0e36b8faeba/Civilizations_HanChina_400x240__1_.png)
+
+![Icon](https://assets.2k.com/1a6ngf98576c/11DIs0fsS9UmCWAFF8JcoI/f93556f33fdd77bc7577d0e36b8faeba/Civilizations_HanChina_400x240__1_.png)
 
 [[Diplomatic]], [[Scientific]]
 
@@ -107,6 +108,8 @@ graph LR;
 ## Starting Bias
 - Grassland
 
-![Han China](https://assets.2k.com/1a6ngf98576c/zRlJ56h9leOt1YOMJNlAa/fc40fa41ffb78d30a4ae0d3e87aa1418/HAN_CHINA.jpg)
+![Background](https://static.wikia.nocookie.net/civilization/images/9/91/Han_Background_(Civ7).png/revision/latest)
 
 >*Harmony reveals itself through the shaping of energy, the cultivation of order. Now, the Han shall be its ministers.*
+
+![Settlement](https://assets.2k.com/1a6ngf98576c/zRlJ56h9leOt1YOMJNlAa/fc40fa41ffb78d30a4ae0d3e87aa1418/HAN_CHINA.jpg)
