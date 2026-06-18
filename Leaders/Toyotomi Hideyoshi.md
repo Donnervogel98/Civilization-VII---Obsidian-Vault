@@ -25,9 +25,9 @@ tags:
 - Decrease Relationship with civilizations that don't meet these minimums
 
 ## Recommended Civilizations
-- Antiquity: 
+- Antiquity: [[Heian Japan]]
 - Exploration: [[Sengoku Japan]]
-- Modern: 
+- Modern: [[Meiji Japan]]
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ******

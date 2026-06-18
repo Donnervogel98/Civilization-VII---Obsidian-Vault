@@ -71,7 +71,7 @@ graph LR;
 	- All buildings receive a Culture Adjacency with Breathtaking tiles
 - 
 ##### *Hierarchy*
-- Attribute Traditions: 
+- Attribute Traditions: [[Cultural|Classical Revival]]
 - 
 ##### *Syncretism*
 - Affirmation Tradition: **Shikken I**
@@ -83,7 +83,7 @@ graph LR;
 	- Increased Happiness on Culture Buildings when not in a Golden Age
 	- Increased Culture on Happiness Buildings when in a Golden Age
 ##### *Administration*
-- Attribute Traditions: 
+- Attribute Traditions: [[Cultural|Romanticism]]
 - 
 ##### *Syncretism*
 - Affirmation Tradition: **Shikken II**

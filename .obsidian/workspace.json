@@ -13,18 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civilizations - Antiquity/Heian Japan.md",
+                "file": "Civilizations - Exploration/Sengoku Japan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heian Japan"
+              "title": "Sengoku Japan"
             }
           }
         ]
       },
       {
-        "id": "061d0da6414d985b",
+        "id": "631447add137d298",
         "type": "tabs",
         "children": [
           {
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Civilizations - Antiquity/Heian Japan.md",
+                "file": "Civilizations - Exploration/Sengoku Japan.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#Civilization OR tag:#Leader",
@@ -120,12 +120,12 @@
                   "repelStrength": 9.79166666666667,
                   "linkStrength": 1,
                   "linkDistance": 138,
-                  "scale": 1.0000000000000275,
+                  "scale": 0.7132754626224617,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Heian Japan"
+              "title": "Graph of Sengoku Japan"
             }
           }
         ]
@@ -303,34 +303,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d64bc5c654b0679",
+  "active": "d8a6453b481c33f6",
   "lastOpenFiles": [
-    "Civilizations - Exploration/Goryeo.md",
     "Civilizations - Antiquity/Heian Japan.md",
-    "Civilizations - Exploration/Majapahit.md",
     "Civilizations - Exploration/Sengoku Japan.md",
-    "Civilizations - Antiquity/Khmer.md",
-    "Civilizations - Modern/Meiji Japan.md",
-    "Civilizations - Modern/Joseon.md",
-    "Civilizations - Modern/Great Britain.md",
-    "Civilizations - Exploration/Chola.md",
-    "Civilizations - Exploration/Hawai'i.md",
-    "Civilizations - Exploration/Inca.md",
-    "Civilizations - Exploration/Bulgaria.md",
-    "Civilizations - Exploration/Đại Việt.md",
-    "Civilizations - Antiquity/Rome.md",
-    "Civilizations - Antiquity/Mississippian.md",
+    "Civilizations - Modern/America.md",
     "Attributes/Cultural.md",
+    "Attributes/Militaristic.md",
+    "Attributes/Scientific.md",
+    "Attributes/Expansionist.md",
+    "Attributes/Economic.md",
     "Attributes/Diplomatic.md",
-    "Civilizations - Modern/Siam.md",
-    "Civilizations - Modern/Russia.md",
-    "Civilizations - Modern/Qing.md",
-    "Civilizations - Modern/Qajar.md",
-    "Civilizations - Modern/Prussia.md",
-    "Civilizations - Modern/Ottomans.md",
-    "Civilizations - Modern/Nepal.md",
-    "Civilizations - Modern/Mughal.md",
-    "Civilizations - Modern/Mexico.md",
+    "Civilizations - Exploration/Republic of Pirates.md",
+    "Civilizations - Exploration/Spain.md",
+    "DLC Packs/Collections/Brush and Blade Collection.md",
+    "Civilizations - Modern/Joseon.md",
+    "Civilizations - Antiquity/Silla Korea.md",
+    "Civilizations - Exploration/Goryeo.md",
+    "Leaders/Yi Sun-sin.md",
+    "Leaders/Toyotomi Hideyoshi.md",
+    "Civilizations - Modern/Meiji Japan.md",
+    "Civilizations - Antiquity/Egypt.md",
+    "Templates/Leader.md",
+    "Templates/Civilization – Antiquity.md",
+    "Templates/Civilization – Exploration.md",
+    "Templates/Civilization – Modern.md",
+    "Leaders/Tecumseh.md",
+    "Leaders/Trung Trac.md",
+    "Leaders/Xerxes, King of Kings.md",
     "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
     "Untitled.base",
     "Templates",

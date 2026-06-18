@@ -17,9 +17,9 @@ tags:
 ## Unlocked
 - 
 - Civilizations
-	- 
+	- [[Silla Korea]]
 - Leaders
-	- 
+	- [[Yi Sun-sin]]
 
 ## Unique Ability
 ##### **

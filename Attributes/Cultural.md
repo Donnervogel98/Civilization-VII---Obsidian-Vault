@@ -6,7 +6,7 @@ aliases:
   - Classical Revival
   - Romanticism
 ---
-#### Civics
+#### Traditions
 Cultural Time-Tested Civilizations gain access to the below Traditions through their unique Civic Trees
 - Antiquity: **Enlightened Rule**
 	- +15% towards constructing Wonders

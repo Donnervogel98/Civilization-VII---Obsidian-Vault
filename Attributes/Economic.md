@@ -6,7 +6,7 @@ aliases:
   - Supply and Demand
   - Gold Standard
 ---
-#### Civics
+#### Traditions
 Economic Time-Tested Civilizations gain access to the below Traditions through their unique Civic Trees
 - Antiquity: **Merchant Class**
 	- +1 Resource Capacity in Settlements with a Gold Building

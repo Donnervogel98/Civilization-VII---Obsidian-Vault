@@ -6,7 +6,7 @@ aliases:
   - Alchemy
   - Location Theory
 ---
-#### Civics
+#### Traditions
 Scientific Time-Tested Civilizations gain access to the below Traditions through their unique Civic Trees
 - Antiquity: **Experimentation**
 	- +5% Production towards Buildings for every Tech Mastery completed in an Age

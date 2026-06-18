@@ -27,9 +27,9 @@ tags:
 - 
 
 ## Recommended Civilizations
-- Antiquity: 
-- Exploration: 
-- Modern: 
+- Antiquity: [[Silla Korea]]
+- Exploration: [[Goryeo]]
+- Modern: [[Joseon]]
 
 ## Unique Legend Path Unlocks
 - Lvl 2 Memento: ******

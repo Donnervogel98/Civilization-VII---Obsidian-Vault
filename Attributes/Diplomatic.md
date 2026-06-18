@@ -9,7 +9,7 @@ aliases:
   - Jubilee
   - Vaudeville
 ---
-#### Civics
+#### Traditions
 Diplomatic Time-Tested Civilizations gain access to one of the below sets of Traditions through their unique Civic Trees
 - ***Influence***
 	- Antiquity: **Emissaries**
@@ -72,6 +72,7 @@ Diplomatic Leaders gain access to the below upon reaching the appropriate level 
 	- [[Chola]]
 	- [[Norman]]
 	- [[Shawnee]]
+	- [[Sengoku Japan]]
 - Modern
 	- [[America]]
 	- [[French Empire]]

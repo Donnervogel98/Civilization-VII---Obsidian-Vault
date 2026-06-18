@@ -17,9 +17,10 @@ tags:
 ## Unlocked
 - 
 - Civilizations
-	- 
+	- [[Silla Korea]]
+	- [[Goryeo]]
 - Leaders
-	- 
+	- [[Yi Sun-sin]]
 
 ## Unique Ability
 ##### **
