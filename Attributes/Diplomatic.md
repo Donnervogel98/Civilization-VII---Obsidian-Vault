@@ -65,6 +65,7 @@ Diplomatic Leaders gain access to the below upon reaching the appropriate level 
 - Antiquity
 	- [[Greece]]
 	- [[Han]]
+	- [[Heian Japan]]
 	- [[Silla Korea]]
 	- [[Tonga]]
 - Exploration

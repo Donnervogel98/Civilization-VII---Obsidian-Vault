@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leaders/Toyotomi Hideyoshi.md",
+                "file": "Civilizations - Antiquity/Heian Japan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Toyotomi Hideyoshi"
+              "title": "Heian Japan"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Leaders/Toyotomi Hideyoshi.md",
+                "file": "Civilizations - Antiquity/Heian Japan.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#Civilization OR tag:#Leader",
@@ -120,12 +120,12 @@
                   "repelStrength": 9.79166666666667,
                   "linkStrength": 1,
                   "linkDistance": 138,
-                  "scale": 1.4019828977761388,
+                  "scale": 1.0000000000000275,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Toyotomi Hideyoshi"
+              "title": "Graph of Heian Japan"
             }
           }
         ]
@@ -303,34 +303,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8a6453b481c33f6",
+  "active": "0d64bc5c654b0679",
   "lastOpenFiles": [
-    "DLC Packs/Collections/Brush and Blade Collection.md",
-    "Leaders/Toyotomi Hideyoshi.md",
-    "Civilizations - Exploration/Sengoku Japan.md",
-    "Civilizations - Antiquity/Heian Japan.md",
-    "Civilizations - Exploration/Hawai'i.md",
-    "Leaders/Xerxes, King of Kings.md",
-    "Leaders/Trung Trac.md",
-    "Civilizations - Modern/Mexico.md",
-    "Attributes/Cultural.md",
-    "Attributes/Militaristic.md",
-    "Lists/List of Civilizations.md",
-    "Lists/List of Leaders.md",
-    "Civilizations - Modern/Joseon.md",
     "Civilizations - Exploration/Goryeo.md",
-    "Civilizations - Antiquity/Silla Korea.md",
-    "Civilizations - Antiquity/Han.md",
-    "Leaders/Yi Sun-sin.md",
-    "Leaders/José Rizal.md",
-    "Leaders/Sayyida al Hurra.md",
-    "Leaders/Gilgamesh.md",
-    "Leaders/Edward Teach.md",
-    "Leaders/Catherine the Great.md",
-    "DLC Packs/Collections/Tides of Power Collection.md",
-    "DLC Packs/Collections/Right to Rule Collection.md",
-    "DLC Packs/Collections/Crossroads of the World Collection.md",
-    "Leaders/Leader 1 1.md",
+    "Civilizations - Antiquity/Heian Japan.md",
+    "Civilizations - Exploration/Majapahit.md",
+    "Civilizations - Exploration/Sengoku Japan.md",
+    "Civilizations - Antiquity/Khmer.md",
+    "Civilizations - Modern/Meiji Japan.md",
+    "Civilizations - Modern/Joseon.md",
+    "Civilizations - Modern/Great Britain.md",
+    "Civilizations - Exploration/Chola.md",
+    "Civilizations - Exploration/Hawai'i.md",
+    "Civilizations - Exploration/Inca.md",
+    "Civilizations - Exploration/Bulgaria.md",
+    "Civilizations - Exploration/Đại Việt.md",
+    "Civilizations - Antiquity/Rome.md",
+    "Civilizations - Antiquity/Mississippian.md",
+    "Attributes/Cultural.md",
+    "Attributes/Diplomatic.md",
+    "Civilizations - Modern/Siam.md",
+    "Civilizations - Modern/Russia.md",
+    "Civilizations - Modern/Qing.md",
+    "Civilizations - Modern/Qajar.md",
+    "Civilizations - Modern/Prussia.md",
+    "Civilizations - Modern/Ottomans.md",
+    "Civilizations - Modern/Nepal.md",
+    "Civilizations - Modern/Mughal.md",
+    "Civilizations - Modern/Mexico.md",
     "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
     "Untitled.base",
     "Templates",

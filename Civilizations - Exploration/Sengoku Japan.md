@@ -83,7 +83,8 @@ graph LR;
 	- 
 
 ## Associated Wonder
-##### **
+##### *Himeji Castle*
+- Unlocked for any Civilization by the ** Civic
 - 
 - 
 - 

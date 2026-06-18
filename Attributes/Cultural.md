@@ -51,6 +51,7 @@ Cultural Leaders gain access to the below upon reaching the appropriate level in
 	- [[Aksum]]
 	- [[Egypt]]
 	- [[Greece]]
+	- [[Heian Japan]]
 	- [[Maya]]
 	- [[Rome]]
 - Exploration
