@@ -101,6 +101,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Thành Huế*
+- Unlocked for any Civilization by the *Castles* Technology
 - +4 Culture
 - +1 Specialist Limit in Cities with 7 Fortification Constructibles
 - Acts as a Fortified District

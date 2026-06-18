@@ -98,6 +98,7 @@ graph LR
 
 ## Associated Wonder
 ##### *Statue of Liberty*
+- Unlocked for any Civilization by the *Capitalism II* Civic
 - +6 Happiness
 - Spawns 4 Migrants
 - Must be placed on Coast adjacent to land

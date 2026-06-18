@@ -106,6 +106,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Dogo Onsen*
+- Unlocked for any Civilization by the *Social Question* Civic
 - +4 Happiness
 - This Settlement gains a Population every time you enter a Celebration
 - Must be placed adjacent to Coast

@@ -95,6 +95,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Colosseum*
+- Unlocked for any Civilization by the *Entertainment* Civic
 - +3 Culture
 - +1 Happiness and Gold on Quarters in this Settlement
 - Must be placed adjacent to a District

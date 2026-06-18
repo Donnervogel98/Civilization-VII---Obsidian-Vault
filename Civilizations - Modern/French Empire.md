@@ -124,6 +124,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Eiffel Tower*
+- Unlocked for any Civilization by the *Radio* Technology
 - +5 Culture
 - +4 Culture and +2 Tourism on Quarters in this City
 - Must be built adjacent to a District

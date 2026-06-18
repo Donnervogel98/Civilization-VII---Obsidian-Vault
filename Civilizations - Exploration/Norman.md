@@ -120,6 +120,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *White Tower*
+- Unlocked for any Civilization by the *Sovereignty II* Civic
 - +4 Happiness
 - +4 Happiness in this Settlement for every Tradition slotted in the Government
 - Must be placed adjacent to a City Hall

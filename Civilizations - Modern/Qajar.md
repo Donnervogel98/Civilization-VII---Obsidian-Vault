@@ -92,6 +92,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Eram Garden*
+- Unlocked for any Civilization by the *Hegemony* Civic
 - +4 Food
 - +1 Specialist Limit in this Settlement
 - Must be built in Desert Terrain

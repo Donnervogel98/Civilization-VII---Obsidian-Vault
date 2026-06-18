@@ -91,6 +91,7 @@ A --> C[Da Ming Lu];
 
 ## Associated Wonder
 ##### *Forbidden City*
+- Unlocked for any Civilization by the *Imperialism II* Civic
 - +4 Culture
 - +1 Culture and Gold on all Fortification Buildings, Improvements, and Wonders
 - +1 Tourism on Fortifications in this Settlement

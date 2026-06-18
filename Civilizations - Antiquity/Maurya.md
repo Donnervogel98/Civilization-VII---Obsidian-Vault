@@ -85,6 +85,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Sanchi Stupa*
+- Unlocked for any Civilization by the *Skilled Trades* Civic
 - +3 Happiness
 - +1 Culture for every 5 excess Happiness in this Settlement
 - Must be placed on Plains

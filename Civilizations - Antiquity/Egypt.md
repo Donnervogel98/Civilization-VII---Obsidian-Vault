@@ -96,6 +96,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Pyramids*
+- Unlocked for any Civilization by the *Masonry* Technology
 - +1 Gold and Production on Improvements and Districts on Minor River and Navigable River tiles in this Settlement
 - Must be placed adjacent to a Navigable River not in Tundra
 

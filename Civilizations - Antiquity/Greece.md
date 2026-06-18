@@ -100,6 +100,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Oracle*
+- Unlocked for any Civilization by the *Public Life* Civic
 - +2 Culture
 - When gaining rewards from a Narrative Event, gain an additional 20 Culture per Age
 - +1 Wildcard Attribute Point

@@ -86,6 +86,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Gate of All Nations*
+- Unlocked for any Civilization by the *Discipline II* Civic
 - +2 Happiness
 - +1 War Support on all wars
 - Must be placed adjacent to a District

@@ -110,6 +110,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Brihadeeswarar Temple*
+- Unlocked for any Civilization by the *Diplomatic Service* Civic
 - +3 Influence
 - All Buildings in this Settlement gain a +1 Happiness Adjacency for Navigable Rivers
 - Must be placed adjacent to a Navigable River or on a Minor River

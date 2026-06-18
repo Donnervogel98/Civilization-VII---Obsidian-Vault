@@ -100,6 +100,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Hermitage*
+- Unlocked for any Civilization by the *Modernization* Civic
 - +4 Culture
 - +5 Culture in Settlements that have a Great Work on display
 - Has 3 Great Work slots

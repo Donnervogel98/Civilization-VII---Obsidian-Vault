@@ -96,6 +96,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Brandenburg Gate*
+- Unlocked for any Civilization by the *Militarism II* Civic
 - +6 Production
 - +1 War Support on all wars
 - +1 Settlement Limit

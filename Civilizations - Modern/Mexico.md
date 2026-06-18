@@ -114,6 +114,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Palacio de Bellas Artes*
+- Unlocked for any Civilization by the *Globalism II* Civic
 - +5 Culture
 - Gain 1 Artifact
 - Has 3 Great Work slots

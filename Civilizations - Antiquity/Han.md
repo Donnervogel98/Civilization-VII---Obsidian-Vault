@@ -99,6 +99,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Weiyang Palace*
+- Unlocked for any Civilization by the *Citizenship II* Civic
 - +3 Influence
 - +1 Tradition slot
 - Must be placed on Grassland

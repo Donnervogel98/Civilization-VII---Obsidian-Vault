@@ -117,6 +117,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Sultanahmet Camii*
+- Unlocked for any Civilization by the *Modernization II* Civic
 - +4 Happiness
 - +2 Culture and Gold on Wonders in this Settlement; this is doubled for Exploration Wonders and tripled for Antiquity Wonders
 - Must be built adjacent to another Wonder

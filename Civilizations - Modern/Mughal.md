@@ -100,6 +100,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Red Fort*
+- Unlocked for any Civilization by the *Military Science* Technology
 - +4 Gold
 - +4 Production
 - Acts as a Fortified District that must be conquered

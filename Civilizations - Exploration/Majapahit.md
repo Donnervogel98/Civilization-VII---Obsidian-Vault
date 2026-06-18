@@ -102,6 +102,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Borobudur*
+- Unlocked for any Civilization by the *Bureaucracy* Civic
 - +3 Happiness
 - +3 Food and +1 Happiness on Quarters in this Settlement
 - Must be placed adjacent to Coast

@@ -106,6 +106,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Battersea Power Station*
+- Unlocked for any Civilization by the *Electricity II* Technology
 - +4 Production
 - Receive a second Naval Unit each time you train a Naval Unit 
 - Must be placed on land adjacent to Coast

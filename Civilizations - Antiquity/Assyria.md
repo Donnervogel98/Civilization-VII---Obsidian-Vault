@@ -107,6 +107,7 @@ graph LR;
 
 ## Associated Wonder
 ##### *Dur-Sharrukin*
+- Unlocked for any Civilization by the *Discipline* Civic
 - +1 Science on Fortifications in this Settlement
 - +5 Combat Strength for Fortified Districts in all Settlements
 - Acts as a Fortified District that must be conquered
