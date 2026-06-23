@@ -8,7 +8,7 @@ aliases:
   - Yanakuna
   - Industrial Agriculture
 ---
-#### Civics
+#### Traditions
 Expansionist Time-Tested Civilizations gain access to one of the below sets of Traditions through their unique Civic Trees
 - ***Tall***
 	- Antiquity: **Fractal Cities**

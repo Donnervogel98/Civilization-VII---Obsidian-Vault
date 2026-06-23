@@ -15,13 +15,16 @@ tags:
 ## Unlocked
 - Improve three Tea
 - Civilizations
+	- [[Heian Japan]]
 	- [[Khmer]]
 	- [[Hawai'i]]
 	- [[Majapahit]]
+	- [[Sengoku Japan]]
 - Leaders
 	- [[Himiko, High Shaman]]
 	- [[Himiko, Queen of Wa]]
 	- [[José Rizal]]
+	- [[Toyotomi Hideyoshi]]
 	- [[Trung Trac]]
 
 ## Unique Ability

@@ -13,6 +13,7 @@ tags:
 - [[Egypt]]
 - [[Greece]]
 - [[Han]]
+- [[Heian Japan]] ‡
 - [[Khmer]]
 - [[Maurya]]
 - [[Maya]]
@@ -25,6 +26,7 @@ tags:
 - [[Bulgaria]] †
 - [[Chola]]
 - [[Đại Việt]] †
+- [[Goryeo]] ‡
 - [[Hawai'i]]
 - [[Iceland]] †
 - [[Inca]]
@@ -34,6 +36,7 @@ tags:
 - [[Norman]]
 - [[Republic of Pirates]] †
 - [[Shawnee]] †
+- [[Sengoku Japan]] ‡
 - [[Songhai]]
 - [[Spain]]
 ##### Modern
@@ -41,6 +44,7 @@ tags:
 - [[Buganda]]
 - [[French Empire]]
 - [[Great Britain]] †
+- [[Joseon]] ‡
 - [[Meiji Japan]]
 - [[Mexico]]
 - [[Mughal]]

@@ -6,7 +6,7 @@ aliases:
   - Classical Revival
   - Romanticism
 ---
-#### Civics
+#### Traditions
 Cultural Time-Tested Civilizations gain access to the below Traditions through their unique Civic Trees
 - Antiquity: **Enlightened Rule**
 	- +15% towards constructing Wonders
@@ -43,6 +43,7 @@ Cultural Leaders gain access to the below upon reaching the appropriate level in
 - [[José Rizal]]
 - [[Lafayette]]
 - [[Napoleon, Revolutionary]]
+- [[Toyotomi Hideyoshi]]
 - [[Xerxes, the Achaemenid]]
 
 #### Cultural Civilizations
@@ -50,6 +51,7 @@ Cultural Leaders gain access to the below upon reaching the appropriate level in
 	- [[Aksum]]
 	- [[Egypt]]
 	- [[Greece]]
+	- [[Heian Japan]]
 	- [[Maya]]
 	- [[Rome]]
 - Exploration

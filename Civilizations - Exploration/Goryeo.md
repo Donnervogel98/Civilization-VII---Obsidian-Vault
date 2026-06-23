@@ -1,0 +1,95 @@
+---
+tags:
+  - Civilization
+  - DLC
+  - Exploration
+  - Unreleased
+---
+*Available with the Goryeo Pack DLC*
+*Included in the [[Brush and Blade Collection]]*
+  
+![Icon]()
+
+[[]], [[]]
+
+>**
+
+## Unlocked
+- 
+- Civilizations
+	- [[Silla Korea]]
+- Leaders
+	- [[Yi Sun-sin]]
+
+## Unique Ability
+##### **
+- 
+
+## Unique Infrastructure
+##### Infrastructure: **
+- 
+
+## Unique Units
+##### Unit: **
+- 
+##### Unit: **
+- 
+
+## Civics – Antiquity
+##### *Origins*
+- Tradition: ****
+	- 
+- 
+##### *Foundation*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Civics – Exploration
+##### **
+- 
+- 
+- 
+##### **
+- 
+- 
+- 
+##### **
+- 
+- 
+- 
+```mermaid
+graph LR;
+	A;
+	B;
+	C;
+```
+
+## Civics – Modern
+##### *Modernization*
+- Tradition: ****
+	- 
+- 
+##### *Administration*
+- Attribute Traditions: 
+- 
+##### *Syncretism*
+- Affirmation Tradition: ****
+	- 
+
+## Associated Wonder
+##### **
+- Unlocked for any Civilization by the ** Civic
+- 
+- 
+- 
+
+## Starting Biases
+- 
+- 
+
+![Background]()
+
+![Settlement]()

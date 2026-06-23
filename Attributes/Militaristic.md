@@ -6,7 +6,7 @@ aliases:
   - Professional Army
   - Force Structuring
 ---
-#### Civics
+#### Traditions
 Militaristic Time-Tested Civilizations gain access to the below Traditions through their unique Civic Trees
 - Antiquity: **Warrior Class**
 	- +25% Production towards training all Commanders
@@ -49,6 +49,7 @@ Militaristic Leaders gain access to the below upon reaching the appropriate leve
 - [[Sayyida al Hurra]]
 - [[Simón Bolívar]]
 - [[Tecumseh]]
+- [[Toyotomi Hideyoshi]]
 - [[Trung Trac]]
 - [[Xerxes, King of Kings]]
 
@@ -65,6 +66,7 @@ Militaristic Leaders gain access to the below upon reaching the appropriate leve
 	- [[Mongolia]]
 	- [[Norman]]
 	- [[Republic of Pirates]]
+	- [[Sengoku Japan]]
 	- [[Songhai]]
 	- [[Spain]]
 - Modern
