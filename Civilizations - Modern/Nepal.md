@@ -18,6 +18,7 @@ tags:
 - Have 3 Settlements with at least 5 Mountains
 - Civilizations
 	- [[Maurya]]
+	- [[Heian Japan]]
 	- [[Chola]]
 - Leaders
 	- [[Ashoka, World Conqueror]]

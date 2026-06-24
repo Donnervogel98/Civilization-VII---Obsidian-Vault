@@ -15,6 +15,7 @@ tags:
 ## Unlocked
 - Have two Settlements on an Island (a landmass with a maximum of 30 tiles)
 - Civilizations
+	- [[Heian Japan]]
 	- [[Maya]]
 	- [[Mississippian]]
 	- [[Tonga]]

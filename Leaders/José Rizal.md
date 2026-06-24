@@ -26,7 +26,7 @@ tags:
 - Tropical
 
 ## Recommended Civilizations
-- Antiquity: [[Maya]], [[Mississippian]], [[Tonga]]
+- Antiquity: [[Heian Japan]], [[Maya]], [[Mississippian]], [[Tonga]]
 - Exploration: [[Hawai'i]], [[Iceland]], [[Majapahit]]
 - Modern: [[Meiji Japan]], [[Siam]]
 

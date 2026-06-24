@@ -27,7 +27,7 @@ tags:
 - Coast
 
 ## Recommended Civilizations
-- Antiquity: [[Carthage]], [[Egypt]], [[Greece]]
+- Antiquity: [[Carthage]], [[Egypt]], [[Greece]], [[Heian Japan]]
 - Exploration: [[Abbasid]], [[Iceland]], [[Spain]]
 - Modern: [[French Empire]], [[Mexico]]
 

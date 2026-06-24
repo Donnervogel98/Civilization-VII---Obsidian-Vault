@@ -3,7 +3,6 @@ tags:
   - Antiquity
   - Civilization
   - DLC
-  - Unreleased
 ---
 *Available with the Heian Pack DLC*
 *Included in the [[Brush and Blade Collection]]*
@@ -12,24 +11,23 @@ tags:
 
 [[Cultural]], [[Diplomatic]]
 
->**
+>*The court of Heian Japan is best seen by the light of the clouded moon. Its poets write of love and the seasons, sorry and the beauty of court life. Take up the poet's brush, and write in praise of shadow.*
 
 ## Unique Ability
 ##### *Pure Land*
-- Increased Culture on Improvements on Breathtaking tiles
-- [Mod] Cities receive a set amount of Tourism per Breathtaking tile once they contain a minimum number of them
+- +2/+3/+3 Culture on Improvements on Breathtaking tiles
+- [Mod] Cities receive 2 Tourism for each Improvement and District on Breathtaking tiles when at least 7 tiles are Breathtaking
 
 ## Unique Infrastructure
 ##### Improvement: *Jinja*
-- Increased Happiness
-- Culture Adjacency for Charming and Breathtaking tiles
-- Can be placed on land, or on Water if adjacent to flat terrain
-- Can only have a set amount per settlement
+- +2 Happiness
+- +2 Culture Adjacency for Charming and Breathtaking tiles
+- One Jinja (Land) and one Jinja (Sea) per Settlement
 
 ## Unique Units
 ##### Ranged Unit: *Yumi*
-- Increased Movement
-- Increased Combat Strength if this Unit has not moved this turn
+- +2 Movement
+- +5 Combat Strength if this Unit has not moved this turn
 ##### Great Person: *Shijin*
 - Can only be trained in settlements with a Jinja
 - **Izumi Shikibu**: Activate on an Altar to add increased Culture to the Building.
@@ -44,57 +42,64 @@ tags:
 - **Sei Shonagon**: Activate on a Constructible with a Great Work Slot to receive *The Pillow Book*, which grants increased Happiness.
 
 ## Civics – Antiquity
-##### **
+##### *Ritsuryo*
+- Improvement: **Jinja**
+- +1 Tradition slot
 - Tradition: **Insei I**
-	- Increased Happiness on Culture Buildings when not in a Celebration
-	- Increased Culture on Happiness Buildings when in a Celebration
-##### **
+	- +2 Happiness on Culture Buildings when not in a Celebration
+	- +2 Culture on Happiness Buildings when in a Celebration
+##### *Urban Grid*
+- Wonder: **Hoo-do Hall**
 - Tradition: **Jo-bo System I**
-	- All buildings receive a Culture Adjacency with Breathtaking tiles
-##### **
-- Tradition: **Mongatari**
-	- Great Work Constructibles receive increased Happiness on Charming tiles and a Food Adjacency on Breathtaking tiles
-##### **
+	- All buildings receive a +0.5 Culture Adjacency for Breathtaking tiles
+##### *Waka*
+- Gain 1 Codex
 - Tradition: **Utsurou**
-	- Settlements with a stationed Army Commander receive increased Culture on Great Works, but Commanders receive reduced XP
+	- Settlements with an Army Commander Stationed receive +2 Culture for each Great Work on display, but Commanders receive -25% XP
+##### *Mono No Aware*
+- +1 Tradition slot
+- Tradition: **Mongatari**
+	- Great Work Buildings and Wonders receive a +1 Happiness Adjacency with Charming tiles and a +2 Food Adjacency with Breathtaking tiles
 ```mermaid
 graph LR;
-	A;
-	B;
-	C;
+	A[Ritsuryo] --> B[Urban Grid];
+	A --> C[Waka];
+	B --> D[Mono No Aware];
+	C --> D;
 ```
 
 
 ## Civics – Exploration
 ##### *Renaissance*
 - Tradition: **Jo-bo System II**
-	- All buildings receive a Culture Adjacency with Breathtaking tiles
-- 
+	- All buildings receive a +1 Culture Adjacency for Breathtaking tiles
+- +1 Tradition slot
 ##### *Hierarchy*
-- Attribute Traditions: [[Cultural|Classical Revival]]
-- 
+- Attribute Traditions: [[Cultural|Classical Revival]] and [[Diplomatic|Jubilee]]
+- Wonder: **Notre Dame**
 ##### *Syncretism*
 - Affirmation Tradition: **Shikken I**
-	- Increased Culture on Improvements and Districts on Breathtaking Tiles
+	- +1 Culture on Improvements and Districts on Breathtaking Tiles
 
 ## Civics – Modern
 ##### *Modernization*
 - Tradition: **Insei II**
-	- Increased Happiness on Culture Buildings when not in a Golden Age
-	- Increased Culture on Happiness Buildings when in a Golden Age
+	- +4 Happiness on Culture Buildings when not in a Celebration
+	- +4 Culture on Happiness Buildings when in a Celebration
+- +1 Tradition slot
 ##### *Administration*
-- Attribute Traditions: [[Cultural|Romanticism]]
-- 
+- Attribute Traditions: [[Cultural|Romanticism]] and [[Diplomatic|Vaudeville]]
+- Wonder: **Taj Mahal**
 ##### *Syncretism*
 - Affirmation Tradition: **Shikken II**
-	- Increased Culture on Improvements and Districts on Breathtaking Tiles
+	- +2 Culture on Improvements and Districts on Breathtaking Tiles
 
 ## Associated Wonder
 ##### *Hoo-do Hall*
-- Unlocked for any Civilization by the ** Technology
-- Wonders provide increased Appeal to adjacent tiles
-- Breathtaking tiles in this Settlement receive increased Production, increased Culture, and increased Happiness
-- Must be placed on Flat terrain adjacent to a River
+- Unlocked for any Civilization by the *Code of Laws II* Civic
+- Wonders provide +1 Appeal to adjacent tiles
+- Breathtaking tiles receive +1 Production, +1 Culture, and +1 Happiness in this Settlement
+- Must be placed on Flat Terrain adjacent to a River
 
 ## Starting Biases
 - Mountains

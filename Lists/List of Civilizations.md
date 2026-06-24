@@ -13,7 +13,7 @@ tags:
 - [[Egypt]]
 - [[Greece]]
 - [[Han]]
-- [[Heian Japan]] ‡
+- [[Heian Japan]] †
 - [[Khmer]]
 - [[Maurya]]
 - [[Maya]]
@@ -36,7 +36,7 @@ tags:
 - [[Norman]]
 - [[Republic of Pirates]] †
 - [[Shawnee]] †
-- [[Sengoku Japan]] ‡
+- [[Sengoku Japan]] †
 - [[Songhai]]
 - [[Spain]]
 ##### Modern

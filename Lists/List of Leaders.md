@@ -36,7 +36,7 @@ tags:
 - [[Sayyida al Hurra]] †
 - [[Simón Bolívar]] †
 - [[Tecumseh]] †
-- [[Toyotomi Hideyoshi]] ‡
+- [[Toyotomi Hideyoshi]] †
 - [[Trung Trac]]
 - [[Xerxes, King of Kings]]
 - [[Xerxes, the Achaemenid]] †

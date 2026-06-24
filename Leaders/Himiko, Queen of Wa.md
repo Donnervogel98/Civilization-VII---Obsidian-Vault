@@ -23,7 +23,7 @@ tags:
 - ( + ) to a Leader for each of their Settlements with constructed Science and Gold Buildings
 
 ## Recommended Civilizations
-- Antiquity: [[Khmer]], [[Mississippian]], [[Tonga]]
+- Antiquity: [[Heian Japan]], [[Khmer]], [[Mississippian]], [[Tonga]]
 - Exploration: [[Hawai'i]], [[Majapahit]]
 - Modern: [[Meiji Japan]], [[Siam]]
 

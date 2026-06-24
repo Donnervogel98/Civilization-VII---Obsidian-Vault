@@ -24,7 +24,7 @@ tags:
 - ( + ) to a Leader for each of their Settlements with constructed Culture and Happiness Buildings
 
 ## Recommended Civilizations
-- Antiquity: [[Khmer]], [[Mississippian]], [[Tonga]]
+- Antiquity: [[Heian Japan]], [[Khmer]], [[Mississippian]], [[Tonga]]
 - Exploration: [[Hawai'i]], [[Majapahit]]
 - Modern: [[Meiji Japan]], [[Siam]]
 

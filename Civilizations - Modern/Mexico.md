@@ -28,7 +28,7 @@ tags:
 
 ## Unique Ability
 ##### *Revolución*
-- Starts with a unique Government, **Revolución**; this Government has one Celebration effect:+30% Culture for 10 Turns; cannot enter any other Government type
+- Starts with a unique Government, **Revolución**; this Government's passive effect is +2/+4/+6 Happiness in Cities for every Tradition slotted in the Government; it starts with one Celebration effect:+2 Culture in Happy Settlements, or +6 in Joyous Settlements, or +10 in Ecstatic Settlements for 6 turns; cannot enter any other Government type
 - +100% Tourism from Celebrations
 
 ## Unique Infrastructure
@@ -61,8 +61,10 @@ tags:
 ##### *Origins*
 - Tradition: **Order and Progress I**
 	- +2 Science in Cities for every Tradition slotted into the Government
-- Unlock an additional Celebration effect: +50% Growth Rate in the Capital for 10 Turns
+- Unlock an additional Celebration effect: +3 Food in every Joyous or happier Settlement for 6 Turns
 - +1 Tradition slot
+- Tradition: **Muralismo I**
+	- +2 Happiness in all Settlements
 ##### *Foundation*
 - Attribute Traditions: [[Cultural|Enlightened Rule]] and [[Diplomatic|Priestly Class]]
 - Wonder: **Pyramid of the Sun**
@@ -75,8 +77,10 @@ tags:
 ##### *Renaissance*
 - Tradition: **La Reforma I**
 	- +1 Culture in Towns with a Growing Focus for every Tradition slotted into the Government
-- Unlock an additional Celebration effect: +100% Production towards training and Gold towards purchasing Missionaries, and +2 Charges and Movement for Missionaries for 10 Turns
+- Unlock an additional Celebration effect: +100% Production towards training and Gold towards purchasing Missionaries and +2 Charges and Movement for Missionaries for 6 Turns
 - +1 Tradition slot
+- Tradition: **Muralismo II**
+	- +4 Happiness in all Settlements
 ##### *Hierarchy*
 - Attribute Traditions: [[Cultural|Classical Revival]] and [[Diplomatic|Jubilee]]
 - Wonder: **Notre Dame**
@@ -92,20 +96,24 @@ tags:
 - Tradition: **Corridos**
 	- +4 Happiness in Cities for every Tradition slotted into the Government
 - Mastery
-	- +1 Tradition slot
 	- Wonder: **Palacio de Bellas Artes**
+	- Tradition: **Muralismo III**
+		- +6 Happiness in all Settlements
 ##### *Plan of Tuxtepec*
-- Unlock an additional Celebration effect: +30% Science for 10 Turns
+- Unlock an additional Celebration effect: +3 Science in every Joyous or happier Settlement for 6 Turns
 - Tradition: **Order and Progress II**
 	- +4 Science in Cities for every Tradition slotted into the Government
+- +1 Tradition slot
 ##### *Plan of Iguala*
-- Unlock an additional Celebration effect: +40% Production towards training Military Units for 10 Turns
+- Unlock an additional Celebration effect: Gain one free Infantry Unit in each City immediately
 - Tradition: **Cry of Dolores**
 	- +1 Combat Strength for Land Units and Naval Units in Friendly territory for every Tradition slotted into the Government
+- +1 Tradition slot
 ##### *Plan of Ayutla*
-- Unlock an additional Celebration effect: +50% Influence towards initiating all Diplomatic Actions for 10 Turns
+- Unlock an additional Celebration effect: +2 Influence in every Joyous or happier Settlement for 6 Turns
 - Tradition: **La Reforma II**
 	- +1 Culture in Towns for every Tradition slotted into the Government
+- +1 Tradition slot
 ```mermaid
 graph LR;
 	A[Planes Políticos] --> B[Plan of Tuxtepec];

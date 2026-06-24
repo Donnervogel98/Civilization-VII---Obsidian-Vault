@@ -24,6 +24,7 @@ tags:
 	- [[Catherine the Great]]
 	- [[Confucius]]
 	- [[Genghis Khan]]
+	- [[Toyotomi Hideyoshi]]
 	- [[Xerxes, the Achaemenid]]
 	- [[Xerxes, King of Kings]]
 

@@ -33,6 +33,7 @@ tags:
 	- [[Napoleon, Emperor]]
 	- [[Napoleon, Revolutionary]]
 	- [[Simón Bolívar]]
+	- [[Toyotomi Hideyoshi]]
 
 ## Unique Ability
 ##### *Liberté, Egalité, Fraternité*
