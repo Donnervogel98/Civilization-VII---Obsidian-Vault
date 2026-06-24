@@ -97,6 +97,18 @@ graph LR;
 - +1 Science on Improvements and +1 Happiness on Districts on Tropical Terrain in this Settlement
 - Must be placed on Tropical
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Hawai'i]]
+	- [[Inca]]
+- Modern
+	- [[Mexico]]
+- Leaders
+	- [[José Rizal]]
+	- [[Pachacuti]]
+	- [[Simón Bolívar]]
+
 ## Starting Biases
 - Vegetated
 - Tropical

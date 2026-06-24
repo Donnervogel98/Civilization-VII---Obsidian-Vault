@@ -113,6 +113,19 @@ graph LR;
 - Acts as a Fortified District that must be conquered
 - Must be placed adjacent to a District
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Abbasid]]
+- Modern
+	- [[Qajar]]
+- Leaders
+	- [[Genghis Khan]]
+	- [[Gilgamesh]]
+	- [[Lakshmibai]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
+
 ## Starting Biases
 - Flat
 - Rivers

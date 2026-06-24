@@ -14,16 +14,6 @@ tags:
 
 >*Ahoy, bucko! Ye've gone on account with those who ken no lord but the sea and the salt. Weigh anchor, then, an see if it be gold or Jack Ketch at the end of yer gangway. The writ's been signed, an the devil's afoot.*
 
-## Unlocked
-- Plunder two Trade Routes
-- Civilizations
-	- [[Aksum]]
-	- [[Carthage]]
-- Leaders
-	- [[Amina]]
-	- [[Edward Teach]]
-	- [[Sayyida al Hurra]]
-
 ## Unique Ability
 ##### *Flying Gang*
 - Naval Units, Treasure Convoys, and Fleet Commanders can move into other Civilizations' borders without being at War or having Open Borders
@@ -123,6 +113,22 @@ graph LR;
 - This Settlement generates Treasure Convoys worth 3 Cargo in the Exploration Age
 - +1 Economic Attribute Point
 - Must be built in Distant Lands Coast adjacent to Land that is not a Lake
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Aksum]]
+	- [[Carthage]]
+- Modern
+	- [[French Empire]]
+	- [[Great Britain]]
+- Leaders
+	- [[Amina]]
+	- [[Edward Teach]]
+	- [[Sayyida al Hurra]]
+
+## Secondary Unlock
+- Plunder two Trade Routes
 
 ## Starting Biases
 - Coast

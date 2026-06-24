@@ -12,18 +12,6 @@ tags:
 
 >*At the word of the kabaka, the lake-fleets sail, and the sound of the king's drums echo across the waters. The rowers dip their oars into the water with each beat, pushed relentlessly forward, and the lake's surface sends back a double of each musket and spear that the warriors carry. Row with the,, to unknown shores and untold glories.*
 
-## Unlocked
-- Have two Settlements with their City Center adjacent to a Lake
-- Civilizations
-	- [[Aksum]]
-	- [[Abbasid]]
-	- [[Songhai]]
-- Leaders
-	- [[Amina]]
-	- [[Harriet Tubman]]
-	- [[Hatshepsut]]
-	- [[Ibn Battuta]]
-
 ## Unique Ability
 ##### *River Raids*
 - Land Units gain Culture when Pillaging Buildings or Improvements equal to the Yield or Healing gained
@@ -101,6 +89,22 @@ graph LR;
 - +4 Culture and Food on Improvements and Districts on Lake tiles
 - +1 Population in Settlements adjacent to Lakes
 - Must be placed adjacent to a Lake
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Aksum]]
+- Exploration
+	- [[Abbasid]]
+	- [[Songhai]]
+- Leaders
+	- [[Amina]]
+	- [[Harriet Tubman]]
+	- [[Hatshepsut]]
+	- [[Ibn Battuta]]
+
+## Secondary Unlock
+- Have two Settlements with their City Center adjacent to a Lake
 
 ## Starting Biases
 - Lakes

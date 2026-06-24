@@ -12,21 +12,6 @@ tags:
 
 >*As isolated Japan turns outward, the Meiji Dynasty heralds a new beginning. Embracing a world it once shut out, the Meiji streets blend kimonos with top hats, under the glare of electric lights. A new dawn breaks; the world will see what Japan has to offer.*
 
-## Unlocked
-- Improve three Tea
-- Civilizations
-	- [[Heian Japan]]
-	- [[Khmer]]
-	- [[Hawai'i]]
-	- [[Majapahit]]
-	- [[Sengoku Japan]]
-- Leaders
-	- [[Himiko, High Shaman]]
-	- [[Himiko, Queen of Wa]]
-	- [[José Rizal]]
-	- [[Toyotomi Hideyoshi]]
-	- [[Trung Trac]]
-
 ## Unique Ability
 ##### *Goisshin*
 - [Ant] When you construct a Building, gain Science equal to 25% of the Building's Production cost
@@ -114,6 +99,25 @@ graph LR;
 - +4 Happiness
 - This Settlement gains a Population every time you enter a Celebration
 - Must be placed adjacent to Coast
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Heian Japan]]
+	- [[Khmer]]
+- Exploration
+	- [[Hawai'i]]
+	- [[Majapahit]]
+	- [[Sengoku Japan]]
+- Leaders
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[José Rizal]]
+	- [[Toyotomi Hideyoshi]]
+	- [[Trung Trac]]
+
+## Secondary Unlock
+- Improve three Tea
 
 ## Starting Biases
 - Coast

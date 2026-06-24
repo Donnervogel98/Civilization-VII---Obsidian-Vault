@@ -11,14 +11,6 @@ tags:
 
 >*Meaning “the bright,” “beautiful,” or “shining,” the Ming Dynasty radiates at the heart of the world. A vast society, with scholars and bureaucrats, farmers and kings, the Ming concentrates its focus inward, bringing all that is worth having to the center, intensifying its beauty and radiating it outward like the sun. Take up the mantle of the Ming, and shine.*
 
-## Unlocked
-- Improve three Silk
-- Have eight Resources slotted in one Settlement
-- Civilizations
-	- [[Han]]
-- Leaders
-	- [[Confucius]]
-
 ## Unique Ability
 ##### *Great Canon of Yongle*
 - +50% Science in the Capital
@@ -97,6 +89,19 @@ A --> C[Da Ming Lu];
 - +1 Culture and Gold on all Fortification Buildings, Improvements, and Wonders
 - +1 Tourism on Fortifications in this Settlement
 - Must be placed adjacent to a District
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Han]]
+- Modern
+	- [[Qing]]
+- Leaders
+	- [[Confucius]]
+
+## Secondary Unlock
+- Improve three Silk
+- Have eight Resources slotted in one Settlement
 
 ## Starting Biases
 - Coast

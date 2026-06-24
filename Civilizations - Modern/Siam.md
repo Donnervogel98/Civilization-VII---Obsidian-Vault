@@ -12,21 +12,6 @@ tags:
 
 >*Canal-waters teem with the call of market vendors, and the air is sharp with roasting spices – this is Siam. Bending, but never breaking, the Siamese take in what they can. And when they cannot, they fit war elephants with machine guns. Chaiyo, Siam – survive, adapt and prosper.*
 
-## Unlocked
-- Have four Temples
-- Improve three Ivory
-- Civilizations
-	- [[Khmer]]
-	- [[Chola]]
-	- [[Đại Việt]]
-- Leaders
-	- [[Ashoka, World Conqueror]]
-	- [[Ashoka, World Renouncer]]
-	- [[Himiko, High Shaman]]
-	- [[Himiko, Queen of Wa]]
-	- [[José Rizal]]
-	- [[Trung Trac]]
-
 ## Unique Ability
 ##### *Itsaraphab*
 - Gains a unique Diplomatic Action to immediately become Suzerain of a City-State at a higher Influence Cost than Befriend Independent
@@ -109,6 +94,25 @@ graph LR;
 - +4 Influence
 - +5 Culture and Gold for every City-State you are Suzerain of
 - Must be placed on Rough Terrain
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Khmer]]
+- Exploration
+	- [[Chola]]
+	- [[Đại Việt]]
+- Leaders
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[José Rizal]]
+	- [[Trung Trac]]
+
+## Secondary Unlock
+- Have four Temples
+- Improve three Ivory
 
 ## Starting Bias
 - Ivory

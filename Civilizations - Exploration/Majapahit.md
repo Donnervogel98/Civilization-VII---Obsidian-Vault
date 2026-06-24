@@ -11,18 +11,6 @@ tags:
 
 >*The Majapahit sail between a thousand islands, bringing with them their tales of heroes and gods. As the sun sets, weary sailors gather to hear the gamelan, and see their tales performed in shadow on the silken screen. Beauty is divine, claim the Majapahit poets, and divinity is power.*
 
-## Unlocked
-- Improve three Pearls
-- Have three Naval Trade Routes
-- Civilizations
-	- [[Khmer]]
-	- [[Maurya]]
-- Leaders
-	- [[Himiko, High Shaman]]
-	- [[Himiko, Queen of Wa]]
-	- [[José Rizal]]
-	- [[Trung Trac]]
-
 ## Unique Ability
 ##### *Negara*
 - Culture Buildings gain an adjacency for Coast
@@ -107,6 +95,23 @@ graph LR;
 - +3 Happiness
 - +3 Food and +1 Happiness on Quarters in this Settlement
 - Must be placed adjacent to Coast
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Khmer]]
+	- [[Maurya]]
+- Modern
+	- [[Meiji Japan]]
+- Leaders
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[José Rizal]]
+	- [[Trung Trac]]
+
+## Secondary Unlock
+- Improve three Pearls
+- Have three Naval Trade Routes
 
 ## Starting Biases
 - Coast

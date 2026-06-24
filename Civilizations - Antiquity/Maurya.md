@@ -91,6 +91,21 @@ graph LR;
 - +1 Culture for every 5 excess Happiness in this Settlement
 - Must be placed on Plains
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Chola]]
+	- [[Majapahit]]
+- Modern
+	- [[Nepal]]
+- Leaders
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
+	- [[Lakshmibai]]
+	- [[Trung Trac]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
+
 ## Starting Bias
 - Vegetated
 

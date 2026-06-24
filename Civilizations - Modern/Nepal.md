@@ -14,18 +14,6 @@ tags:
 
 >*Nepal never submits. From their high fortresses, the Gurkhas watch vigilantly, and in the Durbar Square ministers plan and plot. Under the Nepali flag, the highest peaks become prosperous, and far below the brick stupas and spires, let Nepal's enemies tire themselves on the slopes.*
 
-## Unlocked
-- Have 3 Settlements with at least 5 Mountains
-- Civilizations
-	- [[Maurya]]
-	- [[Heian Japan]]
-	- [[Chola]]
-- Leaders
-	- [[Ashoka, World Conqueror]]
-	- [[Ashoka, World Renouncer]]
-	- [[Lakshmibai]]
-	- [[Pachacuti]]
-
 ## Unique Ability
 ##### *Roof of the World*
 - Can work Mountain Terrain
@@ -103,6 +91,22 @@ graph LR;
 - +6 Influence
 - Increase your Relationship with all other Leaders by 20
 - Must be built in Grassland or Tropical adjacent to a Mountain
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Heian Japan]]
+	- [[Maurya]]
+- Exploration
+	- [[Chola]]
+- Leaders
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
+	- [[Lakshmibai]]
+	- [[Pachacuti]]
+
+## Secondary Unlock
+- Have 3 Settlements with at least 5 Mountains
 
 ## Starting Bias
 - Mountains

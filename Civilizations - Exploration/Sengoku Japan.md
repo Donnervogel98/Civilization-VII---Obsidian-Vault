@@ -13,16 +13,6 @@ tags:
 
 >*In Sengoku Japan, power belongs to the bold. In the chaos of conflict, the lowliest ashigaru can rise to the title of samurai, and a minor lord can dream of becoming shogun – provided one survives the storm. The time has come to make a name for yourself.*
 
-## Unlocked
-- Be at War with everyone in the Homelands
-- Civilizations
-	- [[Achaemenid Persia]]
-	- [[Heian Japan]]
-- Leaders
-	- [[Himiko, High Shaman]]
-	- [[Himiko, Queen of Wa]]
-	- [[Toyotomi Hideyoshi]]
-
 ## Unique Ability
 ##### *Shogunate*
 - +2/+3/+4 Culture and +2/+3/+4 Science for every Army Commander XP earned in combat
@@ -111,6 +101,21 @@ graph LR;
 - +5 Combat Strength for Fortified Districts in all Settlements
 - Acts as a Fortified District that must be Conquered
 - Must be placed on Rough Terrain
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Achaemenid Persia]]
+	- [[Heian Japan]]
+- Modern
+	- [[Meiji Japan]]
+- Leaders
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[Toyotomi Hideyoshi]]
+
+## Secondary Unlock
+- Be at War with everyone in the Homelands
 
 ## Starting Biases
 - Grassland

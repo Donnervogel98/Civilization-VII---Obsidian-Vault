@@ -24,7 +24,7 @@ tags:
 
 ## Recommended Civilizations
 - Antiquity: [[Heian Japan]], [[Khmer]], [[Mississippian]], [[Tonga]]
-- Exploration: [[Hawai'i]], [[Majapahit]]
+- Exploration: [[Hawai'i]], [[Majapahit]], [[Sengoku Japan]]
 - Modern: [[Meiji Japan]], [[Siam]]
 
 ## Unique Legend Path Unlocks

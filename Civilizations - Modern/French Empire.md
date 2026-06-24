@@ -12,29 +12,6 @@ tags:
 
 >*The spark of revolution catches, and France is born. Standing in defiance of the right of kings, the French people choose a future governed by science and learning, provided that the old ways pass first through the guillotine. Bring the Revolution's promise of a more just world, or resurrect the specters of autocracy.*
 
-## Unlocked
-- Improve three Wine
-- Civilizations
-	- [[Rome]]
-	- [[Norman]]
-	- [[Republic of Pirates]]
-- Leaders
-	- [[Alexander the Great]]
-	- [[Augustus]]
-	- [[Benjamin Franklin]]
-	- [[Charlemagne]]
-	- [[Edward Teach]]
-	- [[Friedrich, Baroque]]
-	- [[Friedrich, Oblique]]
-	- [[Gilgamesh]]
-	- [[Isabella]]
-	- [[Lafayette]]
-	- [[Machiavelli]]
-	- [[Napoleon, Emperor]]
-	- [[Napoleon, Revolutionary]]
-	- [[Simón Bolívar]]
-	- [[Toyotomi Hideyoshi]]
-
 ## Unique Ability
 ##### *Liberté, Egalité, Fraternité*
 - You can select the Celebration effects of any standard current Age Government
@@ -130,6 +107,33 @@ graph LR;
 - +5 Culture
 - +4 Culture and +2 Tourism on Quarters in this City
 - Must be built adjacent to a District
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Rome]]
+- Exploration
+	- [[Norman]]
+	- [[Republic of Pirates]]
+- Leaders
+	- [[Alexander the Great]]
+	- [[Augustus]]
+	- [[Benjamin Franklin]]
+	- [[Charlemagne]]
+	- [[Edward Teach]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
+	- [[Gilgamesh]]
+	- [[Isabella]]
+	- [[Lafayette]]
+	- [[Machiavelli]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
+	- [[Simón Bolívar]]
+	- [[Toyotomi Hideyoshi]]
+
+## Secondary Unlock
+- Improve three Wine
 
 ## Starting Bias
 - Wine

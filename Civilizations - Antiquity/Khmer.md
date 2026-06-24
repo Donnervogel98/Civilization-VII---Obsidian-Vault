@@ -85,6 +85,22 @@ graph LR;
 - +1 Specialist Limit in this Settlement
 - Must be placed adjacent to a River
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Chola]]
+	- [[Đại Việt]]
+	- [[Majapahit]]
+- Modern
+	- [[Meiji Japan]]
+	- [[Siam]]
+- Leaders
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[Trung Trac]]
+
 ## Starting Biases
 - Floodplains
 - Tropical

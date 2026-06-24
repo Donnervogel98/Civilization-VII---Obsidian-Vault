@@ -96,6 +96,15 @@ graph LR;
 - +1 Cultural Attribute Point
 - Must be placed adjacent to Coast
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Hawai'i]]
+- Leaders
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[José Rizal]]
+
 ## Starting Biases
 - Coast
 - Tropical

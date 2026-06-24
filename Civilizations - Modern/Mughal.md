@@ -11,23 +11,6 @@ tags:
 
 >*From the Peacock Throne, the Mughals oversee lands sprawling and rich, decadent and earnest, where architects dream of wonders and commoners dream of bread. Its contrasts are yours – give the order.*
 
-## Unlocked
-- Have at least three Trade Routes with unique Civilizations
-- Civilizations
-	- [[Achaemenid Persia]]
-	- [[Abbasid]]
-	- [[Chola]]
-- Leaders
-	- [[Ashoka, World Conqueror]]
-	- [[Ashoka, World Renouncer]]
-	- [[Genghis Khan]]
-	- [[Hatshepsut]]
-	- [[Ibn Battuta]]
-	- [[Lakshmibai]]
-	- [[Sayyida al Hurra]]
-	- [[Xerxes, the Achaemenid]]
-	- [[Xerxes, King of Kings]]
-
 ## Unique Ability
 ##### *Paradise of Nations*
 - +100% Gold Yields
@@ -107,6 +90,27 @@ graph LR;
 - Acts as a Fortified District that must be conquered
 - +50 HP to this tile and all City Centers
 - Must be adjacent to a District
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Achaemenid Persia]]
+- Exploration
+	- [[Abbasid]]
+	- [[Chola]]
+- Leaders
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
+	- [[Genghis Khan]]
+	- [[Hatshepsut]]
+	- [[Ibn Battuta]]
+	- [[Lakshmibai]]
+	- [[Sayyida al Hurra]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
+
+## Secondary Unlock
+- Have at least three Trade Routes with unique Civilizations
 
 ## Starting Bias
 - Flat

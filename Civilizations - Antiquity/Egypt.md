@@ -101,6 +101,22 @@ graph LR;
 - +1 Gold and Production on Improvements and Districts on Minor River and Navigable River tiles in this Settlement
 - Must be placed adjacent to a Navigable River not in Tundra
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Abbasid]]
+	- [[Songhai]]
+- Modern
+	- [[Ottomans]]
+- Leaders
+	- [[Amina]]
+	- [[Augustus]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
+	- [[Harriet Tubman]]
+	- [[Hatshepsut]]
+	- [[Isabella]]
+
 ## Starting Biases
 - Navigable Rivers
 - Desert

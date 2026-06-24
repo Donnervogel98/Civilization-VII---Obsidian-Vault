@@ -95,6 +95,17 @@ graph LR;
 - +1 Diplomatic Attribute Point
 - Must be placed on Rough Terrain
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Goryeo]]
+	- [[Mongolia]]
+- Modern
+	- [[Joseon]]
+- Leaders
+	- [[Machiavelli]]
+	- [[Yi Sun-sin]]
+
 ## Starting Biases
 - Rough
 - Grassland

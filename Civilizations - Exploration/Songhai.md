@@ -10,17 +10,6 @@ tags:
 
 >*Masters of the rivers and desert alike, the Songhai venture forth into the land. Stirred by the songs of the griot, and driven by their passion for profit and God alike, they seek out the riches of the world. Ride now with them, whether driven on by ambition or virtue, and lay claim to what you can.*
 
-## Unlocked
-- Have three Settlements with at least three Navigable River tiles each
-- Civilizations
-	- [[Aksum]]
-	- [[Egypt]]
-- Leaders
-	- [[Amina]]
-	- [[Harriet Tubman]]
-	- [[Hatshepsut]]
-	- [[Ibn Battuta]]
-
 ## Unique Ability
 ##### *Tarikh al-Sudan*
 - +1/+2/+2 Resource Capacity in Cities on Navigable Rivers
@@ -105,6 +94,22 @@ graph LR;
 - +2 Resource Capacity in this Settlement
 - +2 Gold and +1 Production in this Settlement for every Resource assigned to it
 - Must be placed on Desert
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Aksum]]
+	- [[Egypt]]
+- Modern
+	- [[Buganda]]
+- Leaders
+	- [[Amina]]
+	- [[Harriet Tubman]]
+	- [[Hatshepsut]]
+	- [[Ibn Battuta]]
+
+## Secondary Unlock
+- Have three Settlements with at least three Navigable River tiles each
 
 ## Starting Biases
 - Coast

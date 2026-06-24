@@ -12,16 +12,6 @@ tags:
 
 >*In the stony heights, the Inca create an empire where few others dare to tread. Guided by the condor's flight and the puma's track, they chart connections from peak to peak, building fortresses in the mountains. From these heights, decide whether to send down prosperity and wisdom – or a hail of sling stones.*
 
-## Unlocked
-- Have three Settlements with at least three Mountains each
-- Civilizations
-	- [[Maya]]
-	- [[Mississippian]]
-- Leaders
-	- [[Harriet Tubman]]
-	- [[Pachacuti]]
-	- [[Simón Bolívar]]
-
 ## Unique Ability
 ##### *Apus*
 - Can work Mountain Terrain
@@ -94,6 +84,21 @@ graph LR;
 - +4 Gold
 - Buildings in this Settlement gain a +1 Culture and Gold Adjacency for Mountains
 - Must be placed on a Grassland or Tropical Mountain
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Maya]]
+	- [[Mississippian]]
+- Modern
+	- [[Mexico]]
+- Leaders
+	- [[Harriet Tubman]]
+	- [[Pachacuti]]
+	- [[Simón Bolívar]]
+
+## Secondary Unlock
+- Have three Settlements with at least three Mountains each
 
 ## Starting Biases
 - Coast

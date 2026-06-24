@@ -14,14 +14,6 @@ tags:
 
 >**
 
-## Unlocked
-- 
-- Civilizations
-	- [[Silla Korea]]
-	- [[Goryeo]]
-- Leaders
-	- [[Yi Sun-sin]]
-
 ## Unique Ability
 ##### **
 - 
@@ -85,6 +77,18 @@ graph LR;
 - Unlocked for any Civilization by the ** Technology
 - 
 - 
+- 
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Silla Korea]]
+- Exploration
+	- [[Goryeo]]
+- Leaders
+	- [[Yi Sun-sin]]
+
+## Secondary Unlock
 - 
 
 ## Starting Biases

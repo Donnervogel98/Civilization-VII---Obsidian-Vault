@@ -12,14 +12,6 @@ tags:
 
 >*The Shawnee are consummate diplomats, who cross leagues on foot to bring together disparate groups even when facing catastrophic odds. Under the watchful eyes of the kispoko, the hoceepkileni call all who will come to the stomp grounds, to hear the orators speak, and to rise together, as one.*
 
-## Unlocked
-- Improve three Hides
-- Be Suzerain of two City-States
-- Civilizations
-	- [[Mississippian]]
-- Leaders
-	- [[Tecumseh]]
-
 ## Unique Ability
 ##### *Nepekifaki*
 - +1/+2/+3 Food on Improvements and Districts on Minor and Navigable River Terrain in Settlements built adjacent to Navigable Rivers
@@ -99,6 +91,20 @@ graph LR;
 - +4 Influence
 - +3 Science and +2 Production to all Unique Improvements in this Settlement
 - Must be placed in Grassland
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Mississippian]]
+- Modern
+	- [[America]]
+	- [[Mexico]]
+- Leaders
+	- [[Tecumseh]]
+
+## Secondary Unlock
+- Improve three Hides
+- Be Suzerain of two City-States
 
 ## Starting Biases
 - Navigable Rivers

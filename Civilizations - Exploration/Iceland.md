@@ -14,16 +14,6 @@ tags:
 
 >*From the rugged north, the Icelanders burst forth on dragon-headed ships with Óðinn on their side. No shore is spared the fury of Norse warriors. Their ample spoils adorn longhouse walls, their deeds are made immortal by saga-writers and skalds. Ready your axe and raise your oar – the Viking Age begins.*
 
-## Unlocked
-- Be the first to discover a Natural Wonder
-- Coastal Raid 5 times
-- Civilizations
-	- [[Rome]]
-- Leaders
-	- [[Edward Teach]]
-	- [[Isabella]]
-	- [[José Rizal]]
-
 ## Unique Ability
 ##### *Kringla Heimsins*
 - +1 Sight for Naval Units
@@ -125,6 +115,21 @@ graph LR;
 - +25% Production towards Military Units in this City for every Great Work in this City
 - Has 3 Relic slots
 - Must be placed on Tundra
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Rome]]
+- Modern
+	- [[America]]
+- Leaders
+	- [[Edward Teach]]
+	- [[Isabella]]
+	- [[José Rizal]]
+
+## Secondary Unlock
+- Be the first to discover a Natural Wonder
+- Coastal Raid 5 times
 
 ## Starting Biases
 - Coastal

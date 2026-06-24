@@ -101,6 +101,21 @@ graph LR;
 - Breathtaking tiles receive +1 Production, +1 Culture, and +1 Happiness in this Settlement
 - Must be placed on Flat Terrain adjacent to a River
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Hawai'i]]
+	- [[Sengoku Japan]]
+- Modern
+	- [[Meiji Japan]]
+	- [[Nepal]]
+- Leaders
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[Isabella]]
+	- [[José Rizal]]
+	- [[Toyotomi Hideyoshi]]
+
 ## Starting Biases
 - Mountains
 - Rivers

@@ -14,17 +14,6 @@ tags:
 
 >*Atop the high peaks, the monks send their prayers skyward, and on the plains below, the trumpet sounds. Bulgaria rides, with swords guided by faith and faith stronger than steel. Raise the war-horn and the saver, the arkani and the long spear, and set the Bulgars loose upon the world.*
 
-## Unlocked
-- Have three Altars
-- Civilizations
-	- [[Achaemenid Persia]]
-	- [[Greece]]
-- Leaders
-	- [[Augustus]]
-	- [[Catherine the Great]]
-	- [[Charlemagne]]
-	- [[Genghis Khan]]
-
 ## Unique Ability
 ##### *Krum's Dynasty*
 - Receive Production in all Cities when pillaging Improvements equal to 50% of the HP or yields gained
@@ -103,6 +92,22 @@ graph LR;
 - Has 3 Great Work Slots
 - Gain a Relic every time you construct a Wonder, including this one
 - Cannot be placed adjacent to a District
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Achaemenid Persia]]
+	- [[Greece]]
+- Modern
+	- [[Russia]]
+- Leaders
+	- [[Augustus]]
+	- [[Catherine the Great]]
+	- [[Charlemagne]]
+	- [[Genghis Khan]]
+
+## Secondary Unlock
+- Have three Altars
 
 ## Starting Bias
 - Rough

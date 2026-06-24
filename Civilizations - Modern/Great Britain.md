@@ -14,17 +14,6 @@ tags:
 
 >*Rule, Britannia! Beyond the smoky London skies, beyond the churn of Manchester's mills, there is a greater glory – the Empire. Ever-hungry mills demand feeding, and ever-full warehouses demand markets. Heed their call, and may the sun never set upon your dominion.*
 
-## Unlocked
-- Have two Fleet Commanders
-- Civilizations
-	- [[Rome]]
-	- [[Norman]]
-	- [[Republic of Pirates]]
-- Leaders
-	- [[Ada Lovelace]]
-	- [[Benjamin Franklin]]
-	- [[Edward Teach]]
-
 ## Unique Ability
 ##### *Workshop of the World*
 - +25% Gold towards purchasing Buildings and +25% Production towards constructing Buildings
@@ -110,6 +99,21 @@ graph LR;
 - +4 Production
 - Receive a second Naval Unit each time you train a Naval Unit 
 - Must be placed on land adjacent to Coast
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Rome]]
+- Exploration
+	- [[Norman]]
+	- [[Republic of Pirates]]
+- Leaders
+	- [[Ada Lovelace]]
+	- [[Benjamin Franklin]]
+	- [[Edward Teach]]
+
+## Secondary Unlock
+- Have two Fleet Commanders
 
 ![Background](https://static.wikia.nocookie.net/civilization/images/5/5f/British_Background_(Civ7).jpg/revision/latest)
 

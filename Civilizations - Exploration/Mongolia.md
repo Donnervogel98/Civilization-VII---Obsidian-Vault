@@ -12,22 +12,6 @@ tags:
 
 >*A name whispered in the nightmares of the settled lands, the Mongols stand poised to shatter the world—and remake it in a new image. With the thunder of bombards and roll of hooves, the hordes come. Lead them, and sow destruction among your enemies.*
 
-## Unlocked
-- Have three Siege units
-- Improve three Horses
-- Civilizations
-	- [[Achaemenid Persia]]
-	- [[Han]]
-	- [[Silla Korea]]
-- Leaders
-	- [[Alexander the Great]]
-	- [[Catherine the Great]]
-	- [[Confucius]]
-	- [[Genghis Khan]]
-	- [[Toyotomi Hideyoshi]]
-	- [[Xerxes, the Achaemenid]]
-	- [[Xerxes, King of Kings]]
-
 ## Unique Ability
 ##### *Bokh*
 - When you capture an opposing Settlement, gain the strongest Cavalry Unit you can currently train
@@ -107,6 +91,28 @@ graph LR;
 - +2 Culture
 - Creating a Cavalry Unit grants Culture equal to 25% of its cost
 - Must be placed on Flat Terrain
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Achaemenid Persia]]
+	- [[Han]]
+	- [[Silla Korea]]
+- Modern
+	- [[Qing]]
+	- [[Russia]]
+- Leaders
+	- [[Alexander the Great]]
+	- [[Catherine the Great]]
+	- [[Confucius]]
+	- [[Genghis Khan]]
+	- [[Toyotomi Hideyoshi]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
+
+## Secondary Unlock
+- Have three Siege units
+- Improve three Horses
 
 ## Starting Bias
 - Horses

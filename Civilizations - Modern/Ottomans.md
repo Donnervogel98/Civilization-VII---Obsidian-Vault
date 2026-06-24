@@ -14,19 +14,6 @@ aliases:
 
 >*Amid sparkling minarets and bright tulip gardens, the Ottomans reign at the world's crossroads. Cannons boom over land and sea, and bazaars burst with global goods. The empire's tradition holds strong in the külliye while secular reforms gain traction in the coffeehouse. Now take up the Sword of Osman and decide the empire's fate.*
 
-## Unlocked
-- Conquer a Capital
-- Civilizations
-	- [[Carthage]]
-	- [[Egypt]]
-	- [[Rome]]
-	- [[Abbasid]]
-- Leaders
-	- [[Alexander the Great]]
-	- [[Gilgamesh]]
-	- [[Ibn Battuta]]
-	- [[Sayyida al Hurra]]
-
 ## Unique Ability
 ##### *Devlet-i 'Aliye-i 'Osmâniye*
 - [Ant/Exp] Gain a Codex/Relic when you enter a Celebration, or conquer an Original Capital for the first time
@@ -121,6 +108,23 @@ graph LR;
 - +4 Happiness
 - +2 Culture and Gold on Wonders in this Settlement; this is doubled for Exploration Wonders and tripled for Antiquity Wonders
 - Must be built adjacent to another Wonder
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Carthage]]
+	- [[Egypt]]
+	- [[Rome]]
+- Exploration
+	- [[Abbasid]]
+- Leaders
+	- [[Alexander the Great]]
+	- [[Gilgamesh]]
+	- [[Ibn Battuta]]
+	- [[Sayyida al Hurra]]
+
+## Secondary Unlock
+- Conquer a Capital
 
 ![Background](https://static.wikia.nocookie.net/civilization/images/0/0a/Ottoman_Background_(Civ7).jpg/revision/latest)
 

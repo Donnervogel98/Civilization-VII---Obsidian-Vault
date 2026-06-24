@@ -101,6 +101,21 @@ graph LR;
 - All Districts in this City that are adjacent to Coast and eligible for Walls receive a Wall
 - Must be placed adjacent to a Coast tile
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Republic of Pirates]]
+	- [[Spain]]
+- Modern
+	- [[Ottomans]]
+- Leaders
+	- [[Augustus]]
+	- [[Edward Teach]]
+	- [[Hatshepsut]]
+	- [[Ibn Battuta]]
+	- [[Isabella]]
+	- [[Sayyida al Hurra]]
+
 ## Starting Biases
 - Coast
 - Grassland

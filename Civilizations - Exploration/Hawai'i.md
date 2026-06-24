@@ -12,22 +12,6 @@ tags:
 
 >*The world's greatest sailors, the Hawaiians venture forth when all others fail. With the blessing of their kahuna, they brave the blue expanse in search of new lands to sow with taro, new treasures to collect, and new legacies to forge. The conch is blowing, the wind is right – it is time for the oar to bite water.*
 
-## Unlocked
-- Have two Settlements on an Island (a landmass with a maximum of 30 tiles)
-- Civilizations
-	- [[Heian Japan]]
-	- [[Maya]]
-	- [[Mississippian]]
-	- [[Tonga]]
-- Leaders
-	- [[Ashoka, World Conqueror]]
-	- [[Ashoka, World Renouncer]]
-	- [[Himiko, High Shaman]]
-	- [[Himiko, Queen of Wa]]
-	- [[José Rizal]]
-	- [[Pachacuti]]
-	- [[Tecumseh]]
-
 ## Unique Ability
 ##### *Moananuiākea*
 - Can work Ocean Terrain
@@ -107,6 +91,27 @@ graph LR;
 - +1 Culture on Water Buildings
 - Has 3 Great Work slots
 - Must be built on Coast adjacent to land, but not adjacent to Tundra
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Heian Japan]]
+	- [[Maya]]
+	- [[Mississippian]]
+	- [[Tonga]]
+- Modern
+	- [[Meiji Japan]]
+- Leaders
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[José Rizal]]
+	- [[Pachacuti]]
+	- [[Tecumseh]]
+
+## Secondary Unlock
+- Have two Settlements on an Island (a landmass with a maximum of 30 tiles)
 
 ## Starting Biases
 - Coast

@@ -13,16 +13,6 @@ tags:
 
 >*The Guarded Domains of Iran are known for the dynasty that rules them – Qajar. Defying the great powers of the world, Qajar Iran remains, building a legacy of art and architecture that places a Persian stamp upon modernity. Rule by beauty or the rifle, but carve for Qajar its place upon the world.*
 
-## Unlocked
-- Have 1 Settlement with at least 5 Specialists
-- Civilizations
-	- [[Achaemenid Persia]]
-	- [[Assyria]]
-- Leaders
-	- [[Gilgamesh]]
-	- [[Xerxes, the Achaemenid]]
-	- [[Xerxes, King of Kings]]
-
 ## Unique Ability
 ##### *Kayānī Crown*
 - +50% Influence toward Supporting Diplomatic Actions
@@ -96,6 +86,19 @@ graph LR;
 - +4 Food
 - +1 Specialist Limit in this Settlement
 - Must be built in Desert Terrain
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Achaemenid Persia]]
+	- [[Assyria]]
+- Leaders
+	- [[Gilgamesh]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
+
+## Secondary Unlock
+- Have 1 Settlement with at least 5 Specialists
 
 ## Starting Biases
 - Plains

@@ -25,7 +25,7 @@ tags:
 
 ## Recommended Civilizations
 - Antiquity: [[Mississippian]]
-- Exploration: [[Shawnee]]
+- Exploration: [[Hawai'i]], [[Shawnee]]
 - Modern: [[America]], [[Mexico]]
 
 ## Unique Legend Path Unlocks

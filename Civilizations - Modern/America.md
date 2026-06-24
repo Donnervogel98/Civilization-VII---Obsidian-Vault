@@ -12,20 +12,6 @@ tags:
 
 >*Built on steam, on iron, and on a vision that looks relentlessly ahead, America surges forward. The brave new world unrolls from factory assembly lines, on rail tracks that extend across the plains, and in the eyes of each immigrant who sets foot upon its shores. Come, and dream anew, under the stars and stripes.*
 
-## Unlocked
-- Have three Distant Lands Settlements in either Plains or Grasslands
-- Civilizations
-	- [[Rome]]
-	- [[Iceland]]
-	- [[Norman]]
-	- [[Shawnee]]
-- Leaders
-	- [[Benjamin Franklin]]
-	- [[Harriet Tubman]]
-	- [[Lafayette]]
-	- [[Pachacuti]]
-	- [[Tecumseh]]
-
 ## Unique Ability
 ##### *Frontier Expansion*
 - Gain 50/100/150 Gold every time you improve a Resource
@@ -103,6 +89,24 @@ graph LR
 - +6 Happiness
 - Spawns 4 Migrants
 - Must be placed on Coast adjacent to land
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Rome]]
+- Exploration
+	- [[Iceland]]
+	- [[Norman]]
+	- [[Shawnee]]
+- Leaders
+	- [[Benjamin Franklin]]
+	- [[Harriet Tubman]]
+	- [[Lafayette]]
+	- [[Pachacuti]]
+	- [[Tecumseh]]
+
+## Secondary Unlock
+- Have three Distant Lands Settlements in either Plains or Grasslands
 
 ## Starting Biases
 - Rough

@@ -101,6 +101,33 @@ graph LR;
 - +1 Happiness and Gold on Quarters in this Settlement
 - Must be placed adjacent to a District
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Iceland]]
+	- [[Norman]]
+	- [[Spain]]
+- Modern
+	- [[America]]
+	- [[French Empire]]
+	- [[Great Britain]]
+	- [[Ottomans]]
+	- [[Prussia]]
+- Leaders
+	- [[Ada Lovelace]]
+	- [[Augustus]]
+	- [[Benjamin Franklin]]
+	- [[Catherine the Great]]
+	- [[Charlemagne]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
+	- [[Lafayette]]
+	- [[Machiavelli]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
+	- [[Simón Bolívar]]
+	- [[Toyotomi Hideyoshi]]
+
 ## Starting Bias
 - Grassland
 

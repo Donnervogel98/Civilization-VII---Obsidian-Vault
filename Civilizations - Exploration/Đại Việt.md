@@ -14,14 +14,6 @@ aliases:
 
 >*Through the shadow of war and oppression, the people of Đại Việt remain strong. Toiling in the rice field or on elephant-back, the Vietnamese people yearn for their right to determine their own destiny, and to push back would-be invaders to their own shores – or to make conquests of their own. With the beat of the trong com and the trumpeting of elephants, Đại Việt stakes its claim.*
 
-## Unlocked
-- Have three Settlements on Tropical
-- Civilizations
-	- [[Khmer]]
-- Leaders
-	- [[Lakshmibai]]
-	- [[Trung Trac]]
-
 ## Unique Ability
 ##### *Hịch Tướng Sĩ*
 - When you create a Fortification Building or Wonder, gain 15/25/35 Culture for each Urban Population in the Settlement
@@ -106,6 +98,19 @@ graph LR;
 - +1 Specialist Limit in Cities with 7 Fortification Constructibles
 - Acts as a Fortified District
 - Must be built adjacent to Medieval Walls, in a City with 7 Medieval Walls
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Khmer]]
+- Modern
+	- [[Siam]]
+- Leaders
+	- [[Lakshmibai]]
+	- [[Trung Trac]]
+
+## Secondary Unlock
+- Have three Settlements on Tropical
 
 ## Starting Biases
 - Floodplains

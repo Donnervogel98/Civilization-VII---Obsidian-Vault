@@ -105,6 +105,16 @@ graph LR;
 - +1 Tradition slot
 - Must be placed on Grassland
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Ming]]
+	- [[Mongolia]]
+- Modern
+	- [[Qing]]
+- Leaders
+	- [[Confucius]]
+
 ## Starting Bias
 - Grassland
 

@@ -87,6 +87,21 @@ graph LR
 - Gain 200 Gold per Age when you construct a Wonder, including this one
 - Must be placed on Flat Terrain
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Republic of Pirates]]
+	- [[Songhai]]
+- Modern
+	- [[Buganda]]
+- Leaders
+	- [[Amina]]
+	- [[Edward Teach]]
+	- [[Harriet Tubman]]
+	- [[Hatshepsut]]
+	- [[Ibn Battuta]]
+	- [[Sayyida al Hurra]]
+
 ## Starting Biases
 - Coastal
 - Rough

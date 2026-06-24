@@ -12,22 +12,6 @@ tags:
 
 >*Precision with soul – this is the heart of Prussia, a hearth of steam, iron, and coal. Its discipline extends from the factory floor to the train schedule, from the formations of the hussars to the conductors in the concert hall. Take stock of your regiments, secure your supply lines – and set the Prussian machine in motion.*
 
-## Unlocked
-- Have three Army Commanders
-- Improve thee Niter
-- Civilizations
-	- [[Rome]]
-	- [[Norman]]
-- Leaders
-	- [[Augustus]]
-	- [[Catherine the Great]]
-	- [[Charlemagne]]
-	- [[Friedrich, Baroque]]
-	- [[Friedrich, Oblique]]
-	- [[Genghis Khan]]
-	- [[Napoleon, Emperor]]
-	- [[Napoleon, Revolutionary]]
-
 ## Unique Ability
 ##### *Blood and Iron*
 - +1 Combat Strength for Military Units for every Unfriendly or Hostile Relationship with another Leader
@@ -102,6 +86,26 @@ graph LR;
 - +1 War Support on all wars
 - +1 Settlement Limit
 - Must be placed adjacent to a District
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Rome]]
+- Exploration
+	- [[Norman]]
+- Leaders
+	- [[Augustus]]
+	- [[Catherine the Great]]
+	- [[Charlemagne]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
+	- [[Genghis Khan]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
+
+## Secondary Unlock
+- Have three Army Commanders
+- Improve thee Niter
 
 ## Starting Biases
 - Niter

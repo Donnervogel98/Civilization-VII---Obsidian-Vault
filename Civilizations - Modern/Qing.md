@@ -11,15 +11,6 @@ tags:
 
 >*From the northern edges of the Chinese world come the Manchu, the Qing Dynasty of China. The mandarins of the court administer vast territories, their artists produce marvels that are the envy of the world, and their gusa defend the land against all who would seek to claim their mandate. Let the world remember the Qing.*
 
-## Unlocked
-- Improve three Jade
-- Civilizations
-	- [[Han]]
-	- [[Ming]]
-	- [[Mongolia]]
-- Leaders
-	- [[Confucius]]
-
 ## Unique Ability
 ##### *Kang Qian Shengshi*
 - +1/+2/+3 Gold and Culture for every imported Resource, but -2/-4/-6 Science per Trade Route
@@ -109,6 +100,19 @@ graph LR;
 - +6 Gold
 - +5% Culture for every other Civilization with which you have a Trade Route
 - Must be built adjacent to a Mountain
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Han]]
+- Exploration
+	- [[Ming]]
+	- [[Mongolia]]
+- Leaders
+	- [[Confucius]]
+
+## Secondary Unlock
+- Improve three Jade
 
 ## Starting Bias
 - Grassland

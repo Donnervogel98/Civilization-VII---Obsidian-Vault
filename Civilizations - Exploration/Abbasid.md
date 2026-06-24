@@ -11,25 +11,6 @@ tags:
 
 >*The second of the great Arab caliphates, the Abbasid Dynasty is the heart of wisdom. As the knowledge of the world and the heavens flows inwards to Abbasid libraries, Abbasid scholars are guided by the tenets of their faith, and their devotion to expanding the frontiers of science and commerce. Seek, read, discover – the world is yours.
 
-## Unlocked
-- Improve three Camels
-- Civilizations
-	- [[Achaemenid Persia]]
-	- [[Assyria]]
-	- [[Egypt]]
-- Leader
-	- [[Ada Lovelace]]
-	- [[Alexander the Great]]
-	- [[Amina]]
-	- [[Augustus]]
-	- [[Gilgamesh]]
-	- [[Hatshepsut]]
-	- [[Ibn Battuta]]
-	- [[Isabella]]
-	- [[Sayyida al Hurra]]
-	- [[Xerxes, the Achaemenid]]
-	- [[Xerxes, King of Kings]]
-
 ## Unique Ability
 ##### *Madina*
 - [Ant] Receive 10 Gold for each Rural Population of a City when it has a Growth Event (Scales by Game Speed)
@@ -120,6 +101,32 @@ graph LR;
 - +2 Science from Great Works
 - +3 Innovation
 - Must be placed adjacent to a District
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Achaemenid Persia]]
+	- [[Assyria]]
+	- [[Egypt]]
+- Modern
+	- [[Buganda]]
+	- [[Mughal]]
+	- [[Ottomans]]
+- Leaders
+	- [[Ada Lovelace]]
+	- [[Alexander the Great]]
+	- [[Amina]]
+	- [[Augustus]]
+	- [[Gilgamesh]]
+	- [[Hatshepsut]]
+	- [[Ibn Battuta]]
+	- [[Isabella]]
+	- [[Sayyida al Hurra]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
+
+## Secondary Unlock
+- Improve three Camels
 
 ## Starting Biases
 - Coast

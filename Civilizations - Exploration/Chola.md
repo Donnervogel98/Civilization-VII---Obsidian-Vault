@@ -11,18 +11,6 @@ tags:
 
 >*The greatest of the Tamil dynasties, the Chola lords rule the seas. Their touch extends outward, across networks of merchant houses, to the poets and philosophers of the Sanskrit world, and to artists and scholars. Each seek to capture the dreams of the fleeting world, for a time. Extend your grasp – though the seas are ever-changing, make your mark.*
 
-## Unlocked
-- Have three Settlements with City Centers adjacent to a Coastal tile (Lakes do not count)
-- Civilizations
-	- [[Khmer]]
-	- [[Maurya]]
-- Leaders
-	- [[Ashoka, World Conqueror]]
-	- [[Ashoka, World Renouncer]]
-	- [[Gilgamesh]]
-	- [[Lakshmibai]]
-	- [[Trung Trac]]
-
 ## Unique Ability
 ##### *Samayam*
 - +1 Trade Route from the Improve Trade Relations Action
@@ -115,6 +103,25 @@ graph LR;
 - +3 Influence
 - All Buildings in this Settlement gain a +1 Happiness Adjacency for Navigable Rivers
 - Must be placed adjacent to a Navigable River or on a Minor River
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Khmer]]
+	- [[Maurya]]
+- Modern
+	- [[Mughal]]
+	- [[Nepal]]
+	- [[Siam]]
+- Leaders
+	- [[Ashoka, World Conqueror]]
+	- [[Ashoka, World Renouncer]]
+	- [[Gilgamesh]]
+	- [[Lakshmibai]]
+	- [[Trung Trac]]
+
+## Secondary Unlock
+- Have three Settlements with City Centers adjacent to a Coastal tile (Lakes do not count)
 
 ## Starting Biases
 - Coast

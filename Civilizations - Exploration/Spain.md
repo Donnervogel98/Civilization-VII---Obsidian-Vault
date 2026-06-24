@@ -11,26 +11,6 @@ tags:
 
 >*The white foam gathers as the galleons set forth, and Spain emerges on the world. As conquistadors set their gaze upon the horizon, a glint arises in their eyes – they sail to claim the world—for glory, for God… or for gold.*
 
-## Unlocked
-- Reconquer a lost Settlement
-- Civilizations
-	- [[Carthage]]
-	- [[Greece]]
-	- [[Rome]]
-- Leaders
-	- [[Augustus]]
-	- [[Benjamin Franklin]]
-	- [[Charlemagne]]
-	- [[Edward Teach]]
-	- [[Friedrich, Baroque]]
-	- [[Friedrich, Oblique]]
-	- [[Isabella]]
-	- [[Lafayette]]
-	- [[Machiavelli]]
-	- [[Napoleon, Emperor]]
-	- [[Napoleon, Revolutionary]]
-	- [[Simón Bolívar]]
-
 ## Unique Ability
 ##### *Siglo de Oro*
 - [Ant] +1 Food, Gold, and Production in Coastal Settlements and in Settlements with an Altar, or +2 if it is both
@@ -130,6 +110,31 @@ graph LR;
 - +1 Settlement Limit
 - +4 Happiness on Cities within 7 tiles of this Wonder
 - Must be placed on Rough Terrain
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Carthage]]
+	- [[Greece]]
+	- [[Rome]]
+- Modern
+	- [[Mexico]]
+- Leaders
+	- [[Augustus]]
+	- [[Benjamin Franklin]]
+	- [[Charlemagne]]
+	- [[Edward Teach]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
+	- [[Isabella]]
+	- [[Lafayette]]
+	- [[Machiavelli]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
+	- [[Simón Bolívar]]
+
+## Secondary Unlock
+- Reconquer a lost Settlement
 
 ## Starting Bias
 - Coast

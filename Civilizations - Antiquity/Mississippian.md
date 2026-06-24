@@ -86,6 +86,19 @@ graph LR;
 - +4 Resource Capacity in this Settlement
 - Must be placed adjacent to a River
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Hawai'i]]
+	- [[Inca]]
+	- [[Shawnee]]
+- Leaders
+	- [[Himiko, High Shaman]]
+	- [[Himiko, Queen of Wa]]
+	- [[José Rizal]]
+	- [[Pachacuti]]
+	- [[Tecumseh]]
+
 ## Starting Biases
 - Flat
 - Rivers

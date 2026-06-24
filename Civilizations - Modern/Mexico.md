@@ -12,20 +12,6 @@ tags:
 
 >*As Mexico makes its break with the old world, it faces new challenges, both internal and external. In the Zócalo, in the stateroom, and in clandestine meetings of revolutionaries, its future is constantly being formed and re-formed, but its soul remains. Let that soul sing.*
 
-## Unlocked
-- Have three Distant Lands Settlements in Desert or Tropical
-- Civilizations
-	- [[Maya]]
-	- [[Inca]]
-	- [[Shawnee]]
-	- [[Spain]]
-- Leaders
-	- [[Amina]]
-	- [[Isabella]]
-	- [[Pachacuti]]
-	- [[Simón Bolívar]]
-	- [[Tecumseh]]
-
 ## Unique Ability
 ##### *Revolución*
 - Starts with a unique Government, **Revolución**; this Government's passive effect is +2/+4/+6 Happiness in Cities for every Tradition slotted in the Government; it starts with one Celebration effect:+2 Culture in Happy Settlements, or +6 in Joyous Settlements, or +10 in Ecstatic Settlements for 6 turns; cannot enter any other Government type
@@ -129,6 +115,24 @@ graph LR;
 - Has 3 Great Work slots
 - +3 Happiness on Great Works
 - Must be placed adjacent to a District
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Maya]]
+- Exploration
+	- [[Inca]]
+	- [[Shawnee]]
+	- [[Spain]]
+- Leaders
+	- [[Amina]]
+	- [[Isabella]]
+	- [[Pachacuti]]
+	- [[Simón Bolívar]]
+	- [[Tecumseh]]
+
+## Secondary Unlock
+- Have three Distant Lands Settlements in Desert or Tropical
 
 ## Starting Biases
 - Desert

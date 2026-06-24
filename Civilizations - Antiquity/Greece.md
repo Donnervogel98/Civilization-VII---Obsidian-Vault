@@ -107,6 +107,24 @@ graph LR;
 - +1 Wildcard Attribute Point
 - Must be placed on Rough Terrain
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Bulgaria]]
+	- [[Norman]]
+	- [[Spain]]
+- Modern
+	- [[Russia]]
+- Leaders
+	- [[Ada Lovelace]]
+	- [[Alexander the Great]]
+	- [[Benjamin Franklin]]
+	- [[Catherine the Great]]
+	- [[Charlemagne]]
+	- [[Isabella]]
+	- [[Lafayette]]
+	- [[Machiavelli]]
+
 ## Starting Biases
 - Rough
 - Grassland

@@ -92,6 +92,26 @@ graph LR;
 - +1 War Support on all wars
 - Must be placed adjacent to a District
 
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Exploration
+	- [[Abbasid]]
+	- [[Bulgaria]]
+	- [[Mongolia]]
+	- [[Sengoku Japan]]
+- Modern
+	- [[Mughal]]
+	- [[Qajar]]
+- Leaders
+	- [[Alexander the Great]]
+	- [[Genghis Khan]]
+	- [[Gilgamesh]]
+	- [[Ibn Battuta]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
+
 ## Starting Biases
 - Desert
 

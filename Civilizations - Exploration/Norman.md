@@ -11,25 +11,6 @@ tags:
 
 >*Restless conquerors, the Normans seek out new lands, and, with their mighty stone castles, they hold what they take. Norman society is made of courtly knights and chivalry, chevalers and keeps. It offers protection—under the sword. Stand and receive the fealty of your knights – the Norman yoke is upon the land.*
 
-## Unlocked
-- Improve three Iron
-- Build five Walls
-- Civilizations
-	- [[Greece]]
-	- [[Rome]]
-- Leaders
-	- [[Ada Lovelace]]
-	- [[Benjamin Franklin]]
-	- [[Catherine the Great]]
-	- [[Charlemagne]]
-	- [[Friedrich, Baroque]]
-	- [[Friedrich, Oblique]]
-	- [[Gilgamesh]]
-	- [[Lafayette]]
-	- [[Machiavelli]]
-	- [[Napoleon, Emperor]]
-	- [[Napoleon, Revolutionary]]
-
 ## Unique Ability
 ##### *Normannitas*
 - +5 Combat Strength for Land Units and Fortified Districts adjacent to Coast
@@ -125,6 +106,33 @@ graph LR;
 - +4 Happiness
 - +4 Happiness in this Settlement for every Tradition slotted in the Government
 - Must be placed adjacent to a City Hall
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Greece]]
+	- [[Rome]]
+- Modern
+	- [[America]]
+	- [[French Empire]]
+	- [[Great Britain]]
+	- [[Prussia]]
+- Leaders
+	- [[Ada Lovelace]]
+	- [[Benjamin Franklin]]
+	- [[Catherine the Great]]
+	- [[Charlemagne]]
+	- [[Friedrich, Baroque]]
+	- [[Friedrich, Oblique]]
+	- [[Gilgamesh]]
+	- [[Lafayette]]
+	- [[Machiavelli]]
+	- [[Napoleon, Emperor]]
+	- [[Napoleon, Revolutionary]]
+
+## Secondary Unlock
+- Improve three Iron
+- Build five Walls
 
 ## Starting Biases
 - Coast

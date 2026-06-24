@@ -12,19 +12,6 @@ tags:
 
 >*Imperial Russia rules with beauty, science, and authority. Defying the snows of winter and would-be conquerors alike, Russians make a living from the edges of the world, turning hardship to art, perseverance to poetry, and opposition to resilience. Turn the Russian winter into a thing of beauty, and let the Russian soul shine.*
 
-## Unlocked
-- Have three Settlements on Tundra
-- Civilizations
-	- [[Greece]]
-	- [[Bulgaria]]
-	- [[Mongolia]]
-- Leaders
-	- [[Ada Lovelace]]
-	- [[Catherine the Great]]
-	- [[Machiavelli]]
-	- [[Xerxes, the Achaemenid]]
-	- [[Xerxes, King of Kings]]
-
 ## Unique Ability
 ##### *Prosveshchenie*
 - +1 Culture on Quarters in Cities; +1 Science on Quarters in Cities in Tundra
@@ -106,6 +93,23 @@ graph LR;
 - +5 Culture in Settlements that have a Great Work on display
 - Has 3 Great Work slots
 - Must be placed on Tundra
+
+## Age Unlocks
+*(available for and grants access to the below for Syncretism and Age Transition)*
+- Antiquity
+	- [[Greece]]
+- Exploration
+	- [[Bulgaria]]
+	- [[Mongolia]]
+- Leaders
+	- [[Ada Lovelace]]
+	- [[Catherine the Great]]
+	- [[Machiavelli]]
+	- [[Xerxes, the Achaemenid]]
+	- [[Xerxes, King of Kings]]
+
+## Secondary Unlock
+- Have three Settlements on Tundra
 
 ## Starting Biases
 - Tundra
