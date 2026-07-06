@@ -30,16 +30,16 @@ tags:
 - +5 Combat Strength if this Unit has not moved this turn
 ##### Great Person: *Shijin*
 - Can only be trained in settlements with a Jinja
-- **Izumi Shikibu**: Activate on an Altar to add increased Culture to the Building.
-- **Ki no Tomonori**: Activate on the Palace to add increased Happiness to the Building.
-- **Ki no Tsurayuki**: Activate on a Great Work Building to grant an additional Great Work slot to all Buildings in this Settlement with a Great Work slot.
-- **Lady Sarashina**: Activate on a Great Work Building; receive increased culture to this Building for each slotted Great Work.
-- **Mibu no Tadamine**: Activate on a Culture Building in a City. Its Specialists grant increased Culture.
-- **Michitsuna's Mother**: Activate on a Jinja to add increased Happiness to all Jinja in this Settlement.
-- **Murasaki Shikibu**: Activate on a Constructible with a Great Work Slot to receive *The Tale of Genji*, which grants increased Culture.
-- **Nakayama Tadachika**: Activate on the Palace to add increased Influence to the Building.
-- **Oshikochi no Mitsune**: Activate on a Culture Building to grant increased Culture to all Culture Buildings in this Settlement.
-- **Sei Shonagon**: Activate on a Constructible with a Great Work Slot to receive *The Pillow Book*, which grants increased Happiness.
+- **Izumi Shikibu**: Activate on an Altar to add increased Culture to the Building
+- **Ki no Tomonori**: Activate on the Palace to add increased Happiness to the Building
+- **Ki no Tsurayuki**: Activate on a Great Work Building to grant an additional Great Work slot to all Buildings in this Settlement with a Great Work slot
+- **Lady Sarashina**: Activate on a Building with a Great Work Slot to receive +1 Culture to this Settlement for each slotted Great Work
+- **Mibu no Tadamine**: Activate on a Culture Building in a City; Its Specialists grant +1 Culture
+- **Michitsuna's Mother**: Activate on a Jinja to add increased Happiness to all Jinja in this Settlement
+- **Murasaki Shikibu**: Activate on a Building or Wonder with a Great Work Slot to receive *The Tale of Genji*, which grants +2 Culture
+- **Nakayama Tadachika**: Activate on the Palace to add +3 Influence to the Building
+- **Oshikochi no Mitsune**: Activate on a Culture Building to grant +2 Culture to all Culture Buildings in this Settlement
+- **Sei Shonagon**: Activate on a Building or Wonder with a Great Work Slot to receive *The Pillow Book*, which grants +2 Happiness
 
 ## Civics – Antiquity
 ##### *Ritsuryo*
@@ -121,6 +121,6 @@ graph LR;
 - Rivers
 - Vegetated
 
-![Background]()
+![Background](https://static.wikia.nocookie.net/civilization/images/8/8a/Heian_Background_(Civ7).jpg/revision/latest)
 
 ![Settlement](https://assets.2k.com/1a6ngf98576c/35d4Azszhmwbc5Q8mCBy2c/355c78745f2397615619c54e923b37f9/Screenshots_Heian_03_1920x1080_png.png)

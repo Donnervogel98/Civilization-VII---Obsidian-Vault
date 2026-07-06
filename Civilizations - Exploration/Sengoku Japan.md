@@ -120,6 +120,6 @@ graph LR;
 ## Starting Biases
 - Grassland
 
-![Background]()
+![Background](https://static.wikia.nocookie.net/civilization/images/c/c6/Sengoku_Background_(Civ7).jpg/revision/latest)
 
 ![Settlement](https://assets.2k.com/1a6ngf98576c/14je99qq81OjumyejiXMaS/3bb7eea52810a8e2a342e756df10aeb3/Screenshots_Sengoku_02_1920x1080_png.png)
