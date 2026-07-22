@@ -56,12 +56,14 @@ Cultural Leaders gain access to the below upon reaching the appropriate level in
 	- [[Rome]]
 - Exploration
 	- [[Đại Việt]]
+	- [[Goryeo]]
 	- [[Hawai'i]]
 	- [[Iceland]]
 	- [[Majapahit]]
 - Modern
 	- [[Buganda]]
 	- [[French Empire]]
+	- [[Joseon]]
 	- [[Mexico]]
 	- [[Nepal]]
 	- [[Ottomans]]

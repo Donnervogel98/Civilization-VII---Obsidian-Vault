@@ -41,6 +41,7 @@ Scientific Leaders gain access to the below upon reaching the appropriate level 
 - [[Friedrich, Oblique]]
 - [[Himiko, Queen of Wa]]
 - [[Trung Trac]]
+- [[Yi Sun-sin]]
 
 #### Scientific Civilizations
 - Antiquity

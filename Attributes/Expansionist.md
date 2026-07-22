@@ -67,6 +67,7 @@ Expansionist Leaders gain access to the below upon reaching the appropriate leve
 	- [[Mongolia]]
 - Modern
 	- [[Buganda]]
+	- [[Joseon]]
 	- [[Mughal]]
 	- [[Qajar]]
 	- [[Qing]]

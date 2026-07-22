@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DLC Packs/Collections/Brush and Blade Collection.md",
+                "file": "Civilizations - Modern/Joseon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Brush and Blade Collection"
+              "title": "Joseon"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DLC Packs/Collections/Brush and Blade Collection.md",
+                "file": "Civilizations - Modern/Joseon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#Civilization OR tag:#Leader",
@@ -125,7 +125,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Brush and Blade Collection"
+              "title": "Graph of Joseon"
             }
           }
         ]
@@ -303,34 +303,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d64bc5c654b0679",
+  "active": "d8a6453b481c33f6",
   "lastOpenFiles": [
-    "Civilizations - Exploration/Republic of Pirates.md",
+    "Civilizations - Modern/Meiji Japan.md",
+    "Civilizations - Modern/Joseon.md",
+    "Attributes/Expansionist.md",
+    "Attributes/Cultural.md",
+    "Civilizations - Exploration/Goryeo.md",
+    "Attributes/Diplomatic.md",
+    "Leaders/Yi Sun-sin.md",
+    "Lists/List of Leaders.md",
+    "Lists/List of Civilizations.md",
     "DLC Packs/Collections/Brush and Blade Collection.md",
+    "Attributes/Scientific.md",
+    "Attributes/Militaristic.md",
+    "Civilizations - Modern/Nepal.md",
+    "Civilizations - Exploration/Republic of Pirates.md",
     "Leaders/Toyotomi Hideyoshi.md",
     "Civilizations - Exploration/Sengoku Japan.md",
     "Civilizations - Antiquity/Heian Japan.md",
     "Civilizations - Antiquity/Han.md",
-    "Civilizations - Modern/Nepal.md",
     "Civilizations - Modern/Ottomans.md",
     "Civilizations - Modern/Qajar.md",
     "Civilizations - Modern/Siam.md",
     "Civilizations - Exploration/Iceland.md",
     "Civilizations - Antiquity/Tonga.md",
     "Civilizations - Antiquity/Silla Korea.md",
-    "Attributes/Cultural.md",
     "Civilizations - Exploration/Bulgaria.md",
     "Civilizations - Modern/Mughal.md",
-    "Civilizations - Modern/Mexico.md",
-    "Templates/Civilization – Exploration.md",
-    "Templates/Civilization – Modern.md",
-    "Civilizations - Modern/Russia.md",
-    "Civilizations - Modern/Qing.md",
-    "Civilizations - Modern/Prussia.md",
-    "Civilizations - Modern/Meiji Japan.md",
-    "Civilizations - Modern/Joseon.md",
-    "Civilizations - Modern/Great Britain.md",
-    "Civilizations - Modern/French Empire.md",
     "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
     "Untitled.base",
     "Templates",

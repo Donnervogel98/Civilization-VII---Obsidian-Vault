@@ -52,6 +52,7 @@ Militaristic Leaders gain access to the below upon reaching the appropriate leve
 - [[Toyotomi Hideyoshi]]
 - [[Trung Trac]]
 - [[Xerxes, King of Kings]]
+- [[Yi Sun-sin]]
 
 #### Militaristic Civilizations
 - Antiquity

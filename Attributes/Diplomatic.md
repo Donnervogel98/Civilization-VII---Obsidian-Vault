@@ -70,6 +70,7 @@ Diplomatic Leaders gain access to the below upon reaching the appropriate level 
 	- [[Tonga]]
 - Exploration
 	- [[Chola]]
+	- [[Goryeo]]
 	- [[Norman]]
 	- [[Shawnee]]
 	- [[Sengoku Japan]]
