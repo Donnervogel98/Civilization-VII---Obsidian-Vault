@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civilizations - Modern/Joseon.md",
+                "file": "Leaders/Yi Sun-sin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Joseon"
+              "title": "Yi Sun-sin"
             }
           }
         ]
@@ -33,7 +33,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Civilizations - Modern/Joseon.md",
+                "file": "Leaders/Yi Sun-sin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "tag:#Civilization OR tag:#Leader",
@@ -125,7 +125,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Joseon"
+              "title": "Graph of Yi Sun-sin"
             }
           }
         ]
@@ -305,11 +305,15 @@
   },
   "active": "d8a6453b481c33f6",
   "lastOpenFiles": [
-    "Civilizations - Modern/Meiji Japan.md",
     "Civilizations - Modern/Joseon.md",
+    "Civilizations - Exploration/Goryeo.md",
+    "Civilizations - Exploration/Majapahit.md",
+    "Civilizations - Exploration/Sengoku Japan.md",
+    "Civilizations - Modern/Ottomans.md",
+    "Civilizations - Modern/Buganda.md",
+    "Civilizations - Modern/Meiji Japan.md",
     "Attributes/Expansionist.md",
     "Attributes/Cultural.md",
-    "Civilizations - Exploration/Goryeo.md",
     "Attributes/Diplomatic.md",
     "Leaders/Yi Sun-sin.md",
     "Lists/List of Leaders.md",
@@ -320,17 +324,13 @@
     "Civilizations - Modern/Nepal.md",
     "Civilizations - Exploration/Republic of Pirates.md",
     "Leaders/Toyotomi Hideyoshi.md",
-    "Civilizations - Exploration/Sengoku Japan.md",
     "Civilizations - Antiquity/Heian Japan.md",
     "Civilizations - Antiquity/Han.md",
-    "Civilizations - Modern/Ottomans.md",
     "Civilizations - Modern/Qajar.md",
     "Civilizations - Modern/Siam.md",
     "Civilizations - Exploration/Iceland.md",
     "Civilizations - Antiquity/Tonga.md",
     "Civilizations - Antiquity/Silla Korea.md",
-    "Civilizations - Exploration/Bulgaria.md",
-    "Civilizations - Modern/Mughal.md",
     "SyncToy_e6c42db9-43d8-4f46-a815-9001a353b91b.dat",
     "Untitled.base",
     "Templates",
